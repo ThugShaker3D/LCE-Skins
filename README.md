@@ -1,2 +1,7 @@
-# LCE-Skins
-Legacy Console Edition Skins for Bedrock Skins. Very Wow
+# Legacy Console Edition Skin Packs for Bedrock Skins  
+Contributors:  
+Me  
+Myself  
+I  
+
+Coming to modrinth
