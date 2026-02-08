@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Halloween Charity Skin Pack",
+    "description": "from Minecraft: Xbox 360 Edition",
+    "uuid": "ce34bf9b-b77c-4d44-99f2-0e6535223750",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "f1548a54-21ec-49b2-afd6-05acad7847a5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

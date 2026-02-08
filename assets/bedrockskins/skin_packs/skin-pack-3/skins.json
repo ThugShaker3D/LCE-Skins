@@ -1,0 +1,276 @@
+{
+  "serialize_name": "sp3e",
+  "localization_name": "sp3e",
+  "skins": [
+    {
+      "localization_name": "Castaway",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Castaway.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vagrant",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vagrant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Carpenter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Carpenter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blacksmith",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Blacksmith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scribe",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scribe.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Watchman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Watchman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Farm_Girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Farm_Girl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Peasant",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Peasant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Baron",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Baron.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Pigman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie_Pigman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie_Herobrine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cow_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cow_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skeleton_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skeleton_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Conker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Conker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lonestar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lonestar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clunk",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clunk.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yuri",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yuri.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pen_Yen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pen_Yen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bomack",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bomack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zephyr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zephyr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Juan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Juan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CommanderVideo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CommanderVideo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Coach",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Coach.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nick",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rochelle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rochelle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ellis",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ellis.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Headcrab_Scientist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Headcrab_Scientist.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gordon_Freeman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gordon_Freeman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Barney_Calhoun",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Barney_Calhoun.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dr_Rosenberg",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dr_Rosenberg.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chell",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chell.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Atlas",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Atlas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "P-Body",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "P-Body.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_G-Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_G-Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alyx_Vance",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alyx_Vance.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eli_Vance",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eli_Vance.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ittle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ittle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Joe_Danger",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Joe_Danger.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Gunstringer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Gunstringer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Agent",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PeaceKeeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PeaceKeeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Commando",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Commando.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ivan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ivan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dishwasher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dishwasher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chef",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Chef.png",
+      "type": "free"
+    }
+  ]
+}

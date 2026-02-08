@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      79
+    ],
+    "name": "Greek Mythology Mash-up",
+    "uuid": "eb56144f-dc3e-4f40-ad33-1efddc3cab24"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        79
+      ],
+      "type": "skin_pack",
+      "uuid": "4beaad63-9dac-412f-a450-248b35cb9aa7"
+    }
+  ],
+  "format_version": 1
+}

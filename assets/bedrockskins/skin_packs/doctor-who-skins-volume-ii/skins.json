@@ -1,0 +1,314 @@
+{
+  "serialize_name": "drwhoii",
+  "localization_name": "drwhoii",
+  "skins": [
+    {
+      "localization_name": "The_Tenth_Doctor",
+      "geometry": "geometry.The_Tenth_Doctor",
+      "texture": "The_Tenth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Tenth_Doctor_Suit",
+      "geometry": "geometry.The_Tenth_Doctor_Suit",
+      "texture": "The_Tenth_Doctor_Suit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Eighth_Doctor",
+      "geometry": "geometry.The_Eighth_Doctor",
+      "texture": "The_Eighth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Seventh_Doctor",
+      "geometry": "geometry.The_Seventh_Doctor",
+      "texture": "The_Seventh_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Fifth_Doctor",
+      "geometry": "geometry.The_Fifth_Doctor",
+      "texture": "The_Fifth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Third_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Third_Doctor.png",
+      "cape": "The_Third_Doctor_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Second_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Second_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Donna_Noble",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Donna_Noble.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Martha_Jones",
+      "geometry": "geometry.Martha_Jones",
+      "texture": "Martha_Jones.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain_Jack_Harkness",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain_Jack_Harkness.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Liz_Shaw",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Liz_Shaw.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jamie_McCrimmon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jamie_McCrimmon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ace",
+      "geometry": "geometry.Ace",
+      "texture": "Ace.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jo_Grant",
+      "geometry": "geometry.Jo_Grant",
+      "texture": "Jo_Grant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tegan_Jovanka",
+      "geometry": "geometry.Tegan_Jovanka",
+      "texture": "Tegan_Jovanka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wilfred_Mott",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wilfred_Mott.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mickey_Smith",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mickey_Smith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Master_2007",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Master_2007.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sontaran_2010",
+      "geometry": "geometry.Sontaran_2010",
+      "texture": "Sontaran_2010.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "K9",
+      "geometry": "geometry.K9",
+      "texture": "K9.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Brigadier_Lethbridge_Stewart",
+      "geometry": "geometry.Brigadier_Lethbridge_Stewart",
+      "texture": "Brigadier_Lethbridge_Stewart.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bannakaffalatta",
+      "geometry": "geometry.Bannakaffalatta",
+      "texture": "Bannakaffalatta.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Judoon",
+      "geometry": "geometry.Judoon",
+      "texture": "Judoon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sycorax",
+      "geometry": "geometry.Sycorax",
+      "texture": "Sycorax.png",
+      "cape": "Sycorax_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CyberKing_Miss_Hartigan",
+      "geometry": "geometry.CyberKing_Miss_Hartigan",
+      "texture": "CyberKing_Miss_Hartigan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racnoss",
+      "geometry": "geometry.Racnoss",
+      "texture": "Racnoss.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Slitheen",
+      "geometry": "geometry.Slitheen",
+      "texture": "Slitheen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Beast",
+      "geometry": "geometry.The_Beast",
+      "texture": "The_Beast.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rassilon",
+      "geometry": "geometry.Rassilon",
+      "texture": "Rassilon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Heavenly_Host",
+      "geometry": "geometry.Heavenly_Host",
+      "texture": "Heavenly_Host.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scarecrow",
+      "geometry": "geometry.Scarecrow",
+      "texture": "Scarecrow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cybershade",
+      "geometry": "geometry.Cybershade",
+      "texture": "Cybershade.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Azal_the_Daemon",
+      "geometry": "geometry.Azal_the_Daemon",
+      "texture": "Azal_the_Daemon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Axon_Monster",
+      "geometry": "geometry.Axon_Monster",
+      "texture": "Axon_Monster.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Omega",
+      "geometry": "geometry.Omega",
+      "texture": "Omega.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alpha_Centauri",
+      "geometry": "geometry.Alpha_Centauri",
+      "texture": "Alpha_Centauri.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gel_Guard_Plasma_Creature",
+      "geometry": "geometry.Gel_Guard_Plasma_Creature",
+      "texture": "Gel_Guard_Plasma_Creature.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Nimon",
+      "geometry": "geometry.The_Nimon",
+      "texture": "The_Nimon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sutekh",
+      "geometry": "geometry.Sutekh",
+      "texture": "Sutekh.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sea_Devil",
+      "geometry": "geometry.Sea_Devil",
+      "texture": "Sea_Devil.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ood",
+      "geometry": "geometry.Ood",
+      "texture": "Ood.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Saturnynian",
+      "geometry": "geometry.Saturnynian",
+      "texture": "Saturnynian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_2012_Non_Cybus",
+      "geometry": "geometry.Cyberman_2012_Non_Cybus",
+      "texture": "Cyberman_2012_Non_Cybus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_2013",
+      "geometry": "geometry.Cyberman_2013",
+      "texture": "Cyberman_2013.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyber_Lord",
+      "geometry": "geometry.Cyber_Lord",
+      "texture": "Cyber_Lord.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_2006_Cybus",
+      "geometry": "geometry.Cyberman_2006_Cybus",
+      "texture": "Cyberman_2006_Cybus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black_Cyberman_1980s",
+      "geometry": "geometry.Black_Cyberman_1980s",
+      "texture": "Black_Cyberman_1980s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_1980s",
+      "geometry": "geometry.Cyberman_1980s",
+      "texture": "Cyberman_1980s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cybermen_1970s",
+      "geometry": "geometry.Cybermen_1970s",
+      "texture": "Cybermen_1970s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_1960s",
+      "geometry": "geometry.Cyberman_1960s",
+      "texture": "Cyberman_1960s.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyberman_1960s",
+      "geometry": "geometry.Cyberman_1960s",
+      "texture": "Cyberman_1960s.png",
+      "type": "free"
+    }
+  ]
+}

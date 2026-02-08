@@ -1,0 +1,354 @@
+{
+  "serialize_name": "drwhoi",
+  "localization_name": "drwhoi",
+  "skins": [
+    {
+      "localization_name": "The_Twelfth_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Twelfth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clara_Oswald",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clara_Oswald.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Eleventh_Doctor",
+      "geometry": "geometry.The_Eleventh_Doctor",
+      "texture": "The_Eleventh_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Ninth_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Ninth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Sixth_Doctor",
+      "geometry": "geometry.The_Sixth_Doctor",
+      "texture": "The_Sixth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Fourth_Doctor",
+      "geometry": "geometry.The_Fourth_Doctor",
+      "texture": "The_Fourth_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_First_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_First_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_War_Doctor",
+      "geometry": "geometry.The_War_Doctor",
+      "texture": "The_War_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Amy_Pond",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Amy_Pond.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "River_Song",
+      "geometry": "geometry.River_Song",
+      "texture": "River_Song.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rory_Williams",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rory_Williams.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Roman_Rory_Williams",
+      "geometry": "geometry.Roman_Rory_Williams",
+      "texture": "Roman_Rory_Williams.png",
+      "cape": "Roman_Rory_Williams_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Oswin_Oswald",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Oswin_Oswald.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Susan_Foreman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Susan_Foreman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sarah_Jane_Smith",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sarah_Jane_Smith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Melanie_Bush",
+      "geometry": "geometry.Melanie_Bush",
+      "texture": "Melanie_Bush.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rose_Tyler",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rose_Tyler.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Peri_Brown",
+      "geometry": "geometry.Peri_Brown",
+      "texture": "Peri_Brown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Harry_Sullivan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Harry_Sullivan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Romana",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Romana.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kate_Stewart",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kate_Stewart.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate_Captain_Avery",
+      "geometry": "geometry.Pirate_Captain_Avery",
+      "texture": "Pirate_Captain_Avery.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Master",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Master.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Davros",
+      "geometry": "geometry.Davros",
+      "texture": "Davros.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Weeping_Angel",
+      "geometry": "geometry.Weeping_Angel",
+      "texture": "Weeping_Angel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vashta_Nerada",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vashta_Nerada.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clockwork_Robot_1",
+      "geometry": "geometry.Clockwork_Robot_1",
+      "texture": "Clockwork_Robot_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clockwork_Robot_2",
+      "geometry": "geometry.Clockwork_Robot_2",
+      "texture": "Clockwork_Robot_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Empty_Child",
+      "geometry": "geometry.The_Empty_Child",
+      "texture": "The_Empty_Child.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Angel_of_Liberty",
+      "geometry": "geometry.Angel_of_Liberty",
+      "texture": "Angel_of_Liberty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winged_Weeping_Angel",
+      "geometry": "geometry.Winged_Weeping_Angel",
+      "texture": "Winged_Weeping_Angel.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Ice_Warrior",
+      "geometry": "geometry.Ice_Warrior",
+      "texture": "Ice_Warrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ice_Lord",
+      "geometry": "geometry.Ice_Lord",
+      "texture": "Ice_Lord.png",
+      "cape": "Ice_Lord_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Silence",
+      "geometry": "geometry.The_Silence",
+      "texture": "The_Silence.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zygon",
+      "geometry": "geometry.Zygon",
+      "texture": "Zygon.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Silurian_2010",
+      "geometry": "geometry.Silurian_2010",
+      "texture": "Silurian_2010.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snowman",
+      "geometry": "geometry.Snowman",
+      "texture": "Snowman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Headless_Monk",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Headless_Monk.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Impossible_Astronaut",
+      "geometry": "geometry.Impossible_Astronaut",
+      "texture": "Impossible_Astronaut.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Liz_10",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Liz_10.png",
+      "cape": "Liz_10_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vampire_of_Venice",
+      "geometry": "geometry.Vampire_of_Venice",
+      "texture": "Vampire_of_Venice.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Smiler",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Smiler.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shakri",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shakri.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Teselecta_Antibody",
+      "geometry": "geometry.Teselecta_Antibody",
+      "texture": "Teselecta_Antibody.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dalek_Sec",
+      "geometry": "geometry.Dalek_Sec",
+      "texture": "Dalek_Sec.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Valeyard",
+      "geometry": "geometry.The_Valeyard",
+      "texture": "The_Valeyard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "White_Paradigm_Dalek",
+      "geometry": "geometry.White_Paradigm_Dalek",
+      "texture": "White_Paradigm_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blue_Paradigm_Dalek",
+      "geometry": "geometry.Blue_Paradigm_Dalek",
+      "texture": "Blue_Paradigm_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Red_Paradigm_Dalek",
+      "geometry": "geometry.Red_Paradigm_Dalek",
+      "texture": "Red_Paradigm_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yellow_Paradigm_Dalek",
+      "geometry": "geometry.Yellow_Paradigm_Dalek",
+      "texture": "Yellow_Paradigm_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Orange_Paradigm_Dalek",
+      "geometry": "geometry.Orange_Paradigm_Dalek",
+      "texture": "Orange_Paradigm_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Imperial_Dalek",
+      "geometry": "geometry.Imperial_Dalek",
+      "texture": "Imperial_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Original_Skaro_Dalek",
+      "geometry": "geometry.Original_Skaro_Dalek",
+      "texture": "Original_Skaro_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Invasion_Earth_Dalek",
+      "geometry": "geometry.Invasion_Earth_Dalek",
+      "texture": "Invasion_Earth_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Imperial_Guard_Dalek",
+      "geometry": "geometry.Imperial_Guard_Dalek",
+      "texture": "Imperial_Guard_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Special_Weapons_Dalek",
+      "geometry": "geometry.Special_Weapons_Dalek",
+      "texture": "Special_Weapons_Dalek.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Supreme_Red_Dalek",
+      "geometry": "geometry.Supreme_Red_Dalek",
+      "texture": "Supreme_Red_Dalek.png",
+      "type": "free"
+    }
+  ]
+}

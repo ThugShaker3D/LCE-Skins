@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      79
+    ],
+    "description": "pack.description",
+    "name": "Halo Mash-up",
+    "uuid": "0aa40ff9-579c-4d62-b954-79d62a19d20d"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        79
+      ],
+      "type": "skin_pack",
+      "uuid": "860b43cc-e8d1-4748-a442-26c9147d05ff"
+    }
+  ],
+  "format_version": 1
+}

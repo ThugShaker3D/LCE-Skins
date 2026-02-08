@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      74
+    ],
+    "name": "Fallout Mash-up",
+    "uuid": "8538b365-553c-4bf6-b133-7953e48fb697"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        74
+      ],
+      "type": "skin_pack",
+      "uuid": "18d0199d-c2af-4e0f-bbe9-62a92ee28a5d"
+    }
+  ],
+  "format_version": 1
+}

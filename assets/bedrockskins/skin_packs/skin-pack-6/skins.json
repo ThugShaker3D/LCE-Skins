@@ -1,0 +1,277 @@
+{
+  "serialize_name": "sp6",
+  "localization_name": "sp6",
+  "skins": [
+    {
+      "localization_name": "Jago",
+      "geometry": "geometry.Jago",
+      "texture": "Jago.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sabrewulf",
+      "geometry": "geometry.Sabrewulf",
+      "texture": "Sabrewulf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Glacius",
+      "geometry": "geometry.Glacius",
+      "texture": "Glacius.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Thunder",
+      "geometry": "geometry.Thunder",
+      "texture": "Thunder.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sadira",
+      "geometry": "geometry.Sadira",
+      "texture": "Sadira.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Orchid",
+      "geometry": "geometry.Orchid",
+      "texture": "Orchid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spinal",
+      "geometry": "geometry.Spinal",
+      "texture": "Spinal.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fulgore",
+      "geometry": "geometry.Fulgore",
+      "texture": "Fulgore.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Horse_Suit",
+      "geometry": "geometry.Horse_Suit",
+      "texture": "Horse_Suit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Villager_Priest",
+      "geometry": "geometry.Villager_Priest",
+      "texture": "Villager_Priest.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Villager_Butcher",
+      "geometry": "geometry.Villager_Butcher",
+      "texture": "Villager_Butcher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Villager_Librarian",
+      "geometry": "geometry.Villager_Librarian",
+      "texture": "Villager_Librarian.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Villager_Blacksmith",
+      "geometry": "geometry.Villager_Blacksmith",
+      "texture": "Villager_Blacksmith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Villager_Zombie",
+      "geometry": "geometry.Villager_Zombie",
+      "texture": "Villager_Zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawke_Female",
+      "geometry": "geometry.Hawke_Female",
+      "texture": "Hawke_Female.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hawke_Male",
+      "geometry": "geometry.Hawke_Male",
+      "texture": "Hawke_Male.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Flemeth",
+      "geometry": "geometry.Flemeth",
+      "texture": "Flemeth.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Varric_Tethras",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Varric_Tethras.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fenris",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fenris.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Isabela",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Isabela.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Merrill",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Merrill.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Marcus_Campbell",
+      "geometry": "geometry.Marcus_Campbell",
+      "texture": "Marcus_Campbell.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Maya_Torres",
+      "geometry": "geometry.Maya_Torres",
+      "texture": "Maya_Torres.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ed_Jones",
+      "geometry": "geometry.Ed_Jones",
+      "texture": "Ed_Jones.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shark_Hoodie_Guy",
+      "geometry": "geometry.Shark_Hoodie_Guy",
+      "texture": "Shark_Hoodie_Guy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Doc_Hanson",
+      "geometry": "geometry.Doc_Hanson",
+      "texture": "Doc_Hanson.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jean_Rambois",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jean_Rambois.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Aimy_McKillin",
+      "geometry": "geometry.Aimy_McKillin",
+      "texture": "Aimy_McKillin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jef_Leppard",
+      "geometry": "geometry.Jef_Leppard",
+      "texture": "Jef_Leppard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shieldy_Blockerson",
+      "geometry": "geometry.Shieldy_Blockerson",
+      "cape": "Shieldy_Blockerson_cape.png",
+      "texture": "Shieldy_Blockerson.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Commander_Repeatski",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Commander_Repeatski.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zackasaurus",
+      "geometry": "geometry.Zackasaurus",
+      "texture": "Zackasaurus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Teen_Girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Teen_Girl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Teen_Boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Teen_Boy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "US_Soldier",
+      "geometry": "geometry.US_Soldier",
+      "texture": "US_Soldier.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "British_Special_Forces",
+      "geometry": "geometry.British_Special_Forces",
+      "texture": "British_Special_Forces.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "US_Special_Forces",
+      "geometry": "geometry.US_Special_Forces",
+      "texture": "US_Special_Forces.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Russian_Special_Forces",
+      "geometry": "geometry.Russian_Special_Forces",
+      "texture": "Russian_Special_Forces.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Modern_Pirate",
+      "geometry": "geometry.Modern_Pirate",
+      "texture": "Modern_Pirate.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Anarchist_Rioter",
+      "geometry": "geometry.Anarchist_Rioter",
+      "texture": "Anarchist_Rioter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rebel_Fighter",
+      "geometry": "geometry.Rebel_Fighter",
+      "texture": "Rebel_Fighter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Republican_Guard",
+      "geometry": "geometry.Republican_Guard",
+      "texture": "Republican_Guard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Faith",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Faith.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tech_Boy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tech_Boy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dirt_Runner",
+      "geometry": "geometry.Dirt_Runner",
+      "texture": "Dirt_Runner.png",
+      "type": "free"
+    }
+  ]
+}

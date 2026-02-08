@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      76
+    ],
+    "description": "pack.description",
+    "name": "Halloween Mash-up",
+    "uuid": "c5a36057-4549-4525-bb4b-6632746f3700"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        76
+      ],
+      "type": "skin_pack",
+      "uuid": "a6e00457-1503-478c-9f91-77d6f6ef7706"
+    }
+  ],
+  "format_version": 1
+}

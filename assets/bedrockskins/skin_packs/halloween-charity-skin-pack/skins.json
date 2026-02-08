@@ -1,0 +1,361 @@
+{
+  "serialize_name": "hcharity",
+  "localization_name": "hcharity",
+  "skins": [
+    {
+      "localization_name": "Vampire",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vampire.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Grim_Reaper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Grim_Reaper.png",
+      "cape": "The_Grim_Reaper_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Devil",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Devil.png",
+      "cape": "Devil_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dracula",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dracula.png",
+      "cape": "Dracula_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frankenstein",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Frankenstein.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mummy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mummy.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Werewolf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Werewolf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghost",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghost.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Wizard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Wizard.png",
+      "cape": "Evil_Wizard_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bride_of_Dracula",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bride_of_Dracula.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bride_of_Frankenstein",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bride_of_Frankenstein.png",
+      "cape": "Bride_of_Frankenstein_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ghoul",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ghoul.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scary_Clown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scary_Clown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dracula",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dracula.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frankenstein",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Frankenstein.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pumpkin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pumpkin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skeleton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mummy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mummy_2.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Wolfman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wolfman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Businessman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie_Businessman.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclops",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclops.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Clown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Clown.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Robot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Robot.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Vampire_Girl",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Vampire_Girl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Grey",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Grey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Headless_Horseman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Headless_Horseman.png",
+      "cape": "Headless_Horseman_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lizard_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Lizard_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scarecrow",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scarecrow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scary_Nom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scary_Nom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mad_Scientist",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mad_Scientist.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skeleton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Witch_Doctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Witch_Doctor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Robot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Robot_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Jack_Lumber",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie_Jack_Lumber.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Lemmy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Lemmy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Max",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Evil_Max.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gregg_the_Grim_Reaper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Gregg_the_Grim_Reaper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ancient_Mummy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ancient_Mummy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zippy_Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zippy_Zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Lonestar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie_Lonestar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyborg_Pumpkinhead",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyborg_Pumpkinhead.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mara",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mara.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mining_Unit_010",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mining_Unit_010.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jacko",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jacko.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bonny",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bonny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hatty",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hatty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Happy_Zombie_Cleric",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Happy_Zombie_Cleric.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Happy_Zombie_Mage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Happy_Zombie_Mage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Happy_Zombie_Warrior",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Happy_Zombie_Warrior.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain_Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Captain_Zombie.png",
+      "cape": "Captain_Zombie_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Gunstringer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Gunstringer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ms._Splosion_Man_Mask",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ms._Splosion_Man_Mask.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skelly",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skelly.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Splodeton",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Splodeton.png",
+      "type": "free"
+    }
+  ]
+}

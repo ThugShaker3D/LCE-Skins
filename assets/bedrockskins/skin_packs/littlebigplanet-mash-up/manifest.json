@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "LittleBigPlanet Mash-up",
+    "uuid": "9eb2c984-3516-47e7-ab46-89a7fbd18ea1",
+    "version": [
+      1,
+      0,
+      71
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "908720b5-8397-4af2-ae18-e574896e1eb0",
+      "version": [
+        1,
+        0,
+        71
+      ]
+    }
+  ]
+}

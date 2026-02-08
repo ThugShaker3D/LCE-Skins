@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Summer of Arcade Skin Pack",
+    "description": "from Minecraft: Xbox 360 Edition",
+    "uuid": "132f8d79-2d2e-4151-902b-96310e6c9b43",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "5c6282bb-a958-4e75-a4c2-e0937379d679",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

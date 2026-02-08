@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      53
+    ],
+    "description": "pack.description",
+    "name": "Mass Effect Mash-up",
+    "uuid": "e76772b3-dce9-4373-ad55-de4e3fd3c6be"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        53
+      ],
+      "type": "skin_pack",
+      "uuid": "47b2cb60-9f28-47cf-99f6-f08f84f903a6"
+    }
+  ],
+  "format_version": 1
+}

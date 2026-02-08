@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      60
+    ],
+    "name": "Skyrim Mash-up",
+    "uuid": "056cb9fe-1f0a-416e-9f5a-28a5033e36bc"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        60
+      ],
+      "type": "skin_pack",
+      "uuid": "362eabe7-0138-4a46-bcc1-8eac8fc01969"
+    }
+  ],
+  "format_version": 1
+}

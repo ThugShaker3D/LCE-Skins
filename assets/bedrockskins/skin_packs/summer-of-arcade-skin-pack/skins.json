@@ -1,0 +1,102 @@
+{
+  "serialize_name": "soa",
+  "localization_name": "soa",
+  "skins": [
+    {
+      "localization_name": "Paladin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Paladin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Variant",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Variant.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Randall_Wayne",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Randall_Wayne.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stella_Patterson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Stella_Patterson.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skinny_Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Skinny_Zombie.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Female_Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Female_Zombie.png",
+      "animations": {
+        "move.arms": "animation.player.move.arms.zombie"
+      },
+      "type": "free"
+    },
+    {
+      "localization_name": "Wreck",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wreck.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hot_Goblin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hot_Goblin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bunny_Suit_Goblin",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bunny_Suit_Goblin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dust",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Dust.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Fidget",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Fidget.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tony_Hawk",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tony_Hawk.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ollie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ollie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Officer_Dick",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Officer_Dick.png",
+      "type": "free"
+    }
+  ]
+}

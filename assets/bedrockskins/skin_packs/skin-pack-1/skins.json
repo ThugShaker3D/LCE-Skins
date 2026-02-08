@@ -1,0 +1,276 @@
+{
+  "serialize_name": "skinpack1early",
+  "localization_name": "skinpack1early",
+  "skins": [
+    {
+      "localization_name": "Knight_Templar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Knight_Templar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black_Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wizard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wizard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Creeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Squid",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Squid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Herobrine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jack_of_Blades",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jack_of_Blades.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hero",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hero.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Garth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Garth.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reaver",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Reaver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hammer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hammer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Locust_Drone",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Locust_Drone.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cole_Train",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cole_Train.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clayton_Carmine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Clayton_Carmine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Master_Chief",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Master_Chief.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Covenant_Grunt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Covenant_Grunt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Covenant_Brute",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Covenant_Brute.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Banjo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Banjo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Grunty",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Grunty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bottles",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Bottles.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tooty",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tooty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mumbo_Jumbo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mumbo_Jumbo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Klungo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Klungo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Trials_Rider",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Trials_Rider.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Freestyle",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Freestyle.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Old-School",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Old-School.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Biker",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Biker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Combat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Combat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "'Splosion_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "'Splosion_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scientist_Wilson",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scientist_Wilson.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scientist_Danklef",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scientist_Danklef.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ms._'Splosion_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ms._'Splosion_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mandy_Elite",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mandy_Elite.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nurse",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nurse.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prisoner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Prisoner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Victorian_Swimmer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Victorian_Swimmer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deep_Sea_Diver",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deep_Sea_Diver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "King",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "King.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Queen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Queen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jester",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jester.png",
+      "type": "free"
+    }
+  ]
+}

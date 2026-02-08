@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Skin Pack 4",
+    "description": "from Minecraft: Legacy Console Edition",
+    "uuid": "c28e7f51-1d8c-4dac-a96f-e19b6345d3a4",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "ae5cdc4f-d6b5-4980-9845-55b23537b723",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

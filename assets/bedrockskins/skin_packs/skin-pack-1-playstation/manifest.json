@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Skin Pack 1 (PlayStation) (Early)",
+    "description": "from Minecraft: PlayStation 3/4 Edition",
+    "uuid": "9f7f1300-9505-40d9-a11c-ea382ade51ad",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "4697491a-6bb3-4a02-8bc2-afaedb512e54",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      75
+    ],
+    "name": "Adventure Time Mash-up",
+    "description": "pack.description",
+    "uuid": "09469a70-cea0-458e-a0d9-9025453cf2c6"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        75
+      ],
+      "type": "skin_pack",
+      "uuid": "17e51a2b-2ea2-4ace-8ad3-a85483b8847c"
+    }
+  ],
+  "format_version": 1
+}

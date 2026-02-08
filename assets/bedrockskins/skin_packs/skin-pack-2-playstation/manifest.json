@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Skin Pack 2 PlayStation",
+    "description": "from Minecraft: PlayStation 3/4 Edition",
+    "uuid": "453803e6-e6bd-4626-a02c-47fa9c4865d6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "84807360-bb2a-4877-8fce-6eb0fa86f450",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

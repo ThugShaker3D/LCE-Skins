@@ -1,0 +1,276 @@
+{
+  "serialize_name": "sp1psearly",
+  "localization_name": "sp1psearly",
+  "skins": [
+    {
+      "localization_name": "Knight_Templar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Knight_Templar.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Black_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Black_Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Wizard",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Wizard.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Creeper_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Squid_Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Squid_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zombie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Herobrine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tomas_Sevchenko",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tomas_Sevchenko.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rico_Velasquez",
+      "geometry": "geometry.Rico_Velasquez",
+      "texture": "Rico_Velasquez.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jammer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jammer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scolar_Visari",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scolar_Visari.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Helghast_Assault_Infantry",
+      "geometry": "geometry.Helghast_Assault_Infantry",
+      "texture": "Helghast_Assault_Infantry.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Helghast_Snow_Trooper",
+      "geometry": "geometry.Helghast_Snow_Trooper",
+      "texture": "Helghast_Snow_Trooper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sly_Cooper",
+      "geometry": "geometry.Sly_Cooper",
+      "texture": "Sly_Cooper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bentley",
+      "geometry": "geometry.Bentley",
+      "texture": "Bentley.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Murray",
+      "geometry": "geometry.Murray",
+      "texture": "Murray.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Carmelita_Montoya_Fox",
+      "geometry": "geometry.Carmelita_Montoya_Fox",
+      "texture": "Carmelita_Montoya_Fox.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cullan_Gray",
+      "geometry": "geometry.Cullan_Gray",
+      "texture": "Cullan_Gray.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dion_Wells",
+      "geometry": "geometry.Dion_Wells",
+      "texture": "Dion_Wells.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eric_Schweitzer",
+      "geometry": "geometry.Eric_Schweitzer",
+      "texture": "Eric_Schweitzer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chung_Kwan",
+      "geometry": "geometry.Chung_Kwan",
+      "texture": "Chung_Kwan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Park_Yoon_Hee",
+      "geometry": "geometry.Park_Yoon_Hee",
+      "texture": "Park_Yoon_Hee.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ethan_Mars",
+      "geometry": "geometry.Ethan_Mars",
+      "texture": "Ethan_Mars.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Madison_Paige",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Madison_Paige.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Norman_Jayden",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Norman_Jayden.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scott_Shelby",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scott_Shelby.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nathan_Drake",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nathan_Drake.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elena_Fisher",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Elena_Fisher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Eddy_Raja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Eddy_Raja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zoran_Lazarevic",
+      "geometry": "geometry.Zoran_Lazarevic",
+      "texture": "Zoran_Lazarevic.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Joseph_Capelli",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Joseph_Capelli.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nathan_Hale",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nathan_Hale.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Grim",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Grim.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Chimera",
+      "geometry": "geometry.Chimera",
+      "texture": "Chimera.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_3",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Racing_Driver_4",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Racing_Driver_4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nurse",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nurse.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prisoner",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Prisoner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Victorian_Swimmer",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Victorian_Swimmer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Deep_Sea_Diver",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deep_Sea_Diver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "King",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "King.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Queen",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Queen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jester",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jester.png",
+      "type": "free"
+    }
+  ]
+}

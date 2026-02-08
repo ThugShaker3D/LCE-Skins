@@ -1,0 +1,272 @@
+{
+  "serialize_name": "sp2pse",
+  "localization_name": "sp2pse",
+  "skins": [
+    {
+      "localization_name": "Orange_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Orange_Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "General_Akamoto",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "General_Akamoto.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Otus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Otus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Agent_Cobalt",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Agent_Cobalt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zap",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Zap.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Buzz",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Buzz.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Glorg",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Glorg.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Player",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Player.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spelunky_Guy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spelunky_Guy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pilot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pilot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sailor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sailor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pirate",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pirate.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ninja",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ninja.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elf",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Elf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Enderman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Enderman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pig",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Pig.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sheep",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sheep.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Naked_Sheep",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Naked_Sheep.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spider",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Spider.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ratchet",
+      "geometry": "geometry.Ratchet",
+      "texture": "Ratchet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clank",
+      "geometry": "geometry.Clank",
+      "texture": "Clank.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Captain_Qwark",
+      "geometry": "geometry.Captain_Qwark",
+      "texture": "Captain_Qwark.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dr_Nefarious",
+      "geometry": "geometry.Dr_Nefarious",
+      "texture": "Dr_Nefarious.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cole",
+      "geometry": "geometry.Cole",
+      "texture": "Cole.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kessler",
+      "geometry": "geometry.Kessler",
+      "texture": "Kessler.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kuo",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kuo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Nix",
+      "geometry": "geometry.Nix",
+      "texture": "Nix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "The_Beast",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "The_Beast.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robed_Figure_-_Red",
+      "geometry": "geometry.Robed_Figure_-_Red",
+      "texture": "Robed_Figure_-_Red.png",
+      "cape": "Robed_Figure_-_Red_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robed_Figure_-_White",
+      "geometry": "geometry.Robed_Figure_-_White",
+      "texture": "Robed_Figure_-_White.png",
+      "cape": "Robed_Figure_-_White_cape.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ellie",
+      "geometry": "geometry.Ellie",
+      "texture": "Ellie.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Joel",
+      "geometry": "geometry.Joel",
+      "texture": "Joel.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tess",
+      "geometry": "geometry.Tess",
+      "texture": "Tess.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bill",
+      "geometry": "geometry.Bill",
+      "texture": "Bill.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bloater",
+      "geometry": "geometry.Bloater",
+      "texture": "Bloater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Clicker",
+      "geometry": "geometry.Clicker",
+      "texture": "Clicker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kratos",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Kratos.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zeus",
+      "geometry": "geometry.Zeus",
+      "texture": "Zeus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Hades",
+      "geometry": "geometry.Hades",
+      "texture": "Hades.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Athena",
+      "geometry": "geometry.Athena",
+      "texture": "Athena.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gaia",
+      "geometry": "geometry.Gaia",
+      "texture": "Gaia.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Red_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Red_Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blue_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Blue_Knight.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Green_Knight",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Green_Knight.png",
+      "type": "free"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      64
+    ],
+    "name": "Chinese Mythology Mash-up",
+    "uuid": "1b544a7f-098b-41fa-af79-dabb60b215b1"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        64
+      ],
+      "type": "skin_pack",
+      "uuid": "8cd654bf-8979-452d-8e86-d15e30129795"
+    }
+  ],
+  "format_version": 1
+}

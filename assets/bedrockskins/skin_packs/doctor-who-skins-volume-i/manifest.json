@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Doctor Who Skins Volume I",
+    "description": "from Minecraft: Legacy Console Edition",
+    "uuid": "1bbad9a3-427e-476c-a02b-c4f0f99a84da",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "9ded8cde-342f-4258-994e-844e541fc2b9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
