@@ -1,5 +1,5 @@
 {
-  "geometry.from-the-shadows-skin-pack.Bulbo": {
+  "geometry.FromTheShadowsSkinPack.Bulbo": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -948,7 +948,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Gothica": {
+  "geometry.FromTheShadowsSkinPack.Gothica": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1434,7 +1434,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Harbinger": {
+  "geometry.FromTheShadowsSkinPack.Harbinger": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2028,7 +2028,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Hearnoevil": {
+  "geometry.FromTheShadowsSkinPack.Hearnoevil": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2636,7 +2636,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Lurk": {
+  "geometry.FromTheShadowsSkinPack.Lurk": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3279,7 +3279,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Mush": {
+  "geometry.FromTheShadowsSkinPack.Mush": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3783,7 +3783,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Parasite": {
+  "geometry.FromTheShadowsSkinPack.Parasite": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4341,7 +4341,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Patchwork": {
+  "geometry.FromTheShadowsSkinPack.Patchwork": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4917,7 +4917,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Poppy": {
+  "geometry.FromTheShadowsSkinPack.Poppy": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5989,7 +5989,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Seenoevil": {
+  "geometry.FromTheShadowsSkinPack.Seenoevil": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6651,7 +6651,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Speaknoevil": {
+  "geometry.FromTheShadowsSkinPack.Speaknoevil": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7295,7 +7295,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Splinter": {
+  "geometry.FromTheShadowsSkinPack.Splinter": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7942,7 +7942,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Torn": {
+  "geometry.FromTheShadowsSkinPack.Torn": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8607,7 +8607,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Vein": {
+  "geometry.FromTheShadowsSkinPack.Vein": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9465,7 +9465,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Wick": {
+  "geometry.FromTheShadowsSkinPack.Wick": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10452,7 +10452,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.from-the-shadows-skin-pack.Yokai": {
+  "geometry.FromTheShadowsSkinPack.Yokai": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": true,
     "animationArmsOutFront": false,

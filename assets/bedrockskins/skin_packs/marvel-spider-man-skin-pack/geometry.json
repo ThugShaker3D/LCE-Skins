@@ -1,5 +1,5 @@
 {
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packAuntMay": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManAuntMay": {
     "bones": [
       {
         "pivot": [
@@ -345,7 +345,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packBlackCat": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManBlackCat": {
     "bones": [
       {
         "pivot": [
@@ -672,7 +672,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packCarnage": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManCarnage": {
     "bones": [
       {
         "pivot": [
@@ -1610,7 +1610,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packChameleon": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManChameleon": {
     "bones": [
       {
         "pivot": [
@@ -1921,7 +1921,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packDoctorOctopus": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManDoctorOctopus": {
     "bones": [
       {
         "pivot": [
@@ -3130,7 +3130,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packElectro": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManElectro": {
     "bones": [
       {
         "pivot": [
@@ -3782,7 +3782,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packGreenGoblin": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManGreenGoblin": {
     "bones": [
       {
         "pivot": [
@@ -4414,7 +4414,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packGwenStacy": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManGwenStacy": {
     "bones": [
       {
         "pivot": [
@@ -4761,7 +4761,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packHammerhead": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManHammerhead": {
     "bones": [
       {
         "pivot": [
@@ -5072,7 +5072,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packIronSpider": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManIronSpider": {
     "bones": [
       {
         "pivot": [
@@ -5993,7 +5993,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packJJonahJameson": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManJJonahJameson": {
     "bones": [
       {
         "pivot": [
@@ -6304,7 +6304,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packKingpin": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManKingpin": {
     "bones": [
       {
         "pivot": [
@@ -6776,7 +6776,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packKraven": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManKraven": {
     "bones": [
       {
         "pivot": [
@@ -7076,7 +7076,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_Kraven_cape.png",
+    "cape": "MarvelSpiderMan_Kraven_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -7088,7 +7088,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packLizard": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManLizard": {
     "bones": [
       {
         "pivot": [
@@ -7578,7 +7578,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packMaryJaneWatson": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManMaryJaneWatson": {
     "bones": [
       {
         "pivot": [
@@ -7889,7 +7889,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packMenace": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManMenace": {
     "bones": [
       {
         "pivot": [
@@ -8530,7 +8530,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_Menace_cape.png",
+    "cape": "MarvelSpiderMan_Menace_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -8542,7 +8542,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packMisterNegative": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManMisterNegative": {
     "bones": [
       {
         "pivot": [
@@ -8853,7 +8853,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packMorbius": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManMorbius": {
     "bones": [
       {
         "pivot": [
@@ -9153,7 +9153,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_Morbius_cape.png",
+    "cape": "MarvelSpiderMan_Morbius_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -9165,7 +9165,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packMysterio": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManMysterio": {
     "bones": [
       {
         "pivot": [
@@ -9537,7 +9537,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_Mysterio_cape.png",
+    "cape": "MarvelSpiderMan_Mysterio_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -9549,7 +9549,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packRhino": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManRhino": {
     "bones": [
       {
         "pivot": [
@@ -9967,7 +9967,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSandman": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSandman": {
     "bones": [
       {
         "pivot": [
@@ -10710,7 +10710,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packScarletSpiderClassic": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManScarletSpiderClassic": {
     "bones": [
       {
         "pivot": [
@@ -11237,7 +11237,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packScarletSpiderModern": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManScarletSpiderModern": {
     "bones": [
       {
         "pivot": [
@@ -11548,7 +11548,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packScorpion": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManScorpion": {
     "bones": [
       {
         "pivot": [
@@ -12054,7 +12054,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packShocker": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManShocker": {
     "bones": [
       {
         "pivot": [
@@ -12365,7 +12365,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSilverSable": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSilverSable": {
     "bones": [
       {
         "pivot": [
@@ -12746,7 +12746,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderMan": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderMan": {
     "bones": [
       {
         "pivot": [
@@ -13057,7 +13057,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderMan2099": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderMan2099": {
     "bones": [
       {
         "pivot": [
@@ -13501,7 +13501,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_SpiderMan2099_cape.png",
+    "cape": "MarvelSpiderMan_SpiderMan2099_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -13513,7 +13513,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderManBigTime": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderManBigTime": {
     "bones": [
       {
         "pivot": [
@@ -13824,7 +13824,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderManBlacksuit": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderManBlacksuit": {
     "bones": [
       {
         "pivot": [
@@ -14135,7 +14135,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderManFutureFoundation": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderManFutureFoundation": {
     "bones": [
       {
         "pivot": [
@@ -14446,7 +14446,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSpiderManMilesMorales": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSpiderManMilesMorales": {
     "bones": [
       {
         "pivot": [
@@ -14757,7 +14757,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packSuperiorSpiderMan": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManSuperiorSpiderMan": {
     "bones": [
       {
         "pivot": [
@@ -15302,7 +15302,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packVenom": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManVenom": {
     "bones": [
       {
         "pivot": [
@@ -16027,7 +16027,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-spider-man-skin-pack.marvel-spider-man-skin-packVulture": {
+  "geometry.MarvelSpiderMan.MarvelSpiderManVulture": {
     "bones": [
       {
         "pivot": [
@@ -16327,7 +16327,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "marvel-spider-man-skin-pack_Vulture_cape.png",
+    "cape": "MarvelSpiderMan_Vulture_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,

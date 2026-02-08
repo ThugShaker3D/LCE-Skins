@@ -1,5 +1,5 @@
 {
-  "geometry.halloween-costumes-skin-pack.CowCostume": {
+  "geometry.Halloween.CowCostume": {
     "bones": [
       {
         "pivot": [
@@ -485,7 +485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.CreeperCostume": {
+  "geometry.Halloween.CreeperCostume": {
     "bones": [
       {
         "pivot": [
@@ -971,7 +971,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.EndermanCostume": {
+  "geometry.Halloween.EndermanCostume": {
     "bones": [
       {
         "pivot": [
@@ -1457,7 +1457,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.GhastCostume": {
+  "geometry.Halloween.GhastCostume": {
     "bones": [
       {
         "pivot": [
@@ -1943,7 +1943,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.IronGolemCostume": {
+  "geometry.Halloween.IronGolemCostume": {
     "bones": [
       {
         "pivot": [
@@ -2429,7 +2429,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.MooshroomCostume": {
+  "geometry.Halloween.MooshroomCostume": {
     "bones": [
       {
         "pivot": [
@@ -2915,7 +2915,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.OcelotCostume": {
+  "geometry.Halloween.OcelotCostume": {
     "bones": [
       {
         "pivot": [
@@ -3401,7 +3401,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.PigCostume": {
+  "geometry.Halloween.PigCostume": {
     "bones": [
       {
         "pivot": [
@@ -3887,7 +3887,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.PinkSheepCostume": {
+  "geometry.Halloween.PinkSheepCostume": {
     "bones": [
       {
         "pivot": [
@@ -4373,7 +4373,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.RainbowSheepCostume": {
+  "geometry.Halloween.RainbowSheepCostume": {
     "bones": [
       {
         "pivot": [
@@ -4859,7 +4859,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.SkeletonCostume": {
+  "geometry.Halloween.SkeletonCostume": {
     "bones": [
       {
         "pivot": [
@@ -5345,7 +5345,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.SnowGolemCostume": {
+  "geometry.Halloween.SnowGolemCostume": {
     "bones": [
       {
         "pivot": [
@@ -5831,7 +5831,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.SpiderCostume": {
+  "geometry.Halloween.SpiderCostume": {
     "bones": [
       {
         "pivot": [
@@ -6317,7 +6317,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.ZombieCostume": {
+  "geometry.Halloween.ZombieCostume": {
     "bones": [
       {
         "pivot": [
@@ -6803,7 +6803,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.halloween-costumes-skin-pack.ZombiePigmanCostume": {
+  "geometry.Halloween.ZombiePigmanCostume": {
     "bones": [
       {
         "pivot": [

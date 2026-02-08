@@ -1,5 +1,5 @@
 {
-  "geometry.holiday-skin-pack-2015.BadSanta": {
+  "geometry.HolidaySkinPack2015.BadSanta": {
     "bones": [
       {
         "pivot": [
@@ -435,7 +435,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.SkiBibsSlim": {
+  "geometry.HolidaySkinPack2015.SkiBibsSlim": {
     "bones": [
       {
         "pivot": [
@@ -921,7 +921,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ChristmasCreeper": {
+  "geometry.HolidaySkinPack2015.ChristmasCreeper": {
     "bones": [
       {
         "pivot": [
@@ -1357,7 +1357,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ChristmasPudding": {
+  "geometry.HolidaySkinPack2015.ChristmasPudding": {
     "bones": [
       {
         "pivot": [
@@ -1721,7 +1721,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ChristmasSkeleton": {
+  "geometry.HolidaySkinPack2015.ChristmasSkeleton": {
     "bones": [
       {
         "pivot": [
@@ -2157,7 +2157,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ChristmasTree": {
+  "geometry.HolidaySkinPack2015.ChristmasTree": {
     "bones": [
       {
         "pivot": [
@@ -2611,7 +2611,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.FatherXmas": {
+  "geometry.HolidaySkinPack2015.FatherXmas": {
     "bones": [
       {
         "pivot": [
@@ -3222,7 +3222,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.GingerbreadMan": {
+  "geometry.HolidaySkinPack2015.GingerbreadMan": {
     "bones": [
       {
         "pivot": [
@@ -3569,7 +3569,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.GingerbreadWoman": {
+  "geometry.HolidaySkinPack2015.GingerbreadWoman": {
     "bones": [
       {
         "pivot": [
@@ -3916,7 +3916,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.GingerbreadCreeper": {
+  "geometry.HolidaySkinPack2015.GingerbreadCreeper": {
     "bones": [
       {
         "pivot": [
@@ -4402,7 +4402,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.SweaterSteve": {
+  "geometry.HolidaySkinPack2015.SweaterSteve": {
     "bones": [
       {
         "pivot": [
@@ -4888,7 +4888,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.MarleysGhost": {
+  "geometry.HolidaySkinPack2015.MarleysGhost": {
     "bones": [
       {
         "pivot": [
@@ -5199,7 +5199,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.MotherXmas": {
+  "geometry.HolidaySkinPack2015.MotherXmas": {
     "bones": [
       {
         "pivot": [
@@ -5791,7 +5791,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.MrsClaus": {
+  "geometry.HolidaySkinPack2015.MrsClaus": {
     "bones": [
       {
         "pivot": [
@@ -6277,7 +6277,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ParkaSteve": {
+  "geometry.HolidaySkinPack2015.ParkaSteve": {
     "bones": [
       {
         "pivot": [
@@ -6763,7 +6763,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Present": {
+  "geometry.HolidaySkinPack2015.Present": {
     "bones": [
       {
         "pivot": [
@@ -7074,7 +7074,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Snowsuit": {
+  "geometry.HolidaySkinPack2015.Snowsuit": {
     "bones": [
       {
         "pivot": [
@@ -7560,7 +7560,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Rudolph": {
+  "geometry.HolidaySkinPack2015.Rudolph": {
     "bones": [
       {
         "pivot": [
@@ -8189,7 +8189,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.RedElf": {
+  "geometry.HolidaySkinPack2015.RedElf": {
     "bones": [
       {
         "pivot": [
@@ -8589,7 +8589,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Reindeer": {
+  "geometry.HolidaySkinPack2015.Reindeer": {
     "bones": [
       {
         "pivot": [
@@ -9043,7 +9043,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Robin": {
+  "geometry.HolidaySkinPack2015.Robin": {
     "bones": [
       {
         "pivot": [
@@ -9372,7 +9372,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.SantaSteve": {
+  "geometry.HolidaySkinPack2015.SantaSteve": {
     "bones": [
       {
         "pivot": [
@@ -9808,7 +9808,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Santa": {
+  "geometry.HolidaySkinPack2015.Santa": {
     "bones": [
       {
         "pivot": [
@@ -10349,7 +10349,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Scrooge": {
+  "geometry.HolidaySkinPack2015.Scrooge": {
     "bones": [
       {
         "pivot": [
@@ -10660,7 +10660,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.SnowGolem": {
+  "geometry.HolidaySkinPack2015.SnowGolem": {
     "bones": [
       {
         "pivot": [
@@ -10971,7 +10971,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Snowman": {
+  "geometry.HolidaySkinPack2015.Snowman": {
     "bones": [
       {
         "pivot": [
@@ -11389,7 +11389,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.PajamaKidSlim": {
+  "geometry.HolidaySkinPack2015.PajamaKidSlim": {
     "bones": [
       {
         "pivot": [
@@ -11946,7 +11946,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.TastyGingerbread": {
+  "geometry.HolidaySkinPack2015.TastyGingerbread": {
     "bones": [
       {
         "pivot": [
@@ -12485,7 +12485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.Tomte": {
+  "geometry.HolidaySkinPack2015.Tomte": {
     "bones": [
       {
         "pivot": [
@@ -13060,7 +13060,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.GreenElf": {
+  "geometry.HolidaySkinPack2015.GreenElf": {
     "bones": [
       {
         "pivot": [
@@ -13582,7 +13582,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.SweaterAlex": {
+  "geometry.HolidaySkinPack2015.SweaterAlex": {
     "bones": [
       {
         "pivot": [
@@ -14068,7 +14068,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ZombiePudding": {
+  "geometry.HolidaySkinPack2015.ZombiePudding": {
     "bones": [
       {
         "pivot": [
@@ -14432,7 +14432,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.holiday-skin-pack-2015.ZombieTurkey": {
+  "geometry.HolidaySkinPack2015.ZombieTurkey": {
     "bones": [
       {
         "pivot": [

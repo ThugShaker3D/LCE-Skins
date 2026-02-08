@@ -1,5 +1,5 @@
 {
-  "geometry.5th-birthday-skin-pack.Alan": {
+  "geometry.5thBirthday.Alan": {
     "bones": [
       {
         "pivot": [
@@ -485,7 +485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Anne": {
+  "geometry.5thBirthday.Anne": {
     "bones": [
       {
         "pivot": [
@@ -971,7 +971,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Brian": {
+  "geometry.5thBirthday.Brian": {
     "bones": [
       {
         "pivot": [
@@ -1528,7 +1528,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Chris": {
+  "geometry.5thBirthday.Chris": {
     "bones": [
       {
         "pivot": [
@@ -2014,7 +2014,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.ChrisVDK": {
+  "geometry.5thBirthday.ChrisVDK": {
     "bones": [
       {
         "pivot": [
@@ -2500,7 +2500,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.David": {
+  "geometry.5thBirthday.David": {
     "bones": [
       {
         "pivot": [
@@ -2986,7 +2986,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Donald": {
+  "geometry.5thBirthday.Donald": {
     "bones": [
       {
         "pivot": [
@@ -3472,7 +3472,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.George": {
+  "geometry.5thBirthday.George": {
     "bones": [
       {
         "pivot": [
@@ -3958,7 +3958,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Iain": {
+  "geometry.5thBirthday.Iain": {
     "bones": [
       {
         "pivot": [
@@ -4444,7 +4444,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.IronGolemBattler": {
+  "geometry.5thBirthday.IronGolemBattler": {
     "bones": [
       {
         "pivot": [
@@ -5055,7 +5055,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.IronGolemGlider": {
+  "geometry.5thBirthday.IronGolemGlider": {
     "bones": [
       {
         "pivot": [
@@ -5541,7 +5541,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.IronGolemTumbler": {
+  "geometry.5thBirthday.IronGolemTumbler": {
     "bones": [
       {
         "pivot": [
@@ -6027,7 +6027,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.James": {
+  "geometry.5thBirthday.James": {
     "bones": [
       {
         "pivot": [
@@ -6513,7 +6513,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Jonathan": {
+  "geometry.5thBirthday.Jonathan": {
     "bones": [
       {
         "pivot": [
@@ -6999,7 +6999,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Julie": {
+  "geometry.5thBirthday.Julie": {
     "bones": [
       {
         "pivot": [
@@ -7485,7 +7485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Kate": {
+  "geometry.5thBirthday.Kate": {
     "bones": [
       {
         "pivot": [
@@ -8006,7 +8006,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Mark": {
+  "geometry.5thBirthday.Mark": {
     "bones": [
       {
         "pivot": [
@@ -8492,7 +8492,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Michael": {
+  "geometry.5thBirthday.Michael": {
     "bones": [
       {
         "pivot": [
@@ -8978,7 +8978,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Paddy": {
+  "geometry.5thBirthday.Paddy": {
     "bones": [
       {
         "pivot": [
@@ -9464,7 +9464,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Richard": {
+  "geometry.5thBirthday.Richard": {
     "bones": [
       {
         "pivot": [
@@ -9950,7 +9950,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Rory": {
+  "geometry.5thBirthday.Rory": {
     "bones": [
       {
         "pivot": [
@@ -10436,7 +10436,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Scott": {
+  "geometry.5thBirthday.Scott": {
     "bones": [
       {
         "pivot": [
@@ -10922,7 +10922,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Sidney": {
+  "geometry.5thBirthday.Sidney": {
     "bones": [
       {
         "pivot": [
@@ -11408,7 +11408,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Steven": {
+  "geometry.5thBirthday.Steven": {
     "bones": [
       {
         "pivot": [
@@ -11894,7 +11894,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Stuart": {
+  "geometry.5thBirthday.Stuart": {
     "bones": [
       {
         "pivot": [
@@ -12380,7 +12380,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Thomas": {
+  "geometry.5thBirthday.Thomas": {
     "bones": [
       {
         "pivot": [
@@ -12866,7 +12866,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Tom": {
+  "geometry.5thBirthday.Tom": {
     "bones": [
       {
         "pivot": [
@@ -13352,7 +13352,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.5th-birthday-skin-pack.Vince": {
+  "geometry.5thBirthday.Vince": {
     "bones": [
       {
         "pivot": [

@@ -1,5 +1,5 @@
 {
-  "geometry.campfire-tales-skin-pack.Bedlam": {
+  "geometry.CampfireTales.Bedlam": {
     "bones": [
       {
         "pivot": [
@@ -544,7 +544,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.Crisp": {
+  "geometry.CampfireTales.Crisp": {
     "bones": [
       {
         "pivot": [
@@ -1209,7 +1209,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.TheEnderall": {
+  "geometry.CampfireTales.TheEnderall": {
     "bones": [
       {
         "pivot": [
@@ -1737,7 +1737,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.Farlander": {
+  "geometry.CampfireTales.Farlander": {
     "bones": [
       {
         "pivot": [
@@ -2505,7 +2505,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.TheHeadlessHaunter": {
+  "geometry.CampfireTales.TheHeadlessHaunter": {
     "bones": [
       {
         "pivot": [
@@ -3084,7 +3084,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.TheLapisLady": {
+  "geometry.CampfireTales.TheLapisLady": {
     "bones": [
       {
         "pivot": [
@@ -3612,7 +3612,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.LumberingJack": {
+  "geometry.CampfireTales.LumberingJack": {
     "bones": [
       {
         "pivot": [
@@ -4311,7 +4311,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.RancidAnne": {
+  "geometry.CampfireTales.RancidAnne": {
     "bones": [
       {
         "pivot": [
@@ -4840,7 +4840,7 @@
     "textureheight": 64,
     "rigtype": null
   },
-  "geometry.campfire-tales-skin-pack.OlDiggy": {
+  "geometry.CampfireTales.OlDiggy": {
     "bones": [
       {
         "pivot": [
@@ -6135,7 +6135,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.TheArisenRose": {
+  "geometry.CampfireTales.TheArisenRose": {
     "bones": [
       {
         "pivot": [
@@ -6698,7 +6698,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.TheSeaSwallowedCaptain": {
+  "geometry.CampfireTales.TheSeaSwallowedCaptain": {
     "bones": [
       {
         "pivot": [
@@ -7567,7 +7567,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.TheBlocksquatch": {
+  "geometry.CampfireTales.TheBlocksquatch": {
     "bones": [
       {
         "pivot": [
@@ -8350,7 +8350,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.TheUnshorn": {
+  "geometry.CampfireTales.TheUnshorn": {
     "bones": [
       {
         "pivot": [
@@ -9016,7 +9016,7 @@
     "textureheight": 64,
     "rigtype": "female"
   },
-  "geometry.campfire-tales-skin-pack.Silksnatcher": {
+  "geometry.CampfireTales.Silksnatcher": {
     "bones": [
       {
         "pivot": [
@@ -10312,7 +10312,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.Cropsy": {
+  "geometry.CampfireTales.Cropsy": {
     "bones": [
       {
         "pivot": [
@@ -11181,7 +11181,7 @@
     "textureheight": 64,
     "rigtype": "male"
   },
-  "geometry.campfire-tales-skin-pack.TheWellWisher": {
+  "geometry.CampfireTales.TheWellWisher": {
     "bones": [
       {
         "pivot": [

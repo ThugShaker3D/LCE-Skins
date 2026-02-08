@@ -1,5 +1,5 @@
 {
-  "geometry.stranger-things-skin-pack.BarbaraHolland": {
+  "geometry.StrangerThings.BarbaraHolland": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -539,7 +539,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.BarbaraUpsideDown": {
+  "geometry.StrangerThings.BarbaraUpsideDown": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1096,7 +1096,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Billy": {
+  "geometry.StrangerThings.Billy": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1596,7 +1596,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.BobNewby": {
+  "geometry.StrangerThings.BobNewby": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2134,7 +2134,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Demogorgon": {
+  "geometry.StrangerThings.Demogorgon": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3389,7 +3389,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DemogorgonClosedface": {
+  "geometry.StrangerThings.DemogorgonClosedface": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4301,7 +4301,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DrBrenner": {
+  "geometry.StrangerThings.DrBrenner": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4821,7 +4821,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DrSamOwens": {
+  "geometry.StrangerThings.DrSamOwens": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5307,7 +5307,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DustinHenderson": {
+  "geometry.StrangerThings.DustinHenderson": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6151,7 +6151,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DustinHendersonDressUp": {
+  "geometry.StrangerThings.DustinHendersonDressUp": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6905,7 +6905,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DustinHendersonSnowBall": {
+  "geometry.StrangerThings.DustinHendersonSnowBall": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7748,7 +7748,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.DustinHendersonTunnelBandits": {
+  "geometry.StrangerThings.DustinHendersonTunnelBandits": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8589,7 +8589,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenDress": {
+  "geometry.StrangerThings.ElevenDress": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9075,7 +9075,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenLabwear": {
+  "geometry.StrangerThings.ElevenLabwear": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9561,7 +9561,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenPunk": {
+  "geometry.StrangerThings.ElevenPunk": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10136,7 +10136,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenSideBag": {
+  "geometry.StrangerThings.ElevenSideBag": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10819,7 +10819,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenSnowBall": {
+  "geometry.StrangerThings.ElevenSnowBall": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11305,7 +11305,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenTankgear": {
+  "geometry.StrangerThings.ElevenTankgear": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11791,7 +11791,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.ElevenWig": {
+  "geometry.StrangerThings.ElevenWig": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12402,7 +12402,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Funshine": {
+  "geometry.StrangerThings.Funshine": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12941,7 +12941,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.HazmatSuit": {
+  "geometry.StrangerThings.HazmatSuit": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13512,7 +13512,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Hopper": {
+  "geometry.StrangerThings.Hopper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14267,7 +14267,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.HopperBlueJacket": {
+  "geometry.StrangerThings.HopperBlueJacket": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15022,7 +15022,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.HopperGown": {
+  "geometry.StrangerThings.HopperGown": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15777,7 +15777,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.JonathanByers": {
+  "geometry.StrangerThings.JonathanByers": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16263,7 +16263,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.JonathanByersS2": {
+  "geometry.StrangerThings.JonathanByersS2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16749,7 +16749,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.JoyceByersChristmasLightsVersion": {
+  "geometry.StrangerThings.JoyceByersChristmasLightsVersion": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17235,7 +17235,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.JoyceByersS2": {
+  "geometry.StrangerThings.JoyceByersS2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17721,7 +17721,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Kali": {
+  "geometry.StrangerThings.Kali": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18296,7 +18296,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.LucasSinclair": {
+  "geometry.StrangerThings.LucasSinclair": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18887,7 +18887,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.LucasSinclairDressUp": {
+  "geometry.StrangerThings.LucasSinclairDressUp": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19479,7 +19479,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.LucasSinclairTunnelBandits": {
+  "geometry.StrangerThings.LucasSinclairTunnelBandits": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20072,7 +20072,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MauryBauman": {
+  "geometry.StrangerThings.MauryBauman": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20558,7 +20558,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.Max": {
+  "geometry.StrangerThings.Max": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21186,7 +21186,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MaxTunnelBandits": {
+  "geometry.StrangerThings.MaxTunnelBandits": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21886,7 +21886,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MikeWheeler": {
+  "geometry.StrangerThings.MikeWheeler": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22497,7 +22497,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MikeWheelerDressUp": {
+  "geometry.StrangerThings.MikeWheelerDressUp": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23089,7 +23089,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MikeWheelerSnowBall": {
+  "geometry.StrangerThings.MikeWheelerSnowBall": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23628,7 +23628,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MikeWheelerTunnelBandits": {
+  "geometry.StrangerThings.MikeWheelerTunnelBandits": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24167,7 +24167,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.MrClarke": {
+  "geometry.StrangerThings.MrClarke": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24649,7 +24649,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.NancyWheeler": {
+  "geometry.StrangerThings.NancyWheeler": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25170,7 +25170,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.NancyWheelerS2": {
+  "geometry.StrangerThings.NancyWheelerS2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25692,7 +25692,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.NancyWheelerSnowBall": {
+  "geometry.StrangerThings.NancyWheelerSnowBall": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -26316,7 +26316,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.PunkNo2Mohican": {
+  "geometry.StrangerThings.PunkNo2Mohican": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -26853,7 +26853,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.PunkNo3GirlPunk": {
+  "geometry.StrangerThings.PunkNo3GirlPunk": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -27572,7 +27572,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.PunkNo4AfroGirl": {
+  "geometry.StrangerThings.PunkNo4AfroGirl": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -28344,7 +28344,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.SteveHarrington": {
+  "geometry.StrangerThings.SteveHarrington": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -28953,7 +28953,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.SteveHarringtonTunnelBandit": {
+  "geometry.StrangerThings.SteveHarringtonTunnelBandit": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -29760,7 +29760,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.TerryIves": {
+  "geometry.StrangerThings.TerryIves": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -30246,7 +30246,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.WillByers": {
+  "geometry.StrangerThings.WillByers": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -30821,7 +30821,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.WillByersDressUp": {
+  "geometry.StrangerThings.WillByersDressUp": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -31376,7 +31376,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.stranger-things-skin-pack.WillByersUpsideDown": {
+  "geometry.StrangerThings.WillByersUpsideDown": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

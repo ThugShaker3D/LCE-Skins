@@ -1,5 +1,5 @@
 {
-	"geometry.egyptian-mythology-mash-up.Akhenaten": {
+	"geometry.EgyptianMythology.Akhenaten": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -131,7 +131,7 @@
 			}
 		]
 	},
-	"geometry.egyptian-mythology-mash-up.Ammut": {
+	"geometry.EgyptianMythology.Ammut": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -334,7 +334,7 @@
 			}
 		]
 	},
-	"geometry.egyptian-mythology-mash-up.Amun": {
+	"geometry.EgyptianMythology.Amun": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -532,7 +532,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Anicentmummy": {
+	"geometry.EgyptianMythology.Anicentmummy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -718,7 +718,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Anubis": {
+	"geometry.EgyptianMythology.Anubis": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -916,7 +916,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Apep": {
+	"geometry.EgyptianMythology.Apep": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1251,7 +1251,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Ba": {
+	"geometry.EgyptianMythology.Ba": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -1493,7 +1493,7 @@
 			}
 		]
 	},
-	"geometry.egyptian-mythology-mash-up.Bastet": {
+	"geometry.EgyptianMythology.Bastet": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1688,7 +1688,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Bes": {
+	"geometry.EgyptianMythology.Bes": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -1888,7 +1888,7 @@
 			}
 		]
 	},
-	"geometry.egyptian-mythology-mash-up.Cleopatra": {
+	"geometry.EgyptianMythology.Cleopatra": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2163,7 +2163,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Geb": {
+	"geometry.EgyptianMythology.Geb": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2359,7 +2359,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Hathor": {
+	"geometry.EgyptianMythology.Hathor": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2633,7 +2633,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Hatshepsut": {
+	"geometry.EgyptianMythology.Hatshepsut": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2895,7 +2895,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Heka": {
+	"geometry.EgyptianMythology.Heka": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3219,7 +3219,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Hieracosphinx": {
+	"geometry.EgyptianMythology.Hieracosphinx": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3505,7 +3505,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Horus": {
+	"geometry.EgyptianMythology.Horus": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3828,7 +3828,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Isis": {
+	"geometry.EgyptianMythology.Isis": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4032,7 +4032,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Khepri": {
+	"geometry.EgyptianMythology.Khepri": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4328,7 +4328,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Khonsu": {
+	"geometry.EgyptianMythology.Khonsu": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4514,7 +4514,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Kingkhufu": {
+	"geometry.EgyptianMythology.Kingkhufu": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4767,7 +4767,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Maat": {
+	"geometry.EgyptianMythology.Maat": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4953,7 +4953,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Merytneith": {
+	"geometry.EgyptianMythology.Merytneith": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5213,7 +5213,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Mut": {
+	"geometry.EgyptianMythology.Mut": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5407,7 +5407,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Nefertari": {
+	"geometry.EgyptianMythology.Nefertari": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5669,7 +5669,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Nefertiti": {
+	"geometry.EgyptianMythology.Nefertiti": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5923,7 +5923,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Osiris": {
+	"geometry.EgyptianMythology.Osiris": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -6109,7 +6109,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Ptah": {
+	"geometry.EgyptianMythology.Ptah": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -6394,7 +6394,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Ra": {
+	"geometry.EgyptianMythology.Ra": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -6693,7 +6693,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Ramses": {
+	"geometry.EgyptianMythology.Ramses": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -6953,7 +6953,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Seer": {
+	"geometry.EgyptianMythology.Seer": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -7147,7 +7147,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Sekhmet": {
+	"geometry.EgyptianMythology.Sekhmet": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -7413,7 +7413,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Serqet": {
+	"geometry.EgyptianMythology.Serqet": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -7601,7 +7601,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Set": {
+	"geometry.EgyptianMythology.Set": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -7796,7 +7796,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Sobek": {
+	"geometry.EgyptianMythology.Sobek": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -8095,7 +8095,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Sphinx": {
+	"geometry.EgyptianMythology.Sphinx": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -8394,7 +8394,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Thoth": {
+	"geometry.EgyptianMythology.Thoth": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -8583,7 +8583,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Thutmose": {
+	"geometry.EgyptianMythology.Thutmose": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -8770,7 +8770,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.egyptian-mythology-mash-up.Tutankhamun": {
+	"geometry.EgyptianMythology.Tutankhamun": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,

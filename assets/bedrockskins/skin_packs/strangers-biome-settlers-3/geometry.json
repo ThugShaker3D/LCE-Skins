@@ -1,5 +1,5 @@
 {
-  "geometry.strangers-biome-settlers-3.EndArcher": {
+  "geometry.BiomeSettlers03.EndArcher": {
     "bones": [
       {
         "pivot": [
@@ -581,7 +581,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.EndBrawler": {
+  "geometry.BiomeSettlers03.EndBrawler": {
     "bones": [
       {
         "pivot": [
@@ -1271,7 +1271,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.EndBrewer": {
+  "geometry.BiomeSettlers03.EndBrewer": {
     "bones": [
       {
         "pivot": [
@@ -1763,7 +1763,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.EndEngineer": {
+  "geometry.BiomeSettlers03.EndEngineer": {
     "bones": [
       {
         "pivot": [
@@ -2274,7 +2274,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.EndGriefer": {
+  "geometry.BiomeSettlers03.EndGriefer": {
     "bones": [
       {
         "pivot": [
@@ -2856,7 +2856,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.EndHunter": {
+  "geometry.BiomeSettlers03.EndHunter": {
     "bones": [
       {
         "pivot": [
@@ -3367,7 +3367,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.EndTamer": {
+  "geometry.BiomeSettlers03.EndTamer": {
     "bones": [
       {
         "pivot": [
@@ -3877,7 +3877,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.EndZealot": {
+  "geometry.BiomeSettlers03.EndZealot": {
     "bones": [
       {
         "pivot": [
@@ -4438,7 +4438,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandArcher": {
+  "geometry.BiomeSettlers03.FarlandArcher": {
     "bones": [
       {
         "pivot": [
@@ -5358,7 +5358,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandBrawler": {
+  "geometry.BiomeSettlers03.FarlandBrawler": {
     "bones": [
       {
         "pivot": [
@@ -6096,7 +6096,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandBrewer": {
+  "geometry.BiomeSettlers03.FarlandBrewer": {
     "bones": [
       {
         "pivot": [
@@ -6833,7 +6833,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandEngineer": {
+  "geometry.BiomeSettlers03.FarlandEngineer": {
     "bones": [
       {
         "pivot": [
@@ -7446,7 +7446,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandGriefer": {
+  "geometry.BiomeSettlers03.FarlandGriefer": {
     "bones": [
       {
         "pivot": [
@@ -8168,7 +8168,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.FarlandHunter": {
+  "geometry.BiomeSettlers03.FarlandHunter": {
     "bones": [
       {
         "pivot": [
@@ -9106,7 +9106,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandMiner": {
+  "geometry.BiomeSettlers03.FarlandMiner": {
     "bones": [
       {
         "pivot": [
@@ -9936,7 +9936,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.FarlandTamer": {
+  "geometry.BiomeSettlers03.FarlandTamer": {
     "bones": [
       {
         "pivot": [
@@ -10513,7 +10513,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.FarlandZealot": {
+  "geometry.BiomeSettlers03.FarlandZealot": {
     "bones": [
       {
         "pivot": [
@@ -11161,7 +11161,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.OceanArcher": {
+  "geometry.BiomeSettlers03.OceanArcher": {
     "bones": [
       {
         "pivot": [
@@ -11978,7 +11978,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.OceanBrawler": {
+  "geometry.BiomeSettlers03.OceanBrawler": {
     "bones": [
       {
         "pivot": [
@@ -13062,7 +13062,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.OceanBrewer": {
+  "geometry.BiomeSettlers03.OceanBrewer": {
     "bones": [
       {
         "pivot": [
@@ -14037,7 +14037,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.OceanEngineer": {
+  "geometry.BiomeSettlers03.OceanEngineer": {
     "bones": [
       {
         "pivot": [
@@ -14926,7 +14926,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.OceanGriefer": {
+  "geometry.BiomeSettlers03.OceanGriefer": {
     "bones": [
       {
         "pivot": [
@@ -15671,7 +15671,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.strangers-biome-settlers-3.OceanHunter": {
+  "geometry.BiomeSettlers03.OceanHunter": {
     "bones": [
       {
         "pivot": [
@@ -16504,7 +16504,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.OceanTamer": {
+  "geometry.BiomeSettlers03.OceanTamer": {
     "bones": [
       {
         "pivot": [
@@ -17479,7 +17479,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.strangers-biome-settlers-3.OceanZealot": {
+  "geometry.BiomeSettlers03.OceanZealot": {
     "bones": [
       {
         "pivot": [

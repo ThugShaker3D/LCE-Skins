@@ -1,5 +1,5 @@
 {
-	"geometry.skyrim-mash-up.skyrim-mash-upAelatheHuntress": {
+	"geometry.Skyrim.SkyrimAelatheHuntress": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -75,7 +75,7 @@
 			}
 		]
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upAncano": {
+	"geometry.Skyrim.SkyrimAncano": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -190,7 +190,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upArgonianFighter": {
+	"geometry.Skyrim.SkyrimArgonianFighter": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -317,7 +317,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upArgonianMage": {
+	"geometry.Skyrim.SkyrimArgonianMage": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -444,7 +444,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upAstrid": {
+	"geometry.Skyrim.SkyrimAstrid": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -559,7 +559,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upBretonMage": {
+	"geometry.Skyrim.SkyrimBretonMage": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -674,7 +674,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDarkElfAssassin": {
+	"geometry.Skyrim.SkyrimDarkElfAssassin": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -789,7 +789,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDarkElfMage": {
+	"geometry.Skyrim.SkyrimDarkElfMage": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -904,7 +904,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDragonbornFemale": {
+	"geometry.Skyrim.SkyrimDragonbornFemale": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1036,7 +1036,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDragonbornMale": {
+	"geometry.Skyrim.SkyrimDragonbornMale": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1168,7 +1168,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDragonPriest": {
+	"geometry.Skyrim.SkyrimDragonPriest": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1283,7 +1283,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDraugrDeathlord": {
+	"geometry.Skyrim.SkyrimDraugrDeathlord": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1411,7 +1411,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDremoraLord": {
+	"geometry.Skyrim.SkyrimDremoraLord": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1541,7 +1541,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upDwarvenCenturion": {
+	"geometry.Skyrim.SkyrimDwarvenCenturion": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1656,7 +1656,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upElenwen": {
+	"geometry.Skyrim.SkyrimElenwen": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1771,7 +1771,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upFlameAtronach": {
+	"geometry.Skyrim.SkyrimFlameAtronach": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1886,7 +1886,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upForswornShaman": {
+	"geometry.Skyrim.SkyrimForswornShaman": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2001,7 +2001,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upFrostTroll": {
+	"geometry.Skyrim.SkyrimFrostTroll": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2116,7 +2116,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upGreybeard": {
+	"geometry.Skyrim.SkyrimGreybeard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2232,7 +2232,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upHagraven": {
+	"geometry.Skyrim.SkyrimHagraven": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2347,7 +2347,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upImperialSoldier": {
+	"geometry.Skyrim.SkyrimImperialSoldier": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2462,7 +2462,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upIsran": {
+	"geometry.Skyrim.SkyrimIsran": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2578,7 +2578,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upKhajiitMerchant": {
+	"geometry.Skyrim.SkyrimKhajiitMerchant": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2716,7 +2716,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upLydia": {
+	"geometry.Skyrim.SkyrimLydia": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2831,7 +2831,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upMaiqtheLiar": {
+	"geometry.Skyrim.SkyrimMaiqtheLiar": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2969,7 +2969,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upMasterNecromancer": {
+	"geometry.Skyrim.SkyrimMasterNecromancer": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3084,7 +3084,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upNazir": {
+	"geometry.Skyrim.SkyrimNazir": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3188,7 +3188,7 @@
 		"textureheight": 64,
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal",
-		"cape": "skyrim-mash-upNazir_cape.png",
+		"cape": "SkyrimNazir_cape.png",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
 		"animationStatueOfLibertyArms": false,
@@ -3200,122 +3200,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upOrcBlacksmith": {
-		"bones": [
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "body",
-				"parent": null
-			},
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [0, 0], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "head",
-				"parent": null
-			},
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [32, 0], "inflate": 0.5, "mirror": false}
-				],
-				"META_BoneType": "clothing",
-				"name": "hat",
-				"parent": "head"
-			},
-			{
-				"pivot": [-5, 22, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": false}
-				],
-        "locators": {
-					"lead_hold": [-6, 14.5, 0]
-				},
-				"META_BoneType": "base",
-				"name": "rightArm",
-				"parent": null
-			},
-			{
-				"pivot": [5, 22, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [4, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": true}
-				],
-				"META_BoneType": "base",
-				"name": "leftArm",
-				"parent": null
-			},
-			{
-				"pivot": [-1.9, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "rightLeg",
-				"parent": null
-			},
-			{
-				"pivot": [1.9, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": true}
-				],
-				"META_BoneType": "base",
-				"name": "leftLeg",
-				"parent": null
-			},
-			{
-				"pivot": [0, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "armor_offset",
-				"name": "waist",
-				"parent": "body"
-			},
-			{
-				"pivot": [-6, 15, 1],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "item",
-				"name": "rightItem",
-				"parent": "rightArm"
-			},
-			{
-				"pivot": [6, 15, 1],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "item",
-				"name": "leftItem",
-				"parent": "leftArm"
-			}
-		],
-		"texturewidth": 64,
-		"textureheight": 64,
-		"META_ModelVersion": "1.0.6",
-		"rigtype": "normal",
-		"animationArmsDown": false,
-		"animationArmsOutFront": false,
-		"animationStatueOfLibertyArms": false,
-		"animationSingleArmAnimation": false,
-		"animationStationaryLegs": false,
-		"animationSingleLegAnimation": false,
-		"animationNoHeadBob": false,
-		"animationDontShowArmor": false,
-		"animationUpsideDown": false,
-		"animationInvertedCrouch": false
-	},
-	"geometry.skyrim-mash-up.skyrim-mash-upOrcWarriorFemale": {
+	"geometry.Skyrim.SkyrimOrcBlacksmith": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3430,7 +3315,122 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upOrcWarriorMale": {
+	"geometry.Skyrim.SkyrimOrcWarriorFemale": {
+		"bones": [
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "body",
+				"parent": null
+			},
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [0, 0], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "head",
+				"parent": null
+			},
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [32, 0], "inflate": 0.5, "mirror": false}
+				],
+				"META_BoneType": "clothing",
+				"name": "hat",
+				"parent": "head"
+			},
+			{
+				"pivot": [-5, 22, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": false}
+				],
+        "locators": {
+					"lead_hold": [-6, 14.5, 0]
+				},
+				"META_BoneType": "base",
+				"name": "rightArm",
+				"parent": null
+			},
+			{
+				"pivot": [5, 22, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [4, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": true}
+				],
+				"META_BoneType": "base",
+				"name": "leftArm",
+				"parent": null
+			},
+			{
+				"pivot": [-1.9, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "rightLeg",
+				"parent": null
+			},
+			{
+				"pivot": [1.9, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": true}
+				],
+				"META_BoneType": "base",
+				"name": "leftLeg",
+				"parent": null
+			},
+			{
+				"pivot": [0, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "armor_offset",
+				"name": "waist",
+				"parent": "body"
+			},
+			{
+				"pivot": [-6, 15, 1],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "item",
+				"name": "rightItem",
+				"parent": "rightArm"
+			},
+			{
+				"pivot": [6, 15, 1],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "item",
+				"name": "leftItem",
+				"parent": "leftArm"
+			}
+		],
+		"texturewidth": 64,
+		"textureheight": 64,
+		"META_ModelVersion": "1.0.6",
+		"rigtype": "normal",
+		"animationArmsDown": false,
+		"animationArmsOutFront": false,
+		"animationStatueOfLibertyArms": false,
+		"animationSingleArmAnimation": false,
+		"animationStationaryLegs": false,
+		"animationSingleLegAnimation": false,
+		"animationNoHeadBob": false,
+		"animationDontShowArmor": false,
+		"animationUpsideDown": false,
+		"animationInvertedCrouch": false
+	},
+	"geometry.Skyrim.SkyrimOrcWarriorMale": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3545,7 +3545,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upSaadia": {
+	"geometry.Skyrim.SkyrimSaadia": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3660,7 +3660,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upSheogorath": {
+	"geometry.Skyrim.SkyrimSheogorath": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3775,7 +3775,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upSpriggan": {
+	"geometry.Skyrim.SkyrimSpriggan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3905,7 +3905,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upStormcloakSoldier": {
+	"geometry.Skyrim.SkyrimStormcloakSoldier": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4032,7 +4032,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upVampireLord": {
+	"geometry.Skyrim.SkyrimVampireLord": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4136,7 +4136,7 @@
 		"textureheight": 64,
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal",
-		"cape": "skyrim-mash-upVampireLord_cape.png",
+		"cape": "SkyrimVampireLord_cape.png",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
 		"animationStatueOfLibertyArms": false,
@@ -4148,122 +4148,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upVex": {
-		"bones": [
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "body",
-				"parent": null
-			},
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [0, 0], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "head",
-				"parent": null
-			},
-			{
-				"pivot": [0, 24, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [32, 0], "inflate": 0.5, "mirror": false}
-				],
-				"META_BoneType": "clothing",
-				"name": "hat",
-				"parent": "head"
-			},
-			{
-				"pivot": [-5, 22, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": false}
-				],
-        "locators": {
-					"lead_hold": [-6, 14.5, 0]
-				},
-				"META_BoneType": "base",
-				"name": "rightArm",
-				"parent": null
-			},
-			{
-				"pivot": [5, 22, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [4, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": true}
-				],
-				"META_BoneType": "base",
-				"name": "leftArm",
-				"parent": null
-			},
-			{
-				"pivot": [-1.9, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": false}
-				],
-				"META_BoneType": "base",
-				"name": "rightLeg",
-				"parent": null
-			},
-			{
-				"pivot": [1.9, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [
-					{"origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": true}
-				],
-				"META_BoneType": "base",
-				"name": "leftLeg",
-				"parent": null
-			},
-			{
-				"pivot": [0, 12, 0],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "armor_offset",
-				"name": "waist",
-				"parent": "body"
-			},
-			{
-				"pivot": [-6, 15, 1],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "item",
-				"name": "rightItem",
-				"parent": "rightArm"
-			},
-			{
-				"pivot": [6, 15, 1],
-				"rotation": [0, 0, 0],
-				"cubes": [],
-				"META_BoneType": "item",
-				"name": "leftItem",
-				"parent": "leftArm"
-			}
-		],
-		"texturewidth": 64,
-		"textureheight": 64,
-		"META_ModelVersion": "1.0.6",
-		"rigtype": "normal",
-		"animationArmsDown": false,
-		"animationArmsOutFront": false,
-		"animationStatueOfLibertyArms": false,
-		"animationSingleArmAnimation": false,
-		"animationStationaryLegs": false,
-		"animationSingleLegAnimation": false,
-		"animationNoHeadBob": false,
-		"animationDontShowArmor": false,
-		"animationUpsideDown": false,
-		"animationInvertedCrouch": false
-	},
-	"geometry.skyrim-mash-up.skyrim-mash-upVilkas": {
+	"geometry.Skyrim.SkyrimVex": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4378,7 +4263,122 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upWispmother": {
+	"geometry.Skyrim.SkyrimVilkas": {
+		"bones": [
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 12, -2], "size": [8, 12, 4], "uv": [16, 16], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "body",
+				"parent": null
+			},
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [0, 0], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "head",
+				"parent": null
+			},
+			{
+				"pivot": [0, 24, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-4, 24, -4], "size": [8, 8, 8], "uv": [32, 0], "inflate": 0.5, "mirror": false}
+				],
+				"META_BoneType": "clothing",
+				"name": "hat",
+				"parent": "head"
+			},
+			{
+				"pivot": [-5, 22, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-8, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": false}
+				],
+        "locators": {
+					"lead_hold": [-6, 14.5, 0]
+				},
+				"META_BoneType": "base",
+				"name": "rightArm",
+				"parent": null
+			},
+			{
+				"pivot": [5, 22, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [4, 12, -2], "size": [4, 12, 4], "uv": [40, 16], "inflate": 0, "mirror": true}
+				],
+				"META_BoneType": "base",
+				"name": "leftArm",
+				"parent": null
+			},
+			{
+				"pivot": [-1.9, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-3.9, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": false}
+				],
+				"META_BoneType": "base",
+				"name": "rightLeg",
+				"parent": null
+			},
+			{
+				"pivot": [1.9, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [
+					{"origin": [-0.1, 0, -2], "size": [4, 12, 4], "uv": [0, 16], "inflate": 0, "mirror": true}
+				],
+				"META_BoneType": "base",
+				"name": "leftLeg",
+				"parent": null
+			},
+			{
+				"pivot": [0, 12, 0],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "armor_offset",
+				"name": "waist",
+				"parent": "body"
+			},
+			{
+				"pivot": [-6, 15, 1],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "item",
+				"name": "rightItem",
+				"parent": "rightArm"
+			},
+			{
+				"pivot": [6, 15, 1],
+				"rotation": [0, 0, 0],
+				"cubes": [],
+				"META_BoneType": "item",
+				"name": "leftItem",
+				"parent": "leftArm"
+			}
+		],
+		"texturewidth": 64,
+		"textureheight": 64,
+		"META_ModelVersion": "1.0.6",
+		"rigtype": "normal",
+		"animationArmsDown": false,
+		"animationArmsOutFront": false,
+		"animationStatueOfLibertyArms": false,
+		"animationSingleArmAnimation": false,
+		"animationStationaryLegs": false,
+		"animationSingleLegAnimation": false,
+		"animationNoHeadBob": false,
+		"animationDontShowArmor": false,
+		"animationUpsideDown": false,
+		"animationInvertedCrouch": false
+	},
+	"geometry.Skyrim.SkyrimWispmother": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4493,7 +4493,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upWoodElfArcher": {
+	"geometry.Skyrim.SkyrimWoodElfArcher": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4608,7 +4608,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.skyrim-mash-up.skyrim-mash-upWoodElfMage": {
+	"geometry.Skyrim.SkyrimWoodElfMage": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

@@ -1,5 +1,5 @@
 {
-  "geometry.final-fantasy-xv-skin-pack.Aranea": {
+  "geometry.FINALFANTASYXVSkinPack.Aranea": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -662,7 +662,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ardyn": {
+  "geometry.FINALFANTASYXVSkinPack.Ardyn": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1844,7 +1844,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Bahamut": {
+  "geometry.FINALFANTASYXVSkinPack.Bahamut": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3522,7 +3522,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Biggs": {
+  "geometry.FINALFANTASYXVSkinPack.Biggs": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4133,7 +4133,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Cactuar": {
+  "geometry.FINALFANTASYXVSkinPack.Cactuar": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4990,7 +4990,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Caligo": {
+  "geometry.FINALFANTASYXVSkinPack.Caligo": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5617,7 +5617,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Chocobocostume": {
+  "geometry.FINALFANTASYXVSkinPack.Chocobocostume": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6925,7 +6925,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Cid": {
+  "geometry.FINALFANTASYXVSkinPack.Cid": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7678,7 +7678,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Cindy": {
+  "geometry.FINALFANTASYXVSkinPack.Cindy": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8469,7 +8469,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Cor": {
+  "geometry.FINALFANTASYXVSkinPack.Cor": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8955,7 +8955,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Crowsnestkenny": {
+  "geometry.FINALFANTASYXVSkinPack.Crowsnestkenny": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9668,7 +9668,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Daemonravus": {
+  "geometry.FINALFANTASYXVSkinPack.Daemonravus": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10633,7 +10633,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Gentiana": {
+  "geometry.FINALFANTASYXVSkinPack.Gentiana": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11208,7 +11208,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Gilgamesh": {
+  "geometry.FINALFANTASYXVSkinPack.Gilgamesh": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12188,7 +12188,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Gladiolus": {
+  "geometry.FINALFANTASYXVSkinPack.Gladiolus": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13083,7 +13083,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Goblin": {
+  "geometry.FINALFANTASYXVSkinPack.Goblin": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14441,7 +14441,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Hobgoblin": {
+  "geometry.FINALFANTASYXVSkinPack.Hobgoblin": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15104,7 +15104,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Iedolas": {
+  "geometry.FINALFANTASYXVSkinPack.Iedolas": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15715,7 +15715,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ifrit": {
+  "geometry.FINALFANTASYXVSkinPack.Ifrit": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17126,7 +17126,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ignis": {
+  "geometry.FINALFANTASYXVSkinPack.Ignis": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17809,7 +17809,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Iris": {
+  "geometry.FINALFANTASYXVSkinPack.Iris": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18706,7 +18706,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Irongiant": {
+  "geometry.FINALFANTASYXVSkinPack.Irongiant": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20171,7 +20171,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Leviathan": {
+  "geometry.FINALFANTASYXVSkinPack.Leviathan": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21643,7 +21643,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Loqi": {
+  "geometry.FINALFANTASYXVSkinPack.Loqi": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22288,7 +22288,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Lunafreya": {
+  "geometry.FINALFANTASYXVSkinPack.Lunafreya": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23079,7 +23079,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Magitektroopermt1": {
+  "geometry.FINALFANTASYXVSkinPack.Magitektroopermt1": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24259,7 +24259,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Magitektroopermt2": {
+  "geometry.FINALFANTASYXVSkinPack.Magitektroopermt2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24868,7 +24868,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Mindflayer": {
+  "geometry.FINALFANTASYXVSkinPack.Mindflayer": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25761,7 +25761,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Moogledoll": {
+  "geometry.FINALFANTASYXVSkinPack.Moogledoll": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -26758,7 +26758,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Necromancer": {
+  "geometry.FINALFANTASYXVSkinPack.Necromancer": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -27899,7 +27899,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Noctis": {
+  "geometry.FINALFANTASYXVSkinPack.Noctis": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -28618,7 +28618,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Prompto": {
+  "geometry.FINALFANTASYXVSkinPack.Prompto": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -29174,7 +29174,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ramuh": {
+  "geometry.FINALFANTASYXVSkinPack.Ramuh": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -30384,7 +30384,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ravus": {
+  "geometry.FINALFANTASYXVSkinPack.Ravus": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -31368,7 +31368,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Reaper": {
+  "geometry.FINALFANTASYXVSkinPack.Reaper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -32513,7 +32513,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Redirongiant": {
+  "geometry.FINALFANTASYXVSkinPack.Redirongiant": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -33978,7 +33978,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Regis": {
+  "geometry.FINALFANTASYXVSkinPack.Regis": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -34587,7 +34587,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Ronin": {
+  "geometry.FINALFANTASYXVSkinPack.Ronin": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -35607,7 +35607,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Shiva": {
+  "geometry.FINALFANTASYXVSkinPack.Shiva": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -36377,7 +36377,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Titan": {
+  "geometry.FINALFANTASYXVSkinPack.Titan": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -37569,7 +37569,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Tonberry": {
+  "geometry.FINALFANTASYXVSkinPack.Tonberry": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -38828,7 +38828,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Verstaelbesithia": {
+  "geometry.FINALFANTASYXVSkinPack.Verstaelbesithia": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -39741,7 +39741,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.final-fantasy-xv-skin-pack.Wedge": {
+  "geometry.FINALFANTASYXVSkinPack.Wedge": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

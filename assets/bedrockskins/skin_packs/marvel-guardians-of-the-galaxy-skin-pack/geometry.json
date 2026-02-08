@@ -1,5 +1,5 @@
 {
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyAdamWarlock": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyAdamWarlock": {
     "bones": [
       {
         "pivot": [
@@ -472,7 +472,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyAngela": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyAngela": {
     "bones": [
       {
         "pivot": [
@@ -1124,7 +1124,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyCarina": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyCarina": {
     "bones": [
       {
         "pivot": [
@@ -1435,7 +1435,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyCharlie27": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyCharlie27": {
     "bones": [
       {
         "pivot": [
@@ -1799,7 +1799,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyDeath": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyDeath": {
     "bones": [
       {
         "pivot": [
@@ -2110,7 +2110,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyDrax": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyDrax": {
     "bones": [
       {
         "pivot": [
@@ -2421,7 +2421,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyGamora": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyGamora": {
     "bones": [
       {
         "pivot": [
@@ -2804,7 +2804,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyGroot": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyGroot": {
     "bones": [
       {
         "pivot": [
@@ -3596,7 +3596,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyJasonofSparta": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyJasonofSparta": {
     "bones": [
       {
         "pivot": [
@@ -3907,7 +3907,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyKorath": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyKorath": {
     "bones": [
       {
         "pivot": [
@@ -4430,7 +4430,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyMajorVictory": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyMajorVictory": {
     "bones": [
       {
         "pivot": [
@@ -4742,7 +4742,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyMantis": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyMantis": {
     "bones": [
       {
         "pivot": [
@@ -5142,7 +5142,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyNebula": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyNebula": {
     "bones": [
       {
         "pivot": [
@@ -5597,7 +5597,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyNova": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyNova": {
     "bones": [
       {
         "pivot": [
@@ -5908,7 +5908,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyQuasar": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyQuasar": {
     "bones": [
       {
         "pivot": [
@@ -6310,7 +6310,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyRocket": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyRocket": {
     "bones": [
       {
         "pivot": [
@@ -7139,7 +7139,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyRonantheAccuser": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyRonantheAccuser": {
     "bones": [
       {
         "pivot": [
@@ -7451,7 +7451,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxySakaaranWarrior": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxySakaaranWarrior": {
     "bones": [
       {
         "pivot": [
@@ -7762,7 +7762,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyStarLord": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyStarLord": {
     "bones": [
       {
         "pivot": [
@@ -8377,7 +8377,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyStarLordComics": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyStarLordComics": {
     "bones": [
       {
         "pivot": [
@@ -8688,7 +8688,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyThanos": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyThanos": {
     "bones": [
       {
         "pivot": [
@@ -9339,7 +9339,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyTheCollector": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyTheCollector": {
     "bones": [
       {
         "pivot": [
@@ -9740,7 +9740,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyWraith": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyWraith": {
     "bones": [
       {
         "pivot": [
@@ -10124,7 +10124,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.marvel-guardians-of-the-galaxy-skin-pack.GuardiansoftheGalaxyYondu": {
+  "geometry.MarvelGuardiansOfTheGalaxy.GuardiansoftheGalaxyYondu": {
     "bones": [
       {
         "pivot": [

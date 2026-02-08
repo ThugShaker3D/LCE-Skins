@@ -1,5 +1,5 @@
 {
-	"geometry.adventure-time-mash-up.BananaGuard": {
+	"geometry.MashupAdventureTime.BananaGuard": {
 		"bones": [
 			{
 				"pivot": [0, 21, 0],
@@ -228,7 +228,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.BettyGrof": {
+	"geometry.MashupAdventureTime.BettyGrof": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -404,7 +404,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Billy": {
+	"geometry.MashupAdventureTime.Billy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -569,7 +569,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.BillyYoung": {
+	"geometry.MashupAdventureTime.BillyYoung": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -734,7 +734,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.BMO": {
+	"geometry.MashupAdventureTime.BMO": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -941,7 +941,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.BreakfastPrincess": {
+	"geometry.MashupAdventureTime.BreakfastPrincess": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1116,7 +1116,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Cake": {
+	"geometry.MashupAdventureTime.Cake": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1321,7 +1321,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Charlie": {
+	"geometry.MashupAdventureTime.Charlie": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -1546,7 +1546,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Death": {
+	"geometry.MashupAdventureTime.Death": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1720,7 +1720,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.DrGross": {
+	"geometry.MashupAdventureTime.DrGross": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1885,7 +1885,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.DrPrincess": {
+	"geometry.MashupAdventureTime.DrPrincess": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2064,7 +2064,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.EarlofLemongrab": {
+	"geometry.MashupAdventureTime.EarlofLemongrab": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2241,7 +2241,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.EmeraldPrincess": {
+	"geometry.MashupAdventureTime.EmeraldPrincess": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -2453,7 +2453,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Finn": {
+	"geometry.MashupAdventureTime.Finn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2637,7 +2637,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.FinnJammies": {
+	"geometry.MashupAdventureTime.FinnJammies": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2813,7 +2813,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Fionna": {
+	"geometry.MashupAdventureTime.Fionna": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2993,7 +2993,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.FionnaDress": {
+	"geometry.MashupAdventureTime.FionnaDress": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3190,7 +3190,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.FlamePrince": {
+	"geometry.MashupAdventureTime.FlamePrince": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3366,7 +3366,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.FlamePrincess": {
+	"geometry.MashupAdventureTime.FlamePrincess": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3538,7 +3538,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Frieda": {
+	"geometry.MashupAdventureTime.Frieda": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3714,7 +3714,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.FrozenYogurtPrincess": {
+	"geometry.MashupAdventureTime.FrozenYogurtPrincess": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3890,7 +3890,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.GaryTheMermaidQueen": {
+	"geometry.MashupAdventureTime.GaryTheMermaidQueen": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4065,7 +4065,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.GrassFinn": {
+	"geometry.MashupAdventureTime.GrassFinn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4249,7 +4249,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.GrobGobGlobGrod": {
+	"geometry.MashupAdventureTime.GrobGobGlobGrod": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4437,7 +4437,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Gunter": {
+	"geometry.MashupAdventureTime.Gunter": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -4676,7 +4676,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.HeadMarauder": {
+	"geometry.MashupAdventureTime.HeadMarauder": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4896,7 +4896,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.HunsonAbadeer": {
+	"geometry.MashupAdventureTime.HunsonAbadeer": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5082,7 +5082,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.HuntressWizard": {
+	"geometry.MashupAdventureTime.HuntressWizard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5268,7 +5268,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.IceKing": {
+	"geometry.MashupAdventureTime.IceKing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5473,7 +5473,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.IceQueen": {
+	"geometry.MashupAdventureTime.IceQueen": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5694,7 +5694,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Jake": {
+	"geometry.MashupAdventureTime.Jake": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5872,7 +5872,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.JakeJr": {
+	"geometry.MashupAdventureTime.JakeJr": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -6064,7 +6064,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.KingofOoo": {
+	"geometry.MashupAdventureTime.KingofOoo": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6268,7 +6268,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.LadyRainicorn": {
+	"geometry.MashupAdventureTime.LadyRainicorn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6481,7 +6481,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.LumpySpacePrincess": {
+	"geometry.MashupAdventureTime.LumpySpacePrincess": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -6666,7 +6666,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.MagicMan": {
+	"geometry.MashupAdventureTime.MagicMan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6868,7 +6868,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Marceline": {
+	"geometry.MashupAdventureTime.Marceline": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7033,7 +7033,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.MarshallLee": {
+	"geometry.MashupAdventureTime.MarshallLee": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7198,7 +7198,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.MartinMertens": {
+	"geometry.MashupAdventureTime.MartinMertens": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7395,7 +7395,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.MartinMertensYoung": {
+	"geometry.MashupAdventureTime.MartinMertensYoung": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7560,7 +7560,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Minerva": {
+	"geometry.MashupAdventureTime.Minerva": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7736,7 +7736,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.PrinceGumball": {
+	"geometry.MashupAdventureTime.PrinceGumball": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7901,7 +7901,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.PrincessBubblegum": {
+	"geometry.MashupAdventureTime.PrincessBubblegum": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8076,7 +8076,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.RaggedyPrincess": {
+	"geometry.MashupAdventureTime.RaggedyPrincess": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -8197,7 +8197,7 @@
 			}
 		]
 	},
-	"geometry.adventure-time-mash-up.Ricardio": {
+	"geometry.MashupAdventureTime.Ricardio": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8363,7 +8363,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.SimonPetrikov": {
+	"geometry.MashupAdventureTime.SimonPetrikov": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8551,7 +8551,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.SirSlicer": {
+	"geometry.MashupAdventureTime.SirSlicer": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -8686,7 +8686,7 @@
 			}
 		]
 	},
-	"geometry.adventure-time-mash-up.SusanStrong": {
+	"geometry.MashupAdventureTime.SusanStrong": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8970,7 +8970,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.TheLich": {
+	"geometry.MashupAdventureTime.TheLich": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -9151,7 +9151,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Viola": {
+	"geometry.MashupAdventureTime.Viola": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -9337,7 +9337,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.adventure-time-mash-up.Witch": {
+	"geometry.MashupAdventureTime.Witch": {
 		"bones": [
 			{
 				"pivot": [0, 25, 0],

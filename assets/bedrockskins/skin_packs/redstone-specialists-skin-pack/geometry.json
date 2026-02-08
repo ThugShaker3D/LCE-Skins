@@ -1,5 +1,5 @@
 {
-	"geometry.redstone-specialists-skin-pack.architect": {
+	"geometry.Redstone.architect": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -309,7 +309,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.artisan_slim": {
+	"geometry.Redstone.artisan_slim": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -503,7 +503,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.chemist": {
+	"geometry.Redstone.chemist": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -734,7 +734,7 @@
         ],
         "rigtype": "male"
     },
-	"geometry.redstone-specialists-skin-pack.scientist": {
+	"geometry.Redstone.scientist": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -953,7 +953,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.golem": {
+	"geometry.Redstone.golem": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -1222,7 +1222,7 @@
             }
         ]
     },
-	"geometry.redstone-specialists-skin-pack.miner": {
+	"geometry.Redstone.miner": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -1456,7 +1456,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.programmer": {
+	"geometry.Redstone.programmer": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -1651,7 +1651,7 @@
             }
         ]
     },	
-	"geometry.redstone-specialists-skin-pack.geologist": {
+	"geometry.Redstone.geologist": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -1842,7 +1842,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.railrider": {
+	"geometry.Redstone.railrider": {
 		"bones": [
             {	"name": "body",
                 "cubes": [
@@ -2044,7 +2044,7 @@
         ],
         "rigtype": "female"
     },
-	"geometry.redstone-specialists-skin-pack.trapper_slim": {
+	"geometry.Redstone.trapper_slim": {
 		"bones": [
             {	"name": "body",
                 "cubes": [

@@ -1,5 +1,5 @@
 {
-	"geometry.mass-effect-mash-up.mass-effect-mash-upAriaTLoak": {
+	"geometry.MassEffect.MassEffectAriaTLoak": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -76,7 +76,7 @@
 			}
 		]
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upAshleyWilliams": {
+	"geometry.MassEffect.MassEffectAshleyWilliams": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -153,7 +153,7 @@
 			}
 		]
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upBanshee": {
+	"geometry.MassEffect.MassEffectBanshee": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -246,7 +246,7 @@
 			}
 		]
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upCerberusAssaultTrooper": {
+	"geometry.MassEffect.MassEffectCerberusAssaultTrooper": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -361,7 +361,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upCollector": {
+	"geometry.MassEffect.MassEffectCollector": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -488,7 +488,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upDavidAnderson": {
+	"geometry.MassEffect.MassEffectDavidAnderson": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -603,7 +603,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upDonnelUdina": {
+	"geometry.MassEffect.MassEffectDonnelUdina": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -718,7 +718,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upDrKarinChakwas": {
+	"geometry.MassEffect.MassEffectDrKarinChakwas": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -833,7 +833,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upEDI": {
+	"geometry.MassEffect.MassEffectEDI": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -948,7 +948,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upFemaleShepard": {
+	"geometry.MassEffect.MassEffectFemaleShepard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1063,7 +1063,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upGarrusVakarian": {
+	"geometry.MassEffect.MassEffectGarrusVakarian": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1193,7 +1193,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upGethPrime": {
+	"geometry.MassEffect.MassEffectGethPrime": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1319,7 +1319,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upGethTrooper": {
+	"geometry.MassEffect.MassEffectGethTrooper": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1445,7 +1445,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upGrunt": {
+	"geometry.MassEffect.MassEffectGrunt": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1560,7 +1560,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upHusk": {
+	"geometry.MassEffect.MassEffectHusk": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1675,7 +1675,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upIllusiveMan": {
+	"geometry.MassEffect.MassEffectIllusiveMan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1790,7 +1790,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upJack": {
+	"geometry.MassEffect.MassEffectJack": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1905,7 +1905,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upJacobTaylor": {
+	"geometry.MassEffect.MassEffectJacobTaylor": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2020,7 +2020,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upJamesVega": {
+	"geometry.MassEffect.MassEffectJamesVega": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2135,7 +2135,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upJavik": {
+	"geometry.MassEffect.MassEffectJavik": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2250,7 +2250,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upJoker": {
+	"geometry.MassEffect.MassEffectJoker": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2376,7 +2376,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upKaidanAlenko": {
+	"geometry.MassEffect.MassEffectKaidanAlenko": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2491,7 +2491,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upKaiLeng": {
+	"geometry.MassEffect.MassEffectKaiLeng": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2606,7 +2606,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upKasumiGoto": {
+	"geometry.MassEffect.MassEffectKasumiGoto": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2721,7 +2721,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upLegion": {
+	"geometry.MassEffect.MassEffectLegion": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2847,7 +2847,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upLiaraTSoni": {
+	"geometry.MassEffect.MassEffectLiaraTSoni": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2962,7 +2962,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upMaleShepard": {
+	"geometry.MassEffect.MassEffectMaleShepard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3077,7 +3077,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upMirandaLawson": {
+	"geometry.MassEffect.MassEffectMirandaLawson": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3192,7 +3192,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upMordinSolus": {
+	"geometry.MassEffect.MassEffectMordinSolus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3307,7 +3307,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upMorinth": {
+	"geometry.MassEffect.MassEffectMorinth": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3422,7 +3422,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upSamara": {
+	"geometry.MassEffect.MassEffectSamara": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3537,7 +3537,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upSarenArterius": {
+	"geometry.MassEffect.MassEffectSarenArterius": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3652,7 +3652,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upTaliZorahnarRayya": {
+	"geometry.MassEffect.MassEffectTaliZorahnarRayya": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3767,7 +3767,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upThaneKrios": {
+	"geometry.MassEffect.MassEffectThaneKrios": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3882,7 +3882,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upUrdnotWrex": {
+	"geometry.MassEffect.MassEffectUrdnotWrex": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3997,7 +3997,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mass-effect-mash-up.mass-effect-mash-upZaeedMassani": {
+	"geometry.MassEffect.MassEffectZaeedMassani": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

@@ -1,5 +1,5 @@
 {
-	"geometry.greek-mythology-mash-up.Achilles": {
+	"geometry.GreekMythology.Achilles": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -148,7 +148,7 @@
 			}
 		]
 	},
-	"geometry.greek-mythology-mash-up.Aphrodite": {
+	"geometry.GreekMythology.Aphrodite": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -303,7 +303,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Apollo": {
+	"geometry.GreekMythology.Apollo": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -458,7 +458,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Ares": {
+	"geometry.GreekMythology.Ares": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -630,7 +630,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Argonaut1": {
+	"geometry.GreekMythology.Argonaut1": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -785,7 +785,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Argonaut2": {
+	"geometry.GreekMythology.Argonaut2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -940,7 +940,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Artemis": {
+	"geometry.GreekMythology.Artemis": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1095,7 +1095,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Atalanta": {
+	"geometry.GreekMythology.Atalanta": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -1212,7 +1212,7 @@
 			}
 		]
 	},
-	"geometry.greek-mythology-mash-up.Athena": {
+	"geometry.GreekMythology.Athena": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1377,7 +1377,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Cadmus": {
+	"geometry.GreekMythology.Cadmus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1544,7 +1544,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Cerberus": {
+	"geometry.GreekMythology.Cerberus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1735,7 +1735,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Cyclops": {
+	"geometry.GreekMythology.Cyclops": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1901,7 +1901,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Dryad": {
+	"geometry.GreekMythology.Dryad": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2056,7 +2056,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Erinyes": {
+	"geometry.GreekMythology.Erinyes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2211,7 +2211,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Hades": {
+	"geometry.GreekMythology.Hades": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2379,7 +2379,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Harpy": {
+	"geometry.GreekMythology.Harpy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2554,7 +2554,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.HelenOfTroy": {
+	"geometry.GreekMythology.HelenOfTroy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2709,7 +2709,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Hephaestus": {
+	"geometry.GreekMythology.Hephaestus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2864,7 +2864,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Hera": {
+	"geometry.GreekMythology.Hera": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3036,7 +3036,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Heracles": {
+	"geometry.GreekMythology.Heracles": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3203,7 +3203,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Hermes": {
+	"geometry.GreekMythology.Hermes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3405,7 +3405,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Hydra": {
+	"geometry.GreekMythology.Hydra": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3679,7 +3679,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.greek-mythology-mash-up.Jason": {
+	"geometry.GreekMythology.Jason": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3844,7 +3844,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Medea": {
+	"geometry.GreekMythology.Medea": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4011,7 +4011,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Medusa": {
+	"geometry.GreekMythology.Medusa": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4229,7 +4229,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.greek-mythology-mash-up.Minos": {
+	"geometry.GreekMythology.Minos": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4403,7 +4403,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Minotaur": {
+	"geometry.GreekMythology.Minotaur": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4604,7 +4604,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Odysseus": {
+	"geometry.GreekMythology.Odysseus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4759,7 +4759,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Perseus": {
+	"geometry.GreekMythology.Perseus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4942,7 +4942,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Poseidon": {
+	"geometry.GreekMythology.Poseidon": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5115,7 +5115,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Prometheus": {
+	"geometry.GreekMythology.Prometheus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5270,7 +5270,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Satyr": {
+	"geometry.GreekMythology.Satyr": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5482,7 +5482,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.SeaMonster": {
+	"geometry.GreekMythology.SeaMonster": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5637,7 +5637,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Siren": {
+	"geometry.GreekMythology.Siren": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5811,7 +5811,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Spartoi": {
+	"geometry.GreekMythology.Spartoi": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5969,7 +5969,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.StygianWitch": {
+	"geometry.GreekMythology.StygianWitch": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6125,7 +6125,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.greek-mythology-mash-up.Theseus": {
+	"geometry.GreekMythology.Theseus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6280,7 +6280,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.TrojanWarrior": {
+	"geometry.GreekMythology.TrojanWarrior": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6455,7 +6455,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.greek-mythology-mash-up.Zeus": {
+	"geometry.GreekMythology.Zeus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

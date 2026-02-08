@@ -1,5 +1,5 @@
 {
-  "geometry.star-wars-classic-skin-pack.4LOM": {
+  "geometry.StarWarsClassic.4LOM": {
     "bones": [
       {
         "pivot": [
@@ -610,7 +610,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.AdmiralAckbar": {
+  "geometry.StarWarsClassic.AdmiralAckbar": {
     "bones": [
       {
         "pivot": [
@@ -1634,7 +1634,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.ATATPilot": {
+  "geometry.StarWarsClassic.ATATPilot": {
     "bones": [
       {
         "pivot": [
@@ -2514,7 +2514,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BenKenobi": {
+  "geometry.StarWarsClassic.BenKenobi": {
     "bones": [
       {
         "pivot": [
@@ -3121,7 +3121,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BespinLandoCalrissian": {
+  "geometry.StarWarsClassic.BespinLandoCalrissian": {
     "bones": [
       {
         "pivot": [
@@ -3679,7 +3679,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BespinLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.BespinLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -4376,7 +4376,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BespinPrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.BespinPrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -5094,7 +5094,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BibFortuna": {
+  "geometry.StarWarsClassic.BibFortuna": {
     "bones": [
       {
         "pivot": [
@@ -5974,7 +5974,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BlockadeRunnerSoldier": {
+  "geometry.StarWarsClassic.BlockadeRunnerSoldier": {
     "bones": [
       {
         "pivot": [
@@ -6566,7 +6566,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BobaFett": {
+  "geometry.StarWarsClassic.BobaFett": {
     "bones": [
       {
         "pivot": [
@@ -7335,7 +7335,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Bossk": {
+  "geometry.StarWarsClassic.Bossk": {
     "bones": [
       {
         "pivot": [
@@ -7926,7 +7926,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.BoushhPrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.BoushhPrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -8735,7 +8735,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.C3PO": {
+  "geometry.StarWarsClassic.C3PO": {
     "bones": [
       {
         "pivot": [
@@ -9468,7 +9468,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.CantinaBandMember": {
+  "geometry.StarWarsClassic.CantinaBandMember": {
     "bones": [
       {
         "pivot": [
@@ -10364,7 +10364,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Chewbacca": {
+  "geometry.StarWarsClassic.Chewbacca": {
     "bones": [
       {
         "pivot": [
@@ -11326,7 +11326,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.DagobahLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.DagobahLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -12241,7 +12241,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.DarthVader": {
+  "geometry.StarWarsClassic.DarthVader": {
     "bones": [
       {
         "pivot": [
@@ -13686,7 +13686,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Dengar": {
+  "geometry.StarWarsClassic.Dengar": {
     "bones": [
       {
         "pivot": [
@@ -14347,7 +14347,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Emperor": {
+  "geometry.StarWarsClassic.Emperor": {
     "bones": [
       {
         "pivot": [
@@ -15130,7 +15130,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.EmperorsRoyalGuard": {
+  "geometry.StarWarsClassic.EmperorsRoyalGuard": {
     "bones": [
       {
         "pivot": [
@@ -16151,7 +16151,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.EndorHanSolov2": {
+  "geometry.StarWarsClassic.EndorHanSolov2": {
     "bones": [
       {
         "pivot": [
@@ -16993,7 +16993,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.EndorLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.EndorLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -17694,7 +17694,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.EndorPrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.EndorPrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -18428,7 +18428,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.GamorreanGuard": {
+  "geometry.StarWarsClassic.GamorreanGuard": {
     "bones": [
       {
         "pivot": [
@@ -19268,7 +19268,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.GovernorTarkin": {
+  "geometry.StarWarsClassic.GovernorTarkin": {
     "bones": [
       {
         "pivot": [
@@ -19753,7 +19753,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Greedo": {
+  "geometry.StarWarsClassic.Greedo": {
     "bones": [
       {
         "pivot": [
@@ -20631,7 +20631,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.HammerheadMomawNadon": {
+  "geometry.StarWarsClassic.HammerheadMomawNadon": {
     "bones": [
       {
         "pivot": [
@@ -21242,7 +21242,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.HothHanSolov2": {
+  "geometry.StarWarsClassic.HothHanSolov2": {
     "bones": [
       {
         "pivot": [
@@ -22192,7 +22192,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.HothLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.HothLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -22874,7 +22874,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.HothPrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.HothPrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -23646,7 +23646,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.IG88": {
+  "geometry.StarWarsClassic.IG88": {
     "bones": [
       {
         "pivot": [
@@ -24398,7 +24398,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.JabbasPalacePrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.JabbasPalacePrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -25170,7 +25170,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Jawa": {
+  "geometry.StarWarsClassic.Jawa": {
     "bones": [
       {
         "pivot": [
@@ -25897,7 +25897,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": true
   },
-  "geometry.star-wars-classic-skin-pack.JediKnightLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.JediKnightLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -26633,7 +26633,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Lobot": {
+  "geometry.StarWarsClassic.Lobot": {
     "bones": [
       {
         "pivot": [
@@ -27135,7 +27135,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.NienNunb": {
+  "geometry.StarWarsClassic.NienNunb": {
     "bones": [
       {
         "pivot": [
@@ -28015,7 +28015,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Oola": {
+  "geometry.StarWarsClassic.Oola": {
     "bones": [
       {
         "pivot": [
@@ -28751,7 +28751,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.R2D2": {
+  "geometry.StarWarsClassic.R2D2": {
     "bones": [
       {
         "pivot": [
@@ -29567,7 +29567,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": true
   },
-  "geometry.star-wars-classic-skin-pack.Rancor": {
+  "geometry.StarWarsClassic.Rancor": {
     "bones": [
       {
         "pivot": [
@@ -31359,7 +31359,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.RancorKeeper": {
+  "geometry.StarWarsClassic.RancorKeeper": {
     "bones": [
       {
         "pivot": [
@@ -31932,7 +31932,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.ScoutTrooper": {
+  "geometry.StarWarsClassic.ScoutTrooper": {
     "bones": [
       {
         "pivot": [
@@ -32649,7 +32649,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.SenatorPrincessLeiaOrgana": {
+  "geometry.StarWarsClassic.SenatorPrincessLeiaOrgana": {
     "bones": [
       {
         "pivot": [
@@ -33457,7 +33457,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.SkiffGuardLandoCalrissianv2": {
+  "geometry.StarWarsClassic.SkiffGuardLandoCalrissianv2": {
     "bones": [
       {
         "pivot": [
@@ -34173,7 +34173,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.SmugglerHanSolo": {
+  "geometry.StarWarsClassic.SmugglerHanSolo": {
     "bones": [
       {
         "pivot": [
@@ -34999,7 +34999,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Stormtrooper": {
+  "geometry.StarWarsClassic.Stormtrooper": {
     "bones": [
       {
         "pivot": [
@@ -36057,7 +36057,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.TatooineLukeSkywalker": {
+  "geometry.StarWarsClassic.TatooineLukeSkywalker": {
     "bones": [
       {
         "pivot": [
@@ -36756,7 +36756,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.TIEFighterPilot": {
+  "geometry.StarWarsClassic.TIEFighterPilot": {
     "bones": [
       {
         "pivot": [
@@ -37831,7 +37831,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.TuskenRaider": {
+  "geometry.StarWarsClassic.TuskenRaider": {
     "bones": [
       {
         "pivot": [
@@ -38690,7 +38690,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.WalrusManPondaBaba": {
+  "geometry.StarWarsClassic.WalrusManPondaBaba": {
     "bones": [
       {
         "pivot": [
@@ -39500,7 +39500,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.WampaIceCreature": {
+  "geometry.StarWarsClassic.WampaIceCreature": {
     "bones": [
       {
         "pivot": [
@@ -40421,7 +40421,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.WicketWarrick": {
+  "geometry.StarWarsClassic.WicketWarrick": {
     "bones": [
       {
         "pivot": [
@@ -40989,7 +40989,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": true
   },
-  "geometry.star-wars-classic-skin-pack.XwingPilotLukeSkywalkerv2": {
+  "geometry.StarWarsClassic.XwingPilotLukeSkywalkerv2": {
     "bones": [
       {
         "pivot": [
@@ -41907,7 +41907,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Yavin4PrincessLeiaOrganav2": {
+  "geometry.StarWarsClassic.Yavin4PrincessLeiaOrganav2": {
     "bones": [
       {
         "pivot": [
@@ -42481,7 +42481,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.star-wars-classic-skin-pack.Yoda": {
+  "geometry.StarWarsClassic.Yoda": {
     "bones": [
       {
         "pivot": [
@@ -43138,7 +43138,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": true
   },
-  "geometry.star-wars-classic-skin-pack.Zuckuss": {
+  "geometry.StarWarsClassic.Zuckuss": {
     "bones": [
       {
         "pivot": [

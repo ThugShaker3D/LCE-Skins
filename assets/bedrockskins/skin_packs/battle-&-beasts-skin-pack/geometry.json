@@ -1,5 +1,5 @@
 {
-  "geometry.battle-&-beasts-skin-pack.Aardvark": {
+  "geometry.BattleAndBeasts.Aardvark": {
     "bones": [
       {
         "pivot": [
@@ -365,7 +365,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.AfricanWarrior": {
+  "geometry.BattleAndBeasts.AfricanWarrior": {
     "bones": [
       {
         "pivot": [
@@ -677,7 +677,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.AfricanWarriorv2": {
+  "geometry.BattleAndBeasts.AfricanWarriorv2": {
     "bones": [
       {
         "pivot": [
@@ -989,7 +989,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Antelope": {
+  "geometry.BattleAndBeasts.Antelope": {
     "bones": [
       {
         "pivot": [
@@ -1372,7 +1372,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.BushBaby": {
+  "geometry.BattleAndBeasts.BushBaby": {
     "bones": [
       {
         "pivot": [
@@ -1684,7 +1684,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.CaveSpiderinaSuit": {
+  "geometry.BattleAndBeasts.CaveSpiderinaSuit": {
     "bones": [
       {
         "pivot": [
@@ -1996,7 +1996,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ChickeninaSuit": {
+  "geometry.BattleAndBeasts.ChickeninaSuit": {
     "bones": [
       {
         "pivot": [
@@ -2344,7 +2344,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Cowhand": {
+  "geometry.BattleAndBeasts.Cowhand": {
     "bones": [
       {
         "pivot": [
@@ -2709,7 +2709,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Cowhandv2": {
+  "geometry.BattleAndBeasts.Cowhandv2": {
     "bones": [
       {
         "pivot": [
@@ -3074,7 +3074,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Crocodile": {
+  "geometry.BattleAndBeasts.Crocodile": {
     "bones": [
       {
         "pivot": [
@@ -3421,7 +3421,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Elephant": {
+  "geometry.BattleAndBeasts.Elephant": {
     "bones": [
       {
         "pivot": [
@@ -3769,7 +3769,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.EndermaninaSuit": {
+  "geometry.BattleAndBeasts.EndermaninaSuit": {
     "bones": [
       {
         "pivot": [
@@ -4081,7 +4081,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Gnu": {
+  "geometry.BattleAndBeasts.Gnu": {
     "bones": [
       {
         "pivot": [
@@ -4518,7 +4518,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Gorilla": {
+  "geometry.BattleAndBeasts.Gorilla": {
     "bones": [
       {
         "pivot": [
@@ -4830,7 +4830,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Hippopotamus": {
+  "geometry.BattleAndBeasts.Hippopotamus": {
     "bones": [
       {
         "pivot": [
@@ -5142,7 +5142,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Hyena": {
+  "geometry.BattleAndBeasts.Hyena": {
     "bones": [
       {
         "pivot": [
@@ -5454,7 +5454,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ImperialBritishSoldier": {
+  "geometry.BattleAndBeasts.ImperialBritishSoldier": {
     "bones": [
       {
         "pivot": [
@@ -5766,7 +5766,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ImperialBritishSoldierv2": {
+  "geometry.BattleAndBeasts.ImperialBritishSoldierv2": {
     "bones": [
       {
         "pivot": [
@@ -6078,7 +6078,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ImperialFrenchSoldier": {
+  "geometry.BattleAndBeasts.ImperialFrenchSoldier": {
     "bones": [
       {
         "pivot": [
@@ -6479,7 +6479,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ImperialFrenchSoldierv2": {
+  "geometry.BattleAndBeasts.ImperialFrenchSoldierv2": {
     "bones": [
       {
         "pivot": [
@@ -6791,7 +6791,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Leopard": {
+  "geometry.BattleAndBeasts.Leopard": {
     "bones": [
       {
         "pivot": [
@@ -7157,7 +7157,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Lion": {
+  "geometry.BattleAndBeasts.Lion": {
     "bones": [
       {
         "pivot": [
@@ -7540,7 +7540,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.MandrillBaboon": {
+  "geometry.BattleAndBeasts.MandrillBaboon": {
     "bones": [
       {
         "pivot": [
@@ -7852,7 +7852,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.MedievalKnight": {
+  "geometry.BattleAndBeasts.MedievalKnight": {
     "bones": [
       {
         "pivot": [
@@ -8164,7 +8164,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.MedievalKnightv2": {
+  "geometry.BattleAndBeasts.MedievalKnightv2": {
     "bones": [
       {
         "pivot": [
@@ -8476,7 +8476,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Meerkat": {
+  "geometry.BattleAndBeasts.Meerkat": {
     "bones": [
       {
         "pivot": [
@@ -8788,7 +8788,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.NativeAmerican": {
+  "geometry.BattleAndBeasts.NativeAmerican": {
     "bones": [
       {
         "pivot": [
@@ -9100,7 +9100,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.NativeAmericanv2": {
+  "geometry.BattleAndBeasts.NativeAmericanv2": {
     "bones": [
       {
         "pivot": [
@@ -9412,7 +9412,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.NorseRaider": {
+  "geometry.BattleAndBeasts.NorseRaider": {
     "bones": [
       {
         "pivot": [
@@ -9849,7 +9849,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.NorseRaiderv2": {
+  "geometry.BattleAndBeasts.NorseRaiderv2": {
     "bones": [
       {
         "pivot": [
@@ -10286,7 +10286,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Panther": {
+  "geometry.BattleAndBeasts.Panther": {
     "bones": [
       {
         "pivot": [
@@ -10616,7 +10616,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Rhinoceros": {
+  "geometry.BattleAndBeasts.Rhinoceros": {
     "bones": [
       {
         "pivot": [
@@ -11000,7 +11000,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Roman": {
+  "geometry.BattleAndBeasts.Roman": {
     "bones": [
       {
         "pivot": [
@@ -11312,7 +11312,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Romanv2": {
+  "geometry.BattleAndBeasts.Romanv2": {
     "bones": [
       {
         "pivot": [
@@ -11624,7 +11624,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SamuraiWarrior": {
+  "geometry.BattleAndBeasts.SamuraiWarrior": {
     "bones": [
       {
         "pivot": [
@@ -11936,7 +11936,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SamuraiWarriorv2": {
+  "geometry.BattleAndBeasts.SamuraiWarriorv2": {
     "bones": [
       {
         "pivot": [
@@ -12248,7 +12248,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SouthernAfricanWarrior": {
+  "geometry.BattleAndBeasts.SouthernAfricanWarrior": {
     "bones": [
       {
         "pivot": [
@@ -12560,7 +12560,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SouthernAfricanWarriorv2": {
+  "geometry.BattleAndBeasts.SouthernAfricanWarriorv2": {
     "bones": [
       {
         "pivot": [
@@ -12872,7 +12872,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Spartan": {
+  "geometry.BattleAndBeasts.Spartan": {
     "bones": [
       {
         "pivot": [
@@ -13184,7 +13184,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Spartanv2": {
+  "geometry.BattleAndBeasts.Spartanv2": {
     "bones": [
       {
         "pivot": [
@@ -13496,7 +13496,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SteppesWarrior": {
+  "geometry.BattleAndBeasts.SteppesWarrior": {
     "bones": [
       {
         "pivot": [
@@ -13861,7 +13861,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.SteppesWarriorv2": {
+  "geometry.BattleAndBeasts.SteppesWarriorv2": {
     "bones": [
       {
         "pivot": [
@@ -14226,7 +14226,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Warthog": {
+  "geometry.BattleAndBeasts.Warthog": {
     "bones": [
       {
         "pivot": [
@@ -14538,7 +14538,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.Zebra": {
+  "geometry.BattleAndBeasts.Zebra": {
     "bones": [
       {
         "pivot": [
@@ -14850,7 +14850,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.battle-&-beasts-skin-pack.ZombieinaSuit": {
+  "geometry.BattleAndBeasts.ZombieinaSuit": {
     "bones": [
       {
         "pivot": [

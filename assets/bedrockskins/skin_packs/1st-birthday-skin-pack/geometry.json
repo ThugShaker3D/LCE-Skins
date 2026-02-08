@@ -1,5 +1,5 @@
 {
-  "geometry.1st-birthday-skin-pack.BirthdayCake": {
+  "geometry.1stBirthday.BirthdayCake": {
     "bones": [
       {
         "pivot": [
@@ -310,7 +310,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.BirthdayPresent": {
+  "geometry.1stBirthday.BirthdayPresent": {
     "bones": [
       {
         "pivot": [
@@ -621,7 +621,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.Blaze": {
+  "geometry.1stBirthday.Blaze": {
     "bones": [
       {
         "pivot": [
@@ -932,7 +932,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.CakeZombie": {
+  "geometry.1stBirthday.CakeZombie": {
     "bones": [
       {
         "pivot": [
@@ -1278,7 +1278,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.CreeperSteveBoxhead": {
+  "geometry.1stBirthday.CreeperSteveBoxhead": {
     "bones": [
       {
         "pivot": [
@@ -1589,7 +1589,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.EnderDragon": {
+  "geometry.1stBirthday.EnderDragon": {
     "bones": [
       {
         "pivot": [
@@ -2097,7 +2097,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.FarmerVillager": {
+  "geometry.1stBirthday.FarmerVillager": {
     "bones": [
       {
         "pivot": [
@@ -2408,7 +2408,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.Mooshroom": {
+  "geometry.1stBirthday.Mooshroom": {
     "bones": [
       {
         "pivot": [
@@ -2755,7 +2755,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyCow": {
+  "geometry.1stBirthday.PartyCow": {
     "bones": [
       {
         "pivot": [
@@ -3137,7 +3137,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyCreeper": {
+  "geometry.1stBirthday.PartyCreeper": {
     "bones": [
       {
         "pivot": [
@@ -3483,7 +3483,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyEnderman": {
+  "geometry.1stBirthday.PartyEnderman": {
     "bones": [
       {
         "pivot": [
@@ -3919,7 +3919,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyIronGolem": {
+  "geometry.1stBirthday.PartyIronGolem": {
     "bones": [
       {
         "pivot": [
@@ -4390,7 +4390,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyPig": {
+  "geometry.1stBirthday.PartyPig": {
     "bones": [
       {
         "pivot": [
@@ -4772,7 +4772,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartyPigZombie": {
+  "geometry.1stBirthday.PartyPigZombie": {
     "bones": [
       {
         "pivot": [
@@ -5118,7 +5118,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartySkeleton": {
+  "geometry.1stBirthday.PartySkeleton": {
     "bones": [
       {
         "pivot": [
@@ -5464,7 +5464,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartySnowGolem": {
+  "geometry.1stBirthday.PartySnowGolem": {
     "bones": [
       {
         "pivot": [
@@ -5810,7 +5810,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartySquid": {
+  "geometry.1stBirthday.PartySquid": {
     "bones": [
       {
         "pivot": [
@@ -6192,7 +6192,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.PartySteve": {
+  "geometry.1stBirthday.PartySteve": {
     "bones": [
       {
         "pivot": [
@@ -6538,7 +6538,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.Slime": {
+  "geometry.1stBirthday.Slime": {
     "bones": [
       {
         "pivot": [
@@ -6849,7 +6849,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.SteveCreeperBoxhead": {
+  "geometry.1stBirthday.SteveCreeperBoxhead": {
     "bones": [
       {
         "pivot": [
@@ -7160,7 +7160,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.TopHatSheep": {
+  "geometry.1stBirthday.TopHatSheep": {
     "bones": [
       {
         "pivot": [
@@ -7524,7 +7524,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.1st-birthday-skin-pack.WolfWithCollar": {
+  "geometry.1stBirthday.WolfWithCollar": {
     "bones": [
       {
         "pivot": [

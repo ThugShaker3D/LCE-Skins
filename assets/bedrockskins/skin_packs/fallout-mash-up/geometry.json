@@ -1,5 +1,5 @@
 {
-	"geometry.fallout-mash-up.fallout-mash-up1AlbertCole": {
+	"geometry.Fallout.Fallout1AlbertCole": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -116,7 +116,7 @@
 			}
 		]
 	},
-	"geometry.fallout-mash-up.fallout-mash-up1AlbertColev2": {
+	"geometry.Fallout.Fallout1AlbertColev2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -271,7 +271,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up1MaxStone": {
+	"geometry.Fallout.Fallout1MaxStone": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -426,7 +426,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up1MaxStonev2": {
+	"geometry.Fallout.Fallout1MaxStonev2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -581,7 +581,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up1NataliaDubrovhsky": {
+	"geometry.Fallout.Fallout1NataliaDubrovhsky": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -736,7 +736,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up1NataliaDubrovhskyv2": {
+	"geometry.Fallout.Fallout1NataliaDubrovhskyv2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -891,7 +891,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up2Chitsa": {
+	"geometry.Fallout.Fallout2Chitsa": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1046,7 +1046,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up2Hakunin": {
+	"geometry.Fallout.Fallout2Hakunin": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1236,7 +1236,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up2Harold": {
+	"geometry.Fallout.Fallout2Harold": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1402,7 +1402,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up2Mingan": {
+	"geometry.Fallout.Fallout2Mingan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1557,7 +1557,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up2Narg": {
+	"geometry.Fallout.Fallout2Narg": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1723,7 +1723,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3BettyStanislausBraun": {
+	"geometry.Fallout.Fallout3BettyStanislausBraun": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -1878,7 +1878,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3BrotherhoodofSteelPaladin": {
+	"geometry.Fallout.Fallout3BrotherhoodofSteelPaladin": {
 		"bones": [
 			{
 				"pivot": [0, 25, 0],
@@ -2086,7 +2086,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3ButchDeLoria": {
+	"geometry.Fallout.Fallout3ButchDeLoria": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2252,7 +2252,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3Clover": {
+	"geometry.Fallout.Fallout3Clover": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2407,7 +2407,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3ColonelAutumn": {
+	"geometry.Fallout.Fallout3ColonelAutumn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2562,7 +2562,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3Fawkes": {
+	"geometry.Fallout.Fallout3Fawkes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2717,7 +2717,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3James": {
+	"geometry.Fallout.Fallout3James": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2872,7 +2872,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3LoneWanderer": {
+	"geometry.Fallout.Fallout3LoneWanderer": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3040,7 +3040,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3LoneWandererv2": {
+	"geometry.Fallout.Fallout3LoneWandererv2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3206,7 +3206,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3MoiraBrown": {
+	"geometry.Fallout.Fallout3MoiraBrown": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3371,7 +3371,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3StarPaladinCross": {
+	"geometry.Fallout.Fallout3StarPaladinCross": {
 		"bones": [
 			{
 				"pivot": [0, 25, 0],
@@ -3568,7 +3568,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up3ThreeDog": {
+	"geometry.Fallout.Fallout3ThreeDog": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3723,7 +3723,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4Bosco": {
+	"geometry.Fallout.Fallout4Bosco": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3903,7 +3903,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4Cait": {
+	"geometry.Fallout.Fallout4Cait": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4058,7 +4058,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4Hancock": {
+	"geometry.Fallout.Fallout4Hancock": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4225,7 +4225,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4JanglestheMoonMonkey": {
+	"geometry.Fallout.Fallout4JanglestheMoonMonkey": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -4391,7 +4391,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4Kellogg": {
+	"geometry.Fallout.Fallout4Kellogg": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4556,7 +4556,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4NickValentine": {
+	"geometry.Fallout.Fallout4NickValentine": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4737,7 +4737,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4PaladinDanse": {
+	"geometry.Fallout.Fallout4PaladinDanse": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4932,7 +4932,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4Piper": {
+	"geometry.Fallout.Fallout4Piper": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5097,7 +5097,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4PrestonGarvey": {
+	"geometry.Fallout.Fallout4PrestonGarvey": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5269,7 +5269,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4SilverShroud": {
+	"geometry.Fallout.Fallout4SilverShroud": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5437,7 +5437,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4SoleSurvivor": {
+	"geometry.Fallout.Fallout4SoleSurvivor": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5592,7 +5592,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4SoleSurvivorv2": {
+	"geometry.Fallout.Fallout4SoleSurvivorv2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5747,7 +5747,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4TheMechanist": {
+	"geometry.Fallout.Fallout4TheMechanist": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5919,7 +5919,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-up4TinkerTom": {
+	"geometry.Fallout.Fallout4TinkerTom": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6086,7 +6086,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upGrognaktheBarbarian": {
+	"geometry.Fallout.FalloutGrognaktheBarbarian": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6241,7 +6241,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upGrognaktheBarbarianv2": {
+	"geometry.Fallout.FalloutGrognaktheBarbarianv2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6396,7 +6396,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upRaider": {
+	"geometry.Fallout.FalloutRaider": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6551,7 +6551,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "slim"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upRaiderv2": {
+	"geometry.Fallout.FalloutRaiderv2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6778,7 +6778,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upSuperMutant": {
+	"geometry.Fallout.FalloutSuperMutant": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6941,7 +6941,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upVaultBoy": {
+	"geometry.Fallout.FalloutVaultBoy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7098,7 +7098,7 @@
 		"META_ModelVersion": "1.0.6",
 		"rigtype": "normal"
 	},
-	"geometry.fallout-mash-up.fallout-mash-upVaultGirl": {
+	"geometry.Fallout.FalloutVaultGirl": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

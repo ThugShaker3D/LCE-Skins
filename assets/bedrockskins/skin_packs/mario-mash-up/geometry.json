@@ -1,5 +1,5 @@
 {
-	"geometry.mario-mash-up.Birdo": {
+	"geometry.MarioBrothers.Birdo": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -133,7 +133,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.BoomerangMario": {
+	"geometry.MarioBrothers.BoomerangMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -338,7 +338,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.BoomBoom": {
+	"geometry.MarioBrothers.BoomBoom": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -514,7 +514,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Bowser": {
+	"geometry.MarioBrothers.Bowser": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -729,7 +729,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.BowserJr": {
+	"geometry.MarioBrothers.BowserJr": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -864,7 +864,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.CaptainToad": {
+	"geometry.MarioBrothers.CaptainToad": {
 		"bones": [
 			{
 				"pivot": [0, 17, 0],
@@ -1076,7 +1076,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.CatMario": {
+	"geometry.MarioBrothers.CatMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -1282,7 +1282,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.CatPeach": {
+	"geometry.MarioBrothers.CatPeach": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1464,7 +1464,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Daisy": {
+	"geometry.MarioBrothers.Daisy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1714,7 +1714,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.DiddyKong": {
+	"geometry.MarioBrothers.DiddyKong": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -1842,7 +1842,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.DonkeyKong": {
+	"geometry.MarioBrothers.DonkeyKong": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2051,7 +2051,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.DrMario": {
+	"geometry.MarioBrothers.DrMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -2251,7 +2251,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.DryBones": {
+	"geometry.MarioBrothers.DryBones": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -2458,7 +2458,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.FireMario": {
+	"geometry.MarioBrothers.FireMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -2658,7 +2658,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.HammerBro": {
+	"geometry.MarioBrothers.HammerBro": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -2852,7 +2852,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Iggy": {
+	"geometry.MarioBrothers.Iggy": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -3042,7 +3042,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Kamek": {
+	"geometry.MarioBrothers.Kamek": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -3284,7 +3284,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.KitsuneLuigi": {
+	"geometry.MarioBrothers.KitsuneLuigi": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3470,7 +3470,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.KoopaTroopa": {
+	"geometry.MarioBrothers.KoopaTroopa": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -3679,7 +3679,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Larry": {
+	"geometry.MarioBrothers.Larry": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -3864,7 +3864,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Lemmy": {
+	"geometry.MarioBrothers.Lemmy": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -4011,7 +4011,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.Ludwig": {
+	"geometry.MarioBrothers.Ludwig": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -4200,7 +4200,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Luigi": {
+	"geometry.MarioBrothers.Luigi": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4368,7 +4368,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.LuigiwithPoltergust": {
+	"geometry.MarioBrothers.LuigiwithPoltergust": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4551,7 +4551,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Mario": {
+	"geometry.MarioBrothers.Mario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -4751,7 +4751,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.MariowithFLUDD": {
+	"geometry.MarioBrothers.MariowithFLUDD": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -4959,7 +4959,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Morton": {
+	"geometry.MarioBrothers.Morton": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -5143,7 +5143,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Peach": {
+	"geometry.MarioBrothers.Peach": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5401,7 +5401,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.PeteyPiranha": {
+	"geometry.MarioBrothers.PeteyPiranha": {
 		"bones": [
 			{
 				"pivot": [0, 23, 0],
@@ -5599,7 +5599,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.PropellerMario": {
+	"geometry.MarioBrothers.PropellerMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -5801,7 +5801,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Rosalina": {
+	"geometry.MarioBrothers.Rosalina": {
 		"bones": [
 			{
 				"pivot": [0, 25, 0],
@@ -6059,7 +6059,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Roy": {
+	"geometry.MarioBrothers.Roy": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -6235,7 +6235,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.ShyGuy": {
+	"geometry.MarioBrothers.ShyGuy": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -6360,7 +6360,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.TanookiMario": {
+	"geometry.MarioBrothers.TanookiMario": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -6566,7 +6566,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Toad": {
+	"geometry.MarioBrothers.Toad": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -6698,7 +6698,7 @@
 			}
 		]
 	},
-	"geometry.mario-mash-up.Toadette": {
+	"geometry.MarioBrothers.Toadette": {
 		"bones": [
 			{
 				"pivot": [0, 17, 0],
@@ -6902,7 +6902,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Waluigi": {
+	"geometry.MarioBrothers.Waluigi": {
 		"bones": [
 			{
 				"pivot": [0, 25, 0],
@@ -7104,7 +7104,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Wario": {
+	"geometry.MarioBrothers.Wario": {
 		"bones": [
 			{
 				"pivot": [0, 23, 0],
@@ -7296,7 +7296,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Wendy": {
+	"geometry.MarioBrothers.Wendy": {
 		"bones": [
 			{
 				"pivot": [0, 22, 0],
@@ -7484,7 +7484,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.mario-mash-up.Yoshi": {
+	"geometry.MarioBrothers.Yoshi": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,

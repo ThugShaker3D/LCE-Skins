@@ -1,5 +1,5 @@
 {
-  "geometry.4th-birthday-skin-pack.ChickenTShirt": {
+  "geometry.4thBirthday.ChickenTShirt": {
     "bones": [
       {
         "pivot": [
@@ -485,7 +485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.ChickenTShirtv2": {
+  "geometry.4thBirthday.ChickenTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -971,7 +971,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.CreeperTShirt": {
+  "geometry.4thBirthday.CreeperTShirt": {
     "bones": [
       {
         "pivot": [
@@ -1457,7 +1457,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.CreeperTShirtv2": {
+  "geometry.4thBirthday.CreeperTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -1943,7 +1943,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.GhastTShirt": {
+  "geometry.4thBirthday.GhastTShirt": {
     "bones": [
       {
         "pivot": [
@@ -2429,7 +2429,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.GhastTShirtv2": {
+  "geometry.4thBirthday.GhastTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -2915,7 +2915,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.GuardianTShirt": {
+  "geometry.4thBirthday.GuardianTShirt": {
     "bones": [
       {
         "pivot": [
@@ -3401,7 +3401,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.GuardianTShirtv2": {
+  "geometry.4thBirthday.GuardianTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -3887,7 +3887,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.OcelotTShirt": {
+  "geometry.4thBirthday.OcelotTShirt": {
     "bones": [
       {
         "pivot": [
@@ -4391,7 +4391,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.OcelotTShirtv2": {
+  "geometry.4thBirthday.OcelotTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -4895,7 +4895,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SheepTShirt": {
+  "geometry.4thBirthday.SheepTShirt": {
     "bones": [
       {
         "pivot": [
@@ -5381,7 +5381,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SheepTShirtv2": {
+  "geometry.4thBirthday.SheepTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -5867,7 +5867,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SkeletonTShirt": {
+  "geometry.4thBirthday.SkeletonTShirt": {
     "bones": [
       {
         "pivot": [
@@ -6353,7 +6353,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SkeletonTShirtv2": {
+  "geometry.4thBirthday.SkeletonTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -6839,7 +6839,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SlimeTShirt": {
+  "geometry.4thBirthday.SlimeTShirt": {
     "bones": [
       {
         "pivot": [
@@ -7325,7 +7325,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.SlimeTShirtv2": {
+  "geometry.4thBirthday.SlimeTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -7811,7 +7811,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.WitherTShirt": {
+  "geometry.4thBirthday.WitherTShirt": {
     "bones": [
       {
         "pivot": [
@@ -8297,7 +8297,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.WitherTShirtv2": {
+  "geometry.4thBirthday.WitherTShirtv2": {
     "bones": [
       {
         "pivot": [
@@ -8783,7 +8783,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.WolfTShirt": {
+  "geometry.4thBirthday.WolfTShirt": {
     "bones": [
       {
         "pivot": [
@@ -9269,7 +9269,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.4th-birthday-skin-pack.WolfTShirtv2": {
+  "geometry.4thBirthday.WolfTShirtv2": {
     "bones": [
       {
         "pivot": [
