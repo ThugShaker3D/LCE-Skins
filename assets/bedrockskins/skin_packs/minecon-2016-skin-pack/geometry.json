@@ -1,5 +1,5 @@
 {
-  "geometry.Minecon2016.AlexCape2011": {
+  "geometry.minecon-2016-skin-pack.AlexCape2011": {
     "bones": [
       {
         "pivot": [
@@ -486,7 +486,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.SteveCape2011": {
+  "geometry.minecon-2016-skin-pack.SteveCape2011": {
     "bones": [
       {
         "pivot": [
@@ -973,7 +973,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.AlexCape2012": {
+  "geometry.minecon-2016-skin-pack.AlexCape2012": {
     "bones": [
       {
         "pivot": [
@@ -1460,7 +1460,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.SteveCape2012": {
+  "geometry.minecon-2016-skin-pack.SteveCape2012": {
     "bones": [
       {
         "pivot": [
@@ -1947,7 +1947,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.AlexCape2013": {
+  "geometry.minecon-2016-skin-pack.AlexCape2013": {
     "bones": [
       {
         "pivot": [
@@ -2434,7 +2434,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.SteveCape2013": {
+  "geometry.minecon-2016-skin-pack.SteveCape2013": {
     "bones": [
       {
         "pivot": [
@@ -2921,7 +2921,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.AlexCape2015": {
+  "geometry.minecon-2016-skin-pack.AlexCape2015": {
     "bones": [
       {
         "pivot": [
@@ -3408,7 +3408,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.SteveCape2015": {
+  "geometry.minecon-2016-skin-pack.SteveCape2015": {
     "bones": [
       {
         "pivot": [
@@ -3895,7 +3895,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.AlexCape2016": {
+  "geometry.minecon-2016-skin-pack.AlexCape2016": {
     "bones": [
       {
         "pivot": [
@@ -4382,7 +4382,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.SteveCape2016": {
+  "geometry.minecon-2016-skin-pack.SteveCape2016": {
     "bones": [
       {
         "pivot": [
@@ -4869,7 +4869,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.ForestPVP": {
+  "geometry.minecon-2016-skin-pack.ForestPVP": {
     "bones": [
       {
         "pivot": [
@@ -5355,7 +5355,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.IceExplorer": {
+  "geometry.minecon-2016-skin-pack.IceExplorer": {
     "bones": [
       {
         "pivot": [
@@ -5841,7 +5841,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.MesaCrafter": {
+  "geometry.minecon-2016-skin-pack.MesaCrafter": {
     "bones": [
       {
         "pivot": [
@@ -6327,7 +6327,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2016.OceanInventor": {
+  "geometry.minecon-2016-skin-pack.OceanInventor": {
     "bones": [
       {
         "pivot": [

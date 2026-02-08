@@ -1,5 +1,5 @@
 {
-  "geometry.StarWarsPrequel.AaylaSecura": {
+  "geometry.star-wars-prequel-skin-pack.AaylaSecura": {
     "bones": [
       {
         "pivot": [
@@ -786,7 +786,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.AdiGallia": {
+  "geometry.star-wars-prequel-skin-pack.AdiGallia": {
     "bones": [
       {
         "pivot": [
@@ -1556,7 +1556,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.AhsokaTano": {
+  "geometry.star-wars-prequel-skin-pack.AhsokaTano": {
     "bones": [
       {
         "pivot": [
@@ -2233,7 +2233,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.AsajjVentress": {
+  "geometry.star-wars-prequel-skin-pack.AsajjVentress": {
     "bones": [
       {
         "pivot": [
@@ -2839,7 +2839,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.BailOrgana": {
+  "geometry.star-wars-prequel-skin-pack.BailOrgana": {
     "bones": [
       {
         "pivot": [
@@ -3325,7 +3325,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.BattleDressQueenAmidalav2": {
+  "geometry.star-wars-prequel-skin-pack.BattleDressQueenAmidalav2": {
     "bones": [
       {
         "pivot": [
@@ -3863,7 +3863,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.BattleDroidonC3PO": {
+  "geometry.star-wars-prequel-skin-pack.BattleDroidonC3PO": {
     "bones": [
       {
         "pivot": [
@@ -4384,7 +4384,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.BeruWhitesunLars": {
+  "geometry.star-wars-prequel-skin-pack.BeruWhitesunLars": {
     "bones": [
       {
         "pivot": [
@@ -4942,7 +4942,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.BossNass": {
+  "geometry.star-wars-prequel-skin-pack.BossNass": {
     "bones": [
       {
         "pivot": [
@@ -5818,7 +5818,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.C3POonBattleDroid": {
+  "geometry.star-wars-prequel-skin-pack.C3POonBattleDroid": {
     "bones": [
       {
         "pivot": [
@@ -6392,7 +6392,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CadBane": {
+  "geometry.star-wars-prequel-skin-pack.CadBane": {
     "bones": [
       {
         "pivot": [
@@ -7342,7 +7342,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CaptainPanaka": {
+  "geometry.star-wars-prequel-skin-pack.CaptainPanaka": {
     "bones": [
       {
         "pivot": [
@@ -7932,7 +7932,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CaptainTypho": {
+  "geometry.star-wars-prequel-skin-pack.CaptainTypho": {
     "bones": [
       {
         "pivot": [
@@ -8452,7 +8452,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CloneCaptainRex": {
+  "geometry.star-wars-prequel-skin-pack.CloneCaptainRex": {
     "bones": [
       {
         "pivot": [
@@ -9256,7 +9256,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CloneCommanderCody": {
+  "geometry.star-wars-prequel-skin-pack.CloneCommanderCody": {
     "bones": [
       {
         "pivot": [
@@ -10028,7 +10028,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CloneCommanderGree": {
+  "geometry.star-wars-prequel-skin-pack.CloneCommanderGree": {
     "bones": [
       {
         "pivot": [
@@ -10795,7 +10795,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CommanderBattleDroid": {
+  "geometry.star-wars-prequel-skin-pack.CommanderBattleDroid": {
     "bones": [
       {
         "pivot": [
@@ -11369,7 +11369,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.CountDooku": {
+  "geometry.star-wars-prequel-skin-pack.CountDooku": {
     "bones": [
       {
         "pivot": [
@@ -11927,7 +11927,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.DarthMaul": {
+  "geometry.star-wars-prequel-skin-pack.DarthMaul": {
     "bones": [
       {
         "pivot": [
@@ -12713,7 +12713,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.GeneralGrievous": {
+  "geometry.star-wars-prequel-skin-pack.GeneralGrievous": {
     "bones": [
       {
         "pivot": [
@@ -13432,7 +13432,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.GeonosisSenatorPadmeAmidala": {
+  "geometry.star-wars-prequel-skin-pack.GeonosisSenatorPadmeAmidala": {
     "bones": [
       {
         "pivot": [
@@ -14152,7 +14152,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.HondoOhnaka": {
+  "geometry.star-wars-prequel-skin-pack.HondoOhnaka": {
     "bones": [
       {
         "pivot": [
@@ -14638,7 +14638,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.InfantryBattleDroid": {
+  "geometry.star-wars-prequel-skin-pack.InfantryBattleDroid": {
     "bones": [
       {
         "pivot": [
@@ -15192,7 +15192,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.JangoFett": {
+  "geometry.star-wars-prequel-skin-pack.JangoFett": {
     "bones": [
       {
         "pivot": [
@@ -16065,7 +16065,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.JediKnightAnakinSkywalker": {
+  "geometry.star-wars-prequel-skin-pack.JediKnightAnakinSkywalker": {
     "bones": [
       {
         "pivot": [
@@ -16853,7 +16853,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.JediMasterObiWanKenobi": {
+  "geometry.star-wars-prequel-skin-pack.JediMasterObiWanKenobi": {
     "bones": [
       {
         "pivot": [
@@ -17479,7 +17479,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.KashyyykTrooper": {
+  "geometry.star-wars-prequel-skin-pack.KashyyykTrooper": {
     "bones": [
       {
         "pivot": [
@@ -18196,7 +18196,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.KiAdiMundi": {
+  "geometry.star-wars-prequel-skin-pack.KiAdiMundi": {
     "bones": [
       {
         "pivot": [
@@ -18981,7 +18981,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.KitFisto": {
+  "geometry.star-wars-prequel-skin-pack.KitFisto": {
     "bones": [
       {
         "pivot": [
@@ -19768,7 +19768,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.LamaSu": {
+  "geometry.star-wars-prequel-skin-pack.LamaSu": {
     "bones": [
       {
         "pivot": [
@@ -20394,7 +20394,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.MaceWindu": {
+  "geometry.star-wars-prequel-skin-pack.MaceWindu": {
     "bones": [
       {
         "pivot": [
@@ -20931,7 +20931,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.MagnaGuard": {
+  "geometry.star-wars-prequel-skin-pack.MagnaGuard": {
     "bones": [
       {
         "pivot": [
@@ -21486,7 +21486,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.MasAmedda": {
+  "geometry.star-wars-prequel-skin-pack.MasAmedda": {
     "bones": [
       {
         "pivot": [
@@ -22187,7 +22187,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.MotherTalzin": {
+  "geometry.star-wars-prequel-skin-pack.MotherTalzin": {
     "bones": [
       {
         "pivot": [
@@ -23111,7 +23111,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.NabooThroneRoomQueenAmidala": {
+  "geometry.star-wars-prequel-skin-pack.NabooThroneRoomQueenAmidala": {
     "bones": [
       {
         "pivot": [
@@ -24271,7 +24271,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.NuteGunray": {
+  "geometry.star-wars-prequel-skin-pack.NuteGunray": {
     "bones": [
       {
         "pivot": [
@@ -24952,7 +24952,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.OwenLars": {
+  "geometry.star-wars-prequel-skin-pack.OwenLars": {
     "bones": [
       {
         "pivot": [
@@ -25438,7 +25438,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PeasantDisguisePadmeAmidalav2": {
+  "geometry.star-wars-prequel-skin-pack.PeasantDisguisePadmeAmidalav2": {
     "bones": [
       {
         "pivot": [
@@ -26102,7 +26102,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PhaseICloneTrooper": {
+  "geometry.star-wars-prequel-skin-pack.PhaseICloneTrooper": {
     "bones": [
       {
         "pivot": [
@@ -26677,7 +26677,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PilotBattleDroid": {
+  "geometry.star-wars-prequel-skin-pack.PilotBattleDroid": {
     "bones": [
       {
         "pivot": [
@@ -27198,7 +27198,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PilotDisguisePadmeAmidala": {
+  "geometry.star-wars-prequel-skin-pack.PilotDisguisePadmeAmidala": {
     "bones": [
       {
         "pivot": [
@@ -27684,7 +27684,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PloKoon": {
+  "geometry.star-wars-prequel-skin-pack.PloKoon": {
     "bones": [
       {
         "pivot": [
@@ -28313,7 +28313,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.PoggletheLesser": {
+  "geometry.star-wars-prequel-skin-pack.PoggletheLesser": {
     "bones": [
       {
         "pivot": [
@@ -29177,7 +29177,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.QuiGonJinn": {
+  "geometry.star-wars-prequel-skin-pack.QuiGonJinn": {
     "bones": [
       {
         "pivot": [
@@ -29908,7 +29908,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.SavageOpress": {
+  "geometry.star-wars-prequel-skin-pack.SavageOpress": {
     "bones": [
       {
         "pivot": [
@@ -30711,7 +30711,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.SecurityBattleDroid": {
+  "geometry.star-wars-prequel-skin-pack.SecurityBattleDroid": {
     "bones": [
       {
         "pivot": [
@@ -31232,7 +31232,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.SenatorPalpatine": {
+  "geometry.star-wars-prequel-skin-pack.SenatorPalpatine": {
     "bones": [
       {
         "pivot": [
@@ -31719,7 +31719,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.ShaakTi": {
+  "geometry.star-wars-prequel-skin-pack.ShaakTi": {
     "bones": [
       {
         "pivot": [
@@ -32561,7 +32561,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.TionMedon": {
+  "geometry.star-wars-prequel-skin-pack.TionMedon": {
     "bones": [
       {
         "pivot": [
@@ -33082,7 +33082,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.WatTambor": {
+  "geometry.star-wars-prequel-skin-pack.WatTambor": {
     "bones": [
       {
         "pivot": [
@@ -33657,7 +33657,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.Watto": {
+  "geometry.star-wars-prequel-skin-pack.Watto": {
     "bones": [
       {
         "pivot": [
@@ -34718,7 +34718,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsPrequel.ZamWesell": {
+  "geometry.star-wars-prequel-skin-pack.ZamWesell": {
     "bones": [
       {
         "pivot": [

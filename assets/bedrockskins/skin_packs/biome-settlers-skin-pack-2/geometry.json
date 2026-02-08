@@ -1,5 +1,5 @@
 {
-   "geometry.Biome2.mushroom_archer" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_archer" : {
       "bones" : [
          {
             "name" : "body",
@@ -441,7 +441,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.mushroom_brawler" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_brawler" : {
       "bones" : [
          {
             "name" : "body",
@@ -980,7 +980,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.mushroom_brewer" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_brewer" : {
       "bones" : [
          {
             "name" : "body",
@@ -1450,7 +1450,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.mushroom_explorer" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_explorer" : {
       "bones" : [
          {
             "name" : "body",
@@ -1972,7 +1972,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.mushroom_farmer" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_farmer" : {
       "bones" : [
          {
             "name" : "body",
@@ -2443,7 +2443,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.mushroom_forager" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_forager" : {
       "bones" : [
          {
             "name" : "body",
@@ -2948,7 +2948,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.mushroom_hunter" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_hunter" : {
       "bones" : [
          {
             "name" : "body",
@@ -3421,7 +3421,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.mushroom_miner" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_miner" : {
       "bones" : [
          {
             "name" : "body",
@@ -3960,7 +3960,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.mushroom_shroom_glutton" : {
+   "geometry.biome-settlers-skin-pack-2.mushroom_shroom_glutton" : {
       "bones" : [
          {
             "name" : "body",
@@ -4466,7 +4466,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.nether_banished" : {
+   "geometry.biome-settlers-skin-pack-2.nether_banished" : {
       "bones" : [
          {
             "name" : "body",
@@ -5037,7 +5037,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.nether_brewer" : {
+   "geometry.biome-settlers-skin-pack-2.nether_brewer" : {
       "bones" : [
          {
             "name" : "body",
@@ -5746,7 +5746,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.nether_engineer" : {
+   "geometry.biome-settlers-skin-pack-2.nether_engineer" : {
       "bones" : [
          {
             "name" : "body",
@@ -6285,7 +6285,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.nether_explorer" : {
+   "geometry.biome-settlers-skin-pack-2.nether_explorer" : {
       "bones" : [
          {
             "name" : "body",
@@ -6650,7 +6650,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.nether_extinguisher" : {
+   "geometry.biome-settlers-skin-pack-2.nether_extinguisher" : {
       "bones" : [
          {
             "name" : "body",
@@ -7443,7 +7443,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.nether_farmer" : {
+   "geometry.biome-settlers-skin-pack-2.nether_farmer" : {
       "bones" : [
          {
             "name" : "body",
@@ -8083,7 +8083,7 @@
       ],
       "rigType" : "female"
    },
-   "geometry.Biome2.nether_hunter" : {
+   "geometry.biome-settlers-skin-pack-2.nether_hunter" : {
       "bones" : [
          {
             "name" : "body",
@@ -8588,7 +8588,7 @@
       ],
       "rigType" : "male"
    },
-   "geometry.Biome2.nether_miner" : {
+   "geometry.biome-settlers-skin-pack-2.nether_miner" : {
       "bones" : [
          {
             "name" : "body",

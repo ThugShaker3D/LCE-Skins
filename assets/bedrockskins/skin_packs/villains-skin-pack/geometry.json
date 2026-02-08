@@ -1,5 +1,5 @@
 {
-  "geometry.Villains.Bisector": {
+  "geometry.villains-skin-pack.Bisector": {
     "bones": [
       {
         "pivot": [
@@ -485,7 +485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.CakeManiac": {
+  "geometry.villains-skin-pack.CakeManiac": {
     "bones": [
       {
         "pivot": [
@@ -1239,7 +1239,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Doorman": {
+  "geometry.villains-skin-pack.Doorman": {
     "bones": [
       {
         "pivot": [
@@ -1825,7 +1825,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.DungeonSpector": {
+  "geometry.villains-skin-pack.DungeonSpector": {
     "bones": [
       {
         "pivot": [
@@ -2375,7 +2375,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Enchantro": {
+  "geometry.villains-skin-pack.Enchantro": {
     "bones": [
       {
         "pivot": [
@@ -3057,7 +3057,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Endergaunt": {
+  "geometry.villains-skin-pack.Endergaunt": {
     "bones": [
       {
         "pivot": [
@@ -3644,7 +3644,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Eyece": {
+  "geometry.villains-skin-pack.Eyece": {
     "bones": [
       {
         "pivot": [
@@ -4502,7 +4502,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Frankencrafter": {
+  "geometry.villains-skin-pack.Frankencrafter": {
     "bones": [
       {
         "pivot": [
@@ -5070,7 +5070,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.LavaFiend": {
+  "geometry.villains-skin-pack.LavaFiend": {
     "bones": [
       {
         "pivot": [
@@ -5765,7 +5765,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Patchkin": {
+  "geometry.villains-skin-pack.Patchkin": {
     "bones": [
       {
         "pivot": [
@@ -6251,7 +6251,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.RedstoneZealot": {
+  "geometry.villains-skin-pack.RedstoneZealot": {
     "bones": [
       {
         "pivot": [
@@ -6772,7 +6772,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.SilverfishMonger": {
+  "geometry.villains-skin-pack.SilverfishMonger": {
     "bones": [
       {
         "pivot": [
@@ -7574,7 +7574,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Slymime": {
+  "geometry.villains-skin-pack.Slymime": {
     "bones": [
       {
         "pivot": [
@@ -8143,7 +8143,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.StrongholdMonarch": {
+  "geometry.villains-skin-pack.StrongholdMonarch": {
     "bones": [
       {
         "pivot": [
@@ -9057,7 +9057,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.StrongholdSeer": {
+  "geometry.villains-skin-pack.StrongholdSeer": {
     "bones": [
       {
         "pivot": [
@@ -9698,7 +9698,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.Swindler": {
+  "geometry.villains-skin-pack.Swindler": {
     "bones": [
       {
         "pivot": [
@@ -10339,7 +10339,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Villains.TerrorSpawner": {
+  "geometry.villains-skin-pack.TerrorSpawner": {
     "bones": [
       {
         "pivot": [

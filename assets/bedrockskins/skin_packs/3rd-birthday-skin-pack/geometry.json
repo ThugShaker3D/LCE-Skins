@@ -1,5 +1,5 @@
 {
-  "geometry.3rdBirthday.Aron": {
+  "geometry.3rd-birthday-skin-pack.Aron": {
     "bones": [
       {
         "pivot": [
@@ -485,7 +485,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.DanielFrisk": {
+  "geometry.3rd-birthday-skin-pack.DanielFrisk": {
     "bones": [
       {
         "pivot": [
@@ -971,7 +971,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.DanielKaplan": {
+  "geometry.3rd-birthday-skin-pack.DanielKaplan": {
     "bones": [
       {
         "pivot": [
@@ -1457,7 +1457,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Erik": {
+  "geometry.3rd-birthday-skin-pack.Erik": {
     "bones": [
       {
         "pivot": [
@@ -1943,7 +1943,7 @@
     "animationUpsideDown": true,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Henrik": {
+  "geometry.3rd-birthday-skin-pack.Henrik": {
     "bones": [
       {
         "pivot": [
@@ -2429,7 +2429,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Jens": {
+  "geometry.3rd-birthday-skin-pack.Jens": {
     "bones": [
       {
         "pivot": [
@@ -2916,7 +2916,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Johan": {
+  "geometry.3rd-birthday-skin-pack.Johan": {
     "bones": [
       {
         "pivot": [
@@ -3402,7 +3402,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Jon": {
+  "geometry.3rd-birthday-skin-pack.Jon": {
     "bones": [
       {
         "pivot": [
@@ -3888,7 +3888,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Karin": {
+  "geometry.3rd-birthday-skin-pack.Karin": {
     "bones": [
       {
         "pivot": [
@@ -4374,7 +4374,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Kristoffer": {
+  "geometry.3rd-birthday-skin-pack.Kristoffer": {
     "bones": [
       {
         "pivot": [
@@ -4860,7 +4860,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Lydia": {
+  "geometry.3rd-birthday-skin-pack.Lydia": {
     "bones": [
       {
         "pivot": [
@@ -5346,7 +5346,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Mans": {
+  "geometry.3rd-birthday-skin-pack.Mans": {
     "bones": [
       {
         "pivot": [
@@ -5867,7 +5867,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.MarkusJunkboy": {
+  "geometry.3rd-birthday-skin-pack.MarkusJunkboy": {
     "bones": [
       {
         "pivot": [
@@ -6353,7 +6353,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Mattis": {
+  "geometry.3rd-birthday-skin-pack.Mattis": {
     "bones": [
       {
         "pivot": [
@@ -6839,7 +6839,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Nathan": {
+  "geometry.3rd-birthday-skin-pack.Nathan": {
     "bones": [
       {
         "pivot": [
@@ -7325,7 +7325,7 @@
     "animationUpsideDown": true,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.RedstoneCreature": {
+  "geometry.3rd-birthday-skin-pack.RedstoneCreature": {
     "bones": [
       {
         "pivot": [
@@ -7811,7 +7811,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.SandstoneCreature": {
+  "geometry.3rd-birthday-skin-pack.SandstoneCreature": {
     "bones": [
       {
         "pivot": [
@@ -8297,7 +8297,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.TheEndCreature": {
+  "geometry.3rd-birthday-skin-pack.TheEndCreature": {
     "bones": [
       {
         "pivot": [
@@ -8783,7 +8783,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.3rdBirthday.Tommaso": {
+  "geometry.3rd-birthday-skin-pack.Tommaso": {
     "bones": [
       {
         "pivot": [

@@ -1,5 +1,5 @@
 {
-	"geometry.ChineseMythology.Blackwind": {
+	"geometry.chinese-mythology-mash-up.Blackwind": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -172,7 +172,7 @@
 			}
 		]
 	},
-	"geometry.ChineseMythology.BronzeStatueGuardianLion": {
+	"geometry.chinese-mythology-mash-up.BronzeStatueGuardianLion": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -378,7 +378,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.BullDemonKing": {
+	"geometry.chinese-mythology-mash-up.BullDemonKing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -578,7 +578,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ChineseOperaChing": {
+	"geometry.chinese-mythology-mash-up.ChineseOperaChing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -773,7 +773,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ChineseOperaTan": {
+	"geometry.chinese-mythology-mash-up.ChineseOperaTan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -975,7 +975,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ClayStatueTerracottaWarrior": {
+	"geometry.chinese-mythology-mash-up.ClayStatueTerracottaWarrior": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1172,7 +1172,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.DemonBanditGoldenHorn": {
+	"geometry.chinese-mythology-mash-up.DemonBanditGoldenHorn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1385,7 +1385,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.DemonBanditSilverHorn": {
+	"geometry.chinese-mythology-mash-up.DemonBanditSilverHorn": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1592,7 +1592,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.DragonDancerSuitChineseDragonHead": {
+	"geometry.chinese-mythology-mash-up.DragonDancerSuitChineseDragonHead": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1827,7 +1827,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.DragonDancerSuitChineseDragonTail": {
+	"geometry.chinese-mythology-mash-up.DragonDancerSuitChineseDragonTail": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1992,7 +1992,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.DragonMotherGoddessLongmu": {
+	"geometry.chinese-mythology-mash-up.DragonMotherGoddessLongmu": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2194,7 +2194,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.EasternSymbolAzureDragon": {
+	"geometry.chinese-mythology-mash-up.EasternSymbolAzureDragon": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2481,7 +2481,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.FishWarriorRiverDemon": {
+	"geometry.chinese-mythology-mash-up.FishWarriorRiverDemon": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2722,7 +2722,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ShaWujing": {
+	"geometry.chinese-mythology-mash-up.ShaWujing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2911,7 +2911,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.Guanyin": {
+	"geometry.chinese-mythology-mash-up.Guanyin": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3101,7 +3101,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.HeavensGatekeeperHeavenlyKingLiJing": {
+	"geometry.chinese-mythology-mash-up.HeavensGatekeeperHeavenlyKingLiJing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3310,7 +3310,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.JadeEmperor": {
+	"geometry.chinese-mythology-mash-up.JadeEmperor": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3498,7 +3498,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.LadyEarthFlow": {
+	"geometry.chinese-mythology-mash-up.LadyEarthFlow": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3708,7 +3708,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.LegendaryEmpressEmpressWuZetian": {
+	"geometry.chinese-mythology-mash-up.LegendaryEmpressEmpressWuZetian": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3921,7 +3921,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.LordHundredEyes": {
+	"geometry.chinese-mythology-mash-up.LordHundredEyes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4137,7 +4137,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.MalevolentImmortalFoxSpiritDaji": {
+	"geometry.chinese-mythology-mash-up.MalevolentImmortalFoxSpiritDaji": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4328,7 +4328,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.MonkeyKing": {
+	"geometry.chinese-mythology-mash-up.MonkeyKing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4535,7 +4535,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ZhuBajie": {
+	"geometry.chinese-mythology-mash-up.ZhuBajie": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4746,7 +4746,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.MoonGoddessChange": {
+	"geometry.chinese-mythology-mash-up.MoonGoddessChange": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4940,7 +4940,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.MoonSpiritJadeRabbit": {
+	"geometry.chinese-mythology-mash-up.MoonSpiritJadeRabbit": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5121,7 +5121,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.NorthernSymbolBlackTurtle": {
+	"geometry.chinese-mythology-mash-up.NorthernSymbolBlackTurtle": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5345,7 +5345,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.OneHornedDemonRhinocerosKing": {
+	"geometry.chinese-mythology-mash-up.OneHornedDemonRhinocerosKing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5600,7 +5600,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.Baigujing": {
+	"geometry.chinese-mythology-mash-up.Baigujing": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5746,7 +5746,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.PrincessIronFan": {
+	"geometry.chinese-mythology-mash-up.PrincessIronFan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5918,7 +5918,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.RebellionLeaderPrincessZhaoofPingyang": {
+	"geometry.chinese-mythology-mash-up.RebellionLeaderPrincessZhaoofPingyang": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6098,7 +6098,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.RedBoy": {
+	"geometry.chinese-mythology-mash-up.RedBoy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6272,7 +6272,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.ScorpionDemon": {
+	"geometry.chinese-mythology-mash-up.ScorpionDemon": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6457,7 +6457,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.SnakeCelestialGoddessNuwa": {
+	"geometry.chinese-mythology-mash-up.SnakeCelestialGoddessNuwa": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6677,7 +6677,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.SouthernSymbolVermillionBird": {
+	"geometry.chinese-mythology-mash-up.SouthernSymbolVermillionBird": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6921,7 +6921,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.SpiderDemon": {
+	"geometry.chinese-mythology-mash-up.SpiderDemon": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7133,7 +7133,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.SunWukongsMasterElderSubhuti": {
+	"geometry.chinese-mythology-mash-up.SunWukongsMasterElderSubhuti": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7314,7 +7314,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.TangDynastyEmperorTaizong": {
+	"geometry.chinese-mythology-mash-up.TangDynastyEmperorTaizong": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7491,7 +7491,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.TheLotusPrincePrinceNezha": {
+	"geometry.chinese-mythology-mash-up.TheLotusPrincePrinceNezha": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7744,7 +7744,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.UnderworldKingYanWang": {
+	"geometry.chinese-mythology-mash-up.UnderworldKingYanWang": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8004,7 +8004,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.WesternSymbolWhiteTiger": {
+	"geometry.chinese-mythology-mash-up.WesternSymbolWhiteTiger": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8233,7 +8233,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.ChineseMythology.Xuangzang": {
+	"geometry.chinese-mythology-mash-up.Xuangzang": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

@@ -1,5 +1,5 @@
 {
-	"geometry.MashUpHalo.Halo5GuardiansMasterChiefv2": {
+	"geometry.halo-mash-up.Halo5GuardiansMasterChiefv2": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 3,
@@ -163,7 +163,7 @@
 			}
 		]
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanBuck": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanBuck": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -345,7 +345,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanFred": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanFred": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -567,7 +567,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanKelly": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanKelly": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -745,7 +745,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanLinda": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanLinda": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -938,7 +938,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanLocke": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanLocke": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1116,7 +1116,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanTanaka": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanTanaka": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1294,7 +1294,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo5GuardiansSpartanVale": {
+	"geometry.halo-mash-up.Halo5GuardiansSpartanVale": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1472,7 +1472,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Halo343GuiltySpark": {
+	"geometry.halo-mash-up.Halo343GuiltySpark": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -1549,7 +1549,7 @@
 			}
 		]
 	},
-	"geometry.MashUpHalo.HaloArbiter": {
+	"geometry.halo-mash-up.HaloArbiter": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1664,7 +1664,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloBruteCaptain": {
+	"geometry.halo-mash-up.HaloBruteCaptain": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1812,7 +1812,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloBruteChieftain": {
+	"geometry.halo-mash-up.HaloBruteChieftain": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1988,7 +1988,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloBruteHonorGuard": {
+	"geometry.halo-mash-up.HaloBruteHonorGuard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2198,7 +2198,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCaptainKeyes": {
+	"geometry.halo-mash-up.HaloCaptainKeyes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2313,7 +2313,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCaptainThomasLasky": {
+	"geometry.halo-mash-up.HaloCaptainThomasLasky": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2440,7 +2440,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCarter": {
+	"geometry.halo-mash-up.HaloCarter": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2604,7 +2604,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCommanderKeyes": {
+	"geometry.halo-mash-up.HaloCommanderKeyes": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2719,7 +2719,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCorbuloCadet": {
+	"geometry.halo-mash-up.HaloCorbuloCadet": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2834,7 +2834,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloCortana": {
+	"geometry.halo-mash-up.HaloCortana": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2949,7 +2949,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloDidact": {
+	"geometry.halo-mash-up.HaloDidact": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3092,7 +3092,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloDoctorHalsey": {
+	"geometry.halo-mash-up.HaloDoctorHalsey": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3211,7 +3211,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloDrone": {
+	"geometry.halo-mash-up.HaloDrone": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"cape": "HaloDrone_cape.png",
@@ -3331,7 +3331,7 @@
 			}
 		]
 	},
-	"geometry.MashUpHalo.HaloElite": {
+	"geometry.halo-mash-up.HaloElite": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3477,7 +3477,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloEliteCommander": {
+	"geometry.halo-mash-up.HaloEliteCommander": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3637,7 +3637,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloEliteHonorGuard": {
+	"geometry.halo-mash-up.HaloEliteHonorGuard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3807,7 +3807,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloEmile": {
+	"geometry.halo-mash-up.HaloEmile": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3979,7 +3979,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloGekLhar": {
+	"geometry.halo-mash-up.HaloGekLhar": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4114,7 +4114,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloGruntImperial": {
+	"geometry.halo-mash-up.HaloGruntImperial": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4247,7 +4247,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloHereticElite": {
+	"geometry.halo-mash-up.HaloHereticElite": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4362,7 +4362,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloHunter": {
+	"geometry.halo-mash-up.HaloHunter": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4520,7 +4520,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloJackal": {
+	"geometry.halo-mash-up.HaloJackal": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4680,7 +4680,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloJorge": {
+	"geometry.halo-mash-up.HaloJorge": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4841,7 +4841,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloJulMdama": {
+	"geometry.halo-mash-up.HaloJulMdama": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4992,7 +4992,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloJun": {
+	"geometry.halo-mash-up.HaloJun": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5160,7 +5160,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloKat": {
+	"geometry.halo-mash-up.HaloKat": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5320,7 +5320,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloLibrarian": {
+	"geometry.halo-mash-up.HaloLibrarian": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5459,7 +5459,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloLordHood": {
+	"geometry.halo-mash-up.HaloLordHood": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5599,7 +5599,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloMasterChief": {
+	"geometry.halo-mash-up.HaloMasterChief": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5763,7 +5763,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloMisterChief": {
+	"geometry.halo-mash-up.HaloMisterChief": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5878,7 +5878,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloNobleSix": {
+	"geometry.halo-mash-up.HaloNobleSix": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6037,7 +6037,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloPalmer": {
+	"geometry.halo-mash-up.HaloPalmer": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6177,7 +6177,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloRampantCortana": {
+	"geometry.halo-mash-up.HaloRampantCortana": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6292,7 +6292,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloRoland": {
+	"geometry.halo-mash-up.HaloRoland": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6409,7 +6409,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloRookie": {
+	"geometry.halo-mash-up.HaloRookie": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6548,7 +6548,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloSergeantJohnson": {
+	"geometry.halo-mash-up.HaloSergeantJohnson": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6700,7 +6700,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloShipmaster": {
+	"geometry.halo-mash-up.HaloShipmaster": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6832,7 +6832,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloTartarus": {
+	"geometry.halo-mash-up.HaloTartarus": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6973,7 +6973,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.HaloUNSCMarine": {
+	"geometry.halo-mash-up.HaloUNSCMarine": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7100,7 +7100,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.CmdLaurette": {
+	"geometry.halo-mash-up.CmdLaurette": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7346,7 +7346,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Escharum": {
+	"geometry.halo-mash-up.Escharum": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7599,7 +7599,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.JegaRdomnai": {
+	"geometry.halo-mash-up.JegaRdomnai": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7829,7 +7829,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.MasterChief20": {
+	"geometry.halo-mash-up.MasterChief20": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8078,7 +8078,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.MasterChiefCE": {
+	"geometry.halo-mash-up.MasterChiefCE": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8316,7 +8316,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.MasterChiefInf": {
+	"geometry.halo-mash-up.MasterChiefInf": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8573,7 +8573,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.Pilot": {
+	"geometry.halo-mash-up.Pilot": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -8777,7 +8777,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalo.YoroiArmour": {
+	"geometry.halo-mash-up.YoroiArmour": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

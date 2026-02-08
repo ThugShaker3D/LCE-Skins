@@ -1,5 +1,5 @@
 {
-  "geometry.SkinPack3.AlyxVance": {
+  "geometry.skin-pack-3-playstation.AlyxVance": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -485,7 +485,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Atlas": {
+  "geometry.skin-pack-3-playstation.Atlas": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -971,7 +971,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Atoi": {
+  "geometry.skin-pack-3-playstation.Atoi": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1802,7 +1802,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.BarneyCalhoun": {
+  "geometry.skin-pack-3-playstation.BarneyCalhoun": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2288,7 +2288,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Baron": {
+  "geometry.skin-pack-3-playstation.Baron": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2774,7 +2774,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Blacksmith": {
+  "geometry.skin-pack-3-playstation.Blacksmith": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3260,7 +3260,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Bomack": {
+  "geometry.skin-pack-3-playstation.Bomack": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3746,7 +3746,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Carpenter": {
+  "geometry.skin-pack-3-playstation.Carpenter": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4232,7 +4232,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Castaway": {
+  "geometry.skin-pack-3-playstation.Castaway": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4718,7 +4718,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Chell": {
+  "geometry.skin-pack-3-playstation.Chell": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5204,7 +5204,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Clunk": {
+  "geometry.skin-pack-3-playstation.Clunk": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5690,7 +5690,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Coach": {
+  "geometry.skin-pack-3-playstation.Coach": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6176,7 +6176,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Commandervideo": {
+  "geometry.skin-pack-3-playstation.Commandervideo": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6662,7 +6662,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Cow": {
+  "geometry.skin-pack-3-playstation.Cow": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7148,7 +7148,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Cyclops": {
+  "geometry.skin-pack-3-playstation.Cyclops": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7800,7 +7800,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Daxter": {
+  "geometry.skin-pack-3-playstation.Daxter": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8415,7 +8415,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.DrRosenberg": {
+  "geometry.skin-pack-3-playstation.DrRosenberg": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8901,7 +8901,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.EliVance": {
+  "geometry.skin-pack-3-playstation.EliVance": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9387,7 +9387,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Ellis": {
+  "geometry.skin-pack-3-playstation.Ellis": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9873,7 +9873,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Farmer": {
+  "geometry.skin-pack-3-playstation.Farmer": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10359,7 +10359,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.GordonFreeman": {
+  "geometry.skin-pack-3-playstation.GordonFreeman": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10845,7 +10845,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Guard": {
+  "geometry.skin-pack-3-playstation.Guard": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11331,7 +11331,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.HeadcrabScientist": {
+  "geometry.skin-pack-3-playstation.HeadcrabScientist": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11817,7 +11817,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Iota": {
+  "geometry.skin-pack-3-playstation.Iota": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12396,7 +12396,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Ittle": {
+  "geometry.skin-pack-3-playstation.Ittle": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12882,7 +12882,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Jak": {
+  "geometry.skin-pack-3-playstation.Jak": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13353,7 +13353,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Juan": {
+  "geometry.skin-pack-3-playstation.Juan": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13839,7 +13839,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Lonestar": {
+  "geometry.skin-pack-3-playstation.Lonestar": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14325,7 +14325,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Nick": {
+  "geometry.skin-pack-3-playstation.Nick": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14811,7 +14811,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.P-Body": {
+  "geometry.skin-pack-3-playstation.P-Body": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15297,7 +15297,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Peasant": {
+  "geometry.skin-pack-3-playstation.Peasant": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15783,7 +15783,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.PenYen": {
+  "geometry.skin-pack-3-playstation.PenYen": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16269,7 +16269,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Rochelle": {
+  "geometry.skin-pack-3-playstation.Rochelle": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16755,7 +16755,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Scrap": {
+  "geometry.skin-pack-3-playstation.Scrap": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17335,7 +17335,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Scribe": {
+  "geometry.skin-pack-3-playstation.Scribe": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17821,7 +17821,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Skeleton": {
+  "geometry.skin-pack-3-playstation.Skeleton": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18307,7 +18307,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.TheG-Man": {
+  "geometry.skin-pack-3-playstation.TheG-Man": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18793,7 +18793,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Vagrant": {
+  "geometry.skin-pack-3-playstation.Vagrant": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19279,7 +19279,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Wendigo": {
+  "geometry.skin-pack-3-playstation.Wendigo": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20612,7 +20612,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Yamato": {
+  "geometry.skin-pack-3-playstation.Yamato": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21210,7 +21210,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Yuna": {
+  "geometry.skin-pack-3-playstation.Yuna": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21718,7 +21718,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Yuri": {
+  "geometry.skin-pack-3-playstation.Yuri": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22204,7 +22204,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.Zephyr": {
+  "geometry.skin-pack-3-playstation.Zephyr": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22690,7 +22690,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.ZombieHerobrine": {
+  "geometry.skin-pack-3-playstation.ZombieHerobrine": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23176,7 +23176,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SkinPack3.ZombiePigman": {
+  "geometry.skin-pack-3-playstation.ZombiePigman": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

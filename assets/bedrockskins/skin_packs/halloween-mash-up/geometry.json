@@ -1,5 +1,5 @@
 {
-	"geometry.MashUpHalloween.AlexAnatomy": {
+	"geometry.halloween-mash-up.AlexAnatomy": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -106,7 +106,7 @@
 			}
 		]
 	},
-	"geometry.MashUpHalloween.AncientMummy": {
+	"geometry.halloween-mash-up.AncientMummy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -271,7 +271,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.ArrowheadCostume": {
+	"geometry.halloween-mash-up.ArrowheadCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -451,7 +451,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.BaronSamedi": {
+	"geometry.halloween-mash-up.BaronSamedi": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -626,7 +626,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.BrideofDracula": {
+	"geometry.halloween-mash-up.BrideofDracula": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -791,7 +791,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.BrideofFrankenstein": {
+	"geometry.halloween-mash-up.BrideofFrankenstein": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -957,7 +957,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Devil": {
+	"geometry.halloween-mash-up.Devil": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1127,7 +1127,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Dracula": {
+	"geometry.halloween-mash-up.Dracula": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1293,7 +1293,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.DrInsecto": {
+	"geometry.halloween-mash-up.DrInsecto": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1464,7 +1464,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.DrJekyll": {
+	"geometry.halloween-mash-up.DrJekyll": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1661,7 +1661,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.EctoplasmAlex": {
+	"geometry.halloween-mash-up.EctoplasmAlex": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1826,7 +1826,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.EctoplasmSteve": {
+	"geometry.halloween-mash-up.EctoplasmSteve": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -1991,7 +1991,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.EvilRobot": {
+	"geometry.halloween-mash-up.EvilRobot": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2156,7 +2156,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.EvilWizard": {
+	"geometry.halloween-mash-up.EvilWizard": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2322,7 +2322,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.FrankensteinsMonster": {
+	"geometry.halloween-mash-up.FrankensteinsMonster": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2487,7 +2487,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Ghost": {
+	"geometry.halloween-mash-up.Ghost": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2652,7 +2652,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.GhostCostume": {
+	"geometry.halloween-mash-up.GhostCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -2817,7 +2817,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.GhostPirateCostume": {
+	"geometry.halloween-mash-up.GhostPirateCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3003,7 +3003,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.GhostPirateCostumev2": {
+	"geometry.halloween-mash-up.GhostPirateCostumev2": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3189,7 +3189,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Ghoul": {
+	"geometry.halloween-mash-up.Ghoul": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3354,7 +3354,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.GreggtheGrimReaper": {
+	"geometry.halloween-mash-up.GreggtheGrimReaper": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3519,7 +3519,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Igor": {
+	"geometry.halloween-mash-up.Igor": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3686,7 +3686,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.InsectoAnt": {
+	"geometry.halloween-mash-up.InsectoAnt": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -3857,7 +3857,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.InsectoWasp": {
+	"geometry.halloween-mash-up.InsectoWasp": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4028,7 +4028,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.KnifeheadCostume": {
+	"geometry.halloween-mash-up.KnifeheadCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4207,7 +4207,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.MadDoctorCostume": {
+	"geometry.halloween-mash-up.MadDoctorCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4373,7 +4373,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.MadScientist": {
+	"geometry.halloween-mash-up.MadScientist": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4550,7 +4550,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.MamanBrigitte": {
+	"geometry.halloween-mash-up.MamanBrigitte": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4726,7 +4726,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.MrHyde": {
+	"geometry.halloween-mash-up.MrHyde": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -4891,7 +4891,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Mummy": {
+	"geometry.halloween-mash-up.Mummy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5056,7 +5056,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.ReptileMonsterCostume": {
+	"geometry.halloween-mash-up.ReptileMonsterCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5221,7 +5221,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Scarecrow": {
+	"geometry.halloween-mash-up.Scarecrow": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5386,7 +5386,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.ScaryClown": {
+	"geometry.halloween-mash-up.ScaryClown": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5551,7 +5551,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.SteveAnatomy": {
+	"geometry.halloween-mash-up.SteveAnatomy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5710,7 +5710,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Stumpy": {
+	"geometry.halloween-mash-up.Stumpy": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -5875,7 +5875,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.SwampMonsterCostume": {
+	"geometry.halloween-mash-up.SwampMonsterCostume": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6040,7 +6040,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.TheGrimReaper": {
+	"geometry.halloween-mash-up.TheGrimReaper": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6206,7 +6206,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.TheInvisibleMan": {
+	"geometry.halloween-mash-up.TheInvisibleMan": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6387,7 +6387,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.TreeFace": {
+	"geometry.halloween-mash-up.TreeFace": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6552,7 +6552,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Vampire": {
+	"geometry.halloween-mash-up.Vampire": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6717,7 +6717,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.Werewolf": {
+	"geometry.halloween-mash-up.Werewolf": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -6882,7 +6882,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.WickedWitch": {
+	"geometry.halloween-mash-up.WickedWitch": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],
@@ -7071,7 +7071,7 @@
 		"animationUpsideDown": false,
 		"animationInvertedCrouch": false
 	},
-	"geometry.MashUpHalloween.ZippyZombie": {
+	"geometry.halloween-mash-up.ZippyZombie": {
 		"bones": [
 			{
 				"pivot": [0, 24, 0],

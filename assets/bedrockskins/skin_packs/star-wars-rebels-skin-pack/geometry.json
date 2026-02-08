@@ -1,5 +1,5 @@
 {
-  "geometry.StarWarsRebels.AgentKallus": {
+  "geometry.star-wars-rebels-skin-pack.AgentKallus": {
     "bones": [
       {
         "pivot": [
@@ -309,7 +309,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.ATDPPilot": {
+  "geometry.star-wars-rebels-skin-pack.ATDPPilot": {
     "bones": [
       {
         "pivot": [
@@ -924,7 +924,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.Azmorigan": {
+  "geometry.star-wars-rebels-skin-pack.Azmorigan": {
     "bones": [
       {
         "pivot": [
@@ -1683,7 +1683,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.Chopper": {
+  "geometry.star-wars-rebels-skin-pack.Chopper": {
     "bones": [
       {
         "pivot": [
@@ -2294,7 +2294,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": true
   },
-  "geometry.StarWarsRebels.CikatroVizago": {
+  "geometry.star-wars-rebels-skin-pack.CikatroVizago": {
     "bones": [
       {
         "pivot": [
@@ -2998,7 +2998,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.CommandantAresko": {
+  "geometry.star-wars-rebels-skin-pack.CommandantAresko": {
     "bones": [
       {
         "pivot": [
@@ -3398,7 +3398,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.EzraBridger": {
+  "geometry.star-wars-rebels-skin-pack.EzraBridger": {
     "bones": [
       {
         "pivot": [
@@ -4300,7 +4300,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.Gotal": {
+  "geometry.star-wars-rebels-skin-pack.Gotal": {
     "bones": [
       {
         "pivot": [
@@ -5022,7 +5022,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.HeraSyndulla": {
+  "geometry.star-wars-rebels-skin-pack.HeraSyndulla": {
     "bones": [
       {
         "pivot": [
@@ -5636,7 +5636,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.IGRMDroidVariant1": {
+  "geometry.star-wars-rebels-skin-pack.IGRMDroidVariant1": {
     "bones": [
       {
         "pivot": [
@@ -6153,7 +6153,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.IGRMDroidVariant2": {
+  "geometry.star-wars-rebels-skin-pack.IGRMDroidVariant2": {
     "bones": [
       {
         "pivot": [
@@ -6670,7 +6670,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.ImperialCadetEzraBridgerv2": {
+  "geometry.star-wars-rebels-skin-pack.ImperialCadetEzraBridgerv2": {
     "bones": [
       {
         "pivot": [
@@ -7304,7 +7304,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.Inquisitor": {
+  "geometry.star-wars-rebels-skin-pack.Inquisitor": {
     "bones": [
       {
         "pivot": [
@@ -8117,7 +8117,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.KananJarrus": {
+  "geometry.star-wars-rebels-skin-pack.KananJarrus": {
     "bones": [
       {
         "pivot": [
@@ -8873,7 +8873,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.LothalFarmer": {
+  "geometry.star-wars-rebels-skin-pack.LothalFarmer": {
     "bones": [
       {
         "pivot": [
@@ -9503,7 +9503,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.MinisterMakethTua": {
+  "geometry.star-wars-rebels-skin-pack.MinisterMakethTua": {
     "bones": [
       {
         "pivot": [
@@ -10028,7 +10028,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.RX24": {
+  "geometry.star-wars-rebels-skin-pack.RX24": {
     "bones": [
       {
         "pivot": [
@@ -11053,7 +11053,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.SabineWren": {
+  "geometry.star-wars-rebels-skin-pack.SabineWren": {
     "bones": [
       {
         "pivot": [
@@ -11523,7 +11523,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.SenatorGallTrayvis": {
+  "geometry.star-wars-rebels-skin-pack.SenatorGallTrayvis": {
     "bones": [
       {
         "pivot": [
@@ -12046,7 +12046,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.StormtrooperCommander": {
+  "geometry.star-wars-rebels-skin-pack.StormtrooperCommander": {
     "bones": [
       {
         "pivot": [
@@ -13072,7 +13072,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.StormtrooperTagged": {
+  "geometry.star-wars-rebels-skin-pack.StormtrooperTagged": {
     "bones": [
       {
         "pivot": [
@@ -13973,7 +13973,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.Tseebo": {
+  "geometry.star-wars-rebels-skin-pack.Tseebo": {
     "bones": [
       {
         "pivot": [
@@ -14730,7 +14730,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StarWarsRebels.ZebOrrelios": {
+  "geometry.star-wars-rebels-skin-pack.ZebOrrelios": {
     "bones": [
       {
         "pivot": [

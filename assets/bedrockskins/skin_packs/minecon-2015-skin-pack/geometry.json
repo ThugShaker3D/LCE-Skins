@@ -1,5 +1,5 @@
 {
-  "geometry.Minecon2015.Cape2011Alex": {
+  "geometry.minecon-2015-skin-pack.Cape2011Alex": {
     "bones": [
       {
         "pivot": [
@@ -486,7 +486,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2011Steve": {
+  "geometry.minecon-2015-skin-pack.Cape2011Steve": {
     "bones": [
       {
         "pivot": [
@@ -973,7 +973,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2012Alex": {
+  "geometry.minecon-2015-skin-pack.Cape2012Alex": {
     "bones": [
       {
         "pivot": [
@@ -1460,7 +1460,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2012Steve": {
+  "geometry.minecon-2015-skin-pack.Cape2012Steve": {
     "bones": [
       {
         "pivot": [
@@ -1947,7 +1947,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2013Alex": {
+  "geometry.minecon-2015-skin-pack.Cape2013Alex": {
     "bones": [
       {
         "pivot": [
@@ -2434,7 +2434,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2013Steve": {
+  "geometry.minecon-2015-skin-pack.Cape2013Steve": {
     "bones": [
       {
         "pivot": [
@@ -2921,7 +2921,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2015Alex": {
+  "geometry.minecon-2015-skin-pack.Cape2015Alex": {
     "bones": [
       {
         "pivot": [
@@ -3396,7 +3396,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim",
-    "cape": "Minecon2015Cape.png",
+    "cape": "minecon-2015-skin-packCape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -3408,7 +3408,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Minecon2015.Cape2015Steve": {
+  "geometry.minecon-2015-skin-pack.Cape2015Steve": {
     "bones": [
       {
         "pivot": [
@@ -3883,7 +3883,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "Minecon2015Cape.png",
+    "cape": "minecon-2015-skin-packCape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,

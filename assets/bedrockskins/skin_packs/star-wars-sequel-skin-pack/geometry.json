@@ -1,5 +1,5 @@
 {
-  "geometry.StarWarsSequelSkinPack.AdmiralAckbarTlj": {
+  "geometry.star-wars-sequel-skin-pack.AdmiralAckbarTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -646,7 +646,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.AmilynHoldoTlj": {
+  "geometry.star-wars-sequel-skin-pack.AmilynHoldoTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1613,7 +1613,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.BargwillTomderTlj": {
+  "geometry.star-wars-sequel-skin-pack.BargwillTomderTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2636,7 +2636,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.BazineNetalTfa": {
+  "geometry.star-wars-sequel-skin-pack.BazineNetalTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3122,7 +3122,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ButcherOfBrixTlj": {
+  "geometry.star-wars-sequel-skin-pack.ButcherOfBrixTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4228,7 +4228,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.C'AiThrenalliTlj": {
+  "geometry.star-wars-sequel-skin-pack.C'AiThrenalliTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4855,7 +4855,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.C-3PoTfa": {
+  "geometry.star-wars-sequel-skin-pack.C-3PoTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5496,7 +5496,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.CantoBightPoliceTlj": {
+  "geometry.star-wars-sequel-skin-pack.CantoBightPoliceTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6107,7 +6107,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.CaptainPhasmaTfa": {
+  "geometry.star-wars-sequel-skin-pack.CaptainPhasmaTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6682,7 +6682,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.CentadaRessadTlj": {
+  "geometry.star-wars-sequel-skin-pack.CentadaRessadTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7273,7 +7273,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ChewbaccaTfa": {
+  "geometry.star-wars-sequel-skin-pack.ChewbaccaTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8291,7 +8291,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.DefancioStorsiltTlj": {
+  "geometry.star-wars-sequel-skin-pack.DefancioStorsiltTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9364,7 +9364,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.DjTlj": {
+  "geometry.star-wars-sequel-skin-pack.DjTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9992,7 +9992,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ElitePraetorianGuardTlj": {
+  "geometry.star-wars-sequel-skin-pack.ElitePraetorianGuardTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10548,7 +10548,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.EliteTieFighterPilotTfa": {
+  "geometry.star-wars-sequel-skin-pack.EliteTieFighterPilotTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11338,7 +11338,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.EnsignGoodeTfa": {
+  "geometry.star-wars-sequel-skin-pack.EnsignGoodeTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12021,7 +12021,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ExecutionerStormtrooperTlj": {
+  "geometry.star-wars-sequel-skin-pack.ExecutionerStormtrooperTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12542,7 +12542,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.FinnTfa": {
+  "geometry.star-wars-sequel-skin-pack.FinnTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13028,7 +13028,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.FinnTlj": {
+  "geometry.star-wars-sequel-skin-pack.FinnTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13514,7 +13514,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GeneralArmitageHuxTfa": {
+  "geometry.star-wars-sequel-skin-pack.GeneralArmitageHuxTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14000,7 +14000,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GeneralLeiaOrganaTfa": {
+  "geometry.star-wars-sequel-skin-pack.GeneralLeiaOrganaTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14683,7 +14683,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GrummgarTfa": {
+  "geometry.star-wars-sequel-skin-pack.GrummgarTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16067,7 +16067,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GuavianDeathGangGruntTfa": {
+  "geometry.star-wars-sequel-skin-pack.GuavianDeathGangGruntTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16783,7 +16783,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GuavianDeathGangLeaderBalaTikTfa": {
+  "geometry.star-wars-sequel-skin-pack.GuavianDeathGangLeaderBalaTikTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17269,7 +17269,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.GwellisBagnoroTfa": {
+  "geometry.star-wars-sequel-skin-pack.GwellisBagnoroTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18251,7 +18251,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.HanSoloTfa": {
+  "geometry.star-wars-sequel-skin-pack.HanSoloTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18772,7 +18772,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.KanjiklubRazooQinFeeTfa": {
+  "geometry.star-wars-sequel-skin-pack.KanjiklubRazooQinFeeTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19311,7 +19311,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.KanjiklubTasuLeechTfa": {
+  "geometry.star-wars-sequel-skin-pack.KanjiklubTasuLeechTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19797,7 +19797,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.KyloRenTfa": {
+  "geometry.star-wars-sequel-skin-pack.KyloRenTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20390,7 +20390,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.KyloRenTlj": {
+  "geometry.star-wars-sequel-skin-pack.KyloRenTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21019,7 +21019,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.LeiaTlj": {
+  "geometry.star-wars-sequel-skin-pack.LeiaTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21630,7 +21630,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.LieutenantConnixTfa": {
+  "geometry.star-wars-sequel-skin-pack.LieutenantConnixTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22169,7 +22169,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.LukeSkywalkerTfa": {
+  "geometry.star-wars-sequel-skin-pack.LukeSkywalkerTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22691,7 +22691,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.LukeSkywalkerTlj": {
+  "geometry.star-wars-sequel-skin-pack.LukeSkywalkerTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23249,7 +23249,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.NienNunbTlj": {
+  "geometry.star-wars-sequel-skin-pack.NienNunbTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23824,7 +23824,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.PaigeTicoTlj": {
+  "geometry.star-wars-sequel-skin-pack.PaigeTicoTlj": {
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationDontShowArmor": false,
@@ -24222,7 +24222,7 @@
       }
     ]
   },
-  "geometry.StarWarsSequelSkinPack.PemminBrunceTlj": {
+  "geometry.star-wars-sequel-skin-pack.PemminBrunceTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24797,7 +24797,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.PoeDameronTfa": {
+  "geometry.star-wars-sequel-skin-pack.PoeDameronTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25371,7 +25371,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.PoeDameronTlj": {
+  "geometry.star-wars-sequel-skin-pack.PoeDameronTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25963,7 +25963,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.PruSweevantTfa": {
+  "geometry.star-wars-sequel-skin-pack.PruSweevantTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -26945,7 +26945,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.Pz-4CoTfa": {
+  "geometry.star-wars-sequel-skin-pack.Pz-4CoTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -27503,7 +27503,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.QuiggoldTfa": {
+  "geometry.star-wars-sequel-skin-pack.QuiggoldTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -28078,7 +28078,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ReyTfa": {
+  "geometry.star-wars-sequel-skin-pack.ReyTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -28651,7 +28651,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.ReyTlj": {
+  "geometry.star-wars-sequel-skin-pack.ReyTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -29173,7 +29173,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.RigfuUrcollaTlj": {
+  "geometry.star-wars-sequel-skin-pack.RigfuUrcollaTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -30366,7 +30366,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.RoseTicoTlj": {
+  "geometry.star-wars-sequel-skin-pack.RoseTicoTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -30923,7 +30923,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.SidonIthanoTfa": {
+  "geometry.star-wars-sequel-skin-pack.SidonIthanoTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -31498,7 +31498,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.SlowenLoTlj": {
+  "geometry.star-wars-sequel-skin-pack.SlowenLoTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -32073,7 +32073,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.SnokeTfa": {
+  "geometry.star-wars-sequel-skin-pack.SnokeTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -33179,7 +33179,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.StormtrooperCommanderTfa": {
+  "geometry.star-wars-sequel-skin-pack.StormtrooperCommanderTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -33735,7 +33735,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.StormtrooperFn-2199Tfa": {
+  "geometry.star-wars-sequel-skin-pack.StormtrooperFn-2199Tfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -34256,7 +34256,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.TallieLintraTlj": {
+  "geometry.star-wars-sequel-skin-pack.TallieLintraTlj": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -34831,7 +34831,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.StarWarsSequelSkinPack.UnkarPluttTfa": {
+  "geometry.star-wars-sequel-skin-pack.UnkarPluttTfa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

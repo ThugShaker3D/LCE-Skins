@@ -1,6 +1,6 @@
 {
-  "serialize_name": "skinpack1early",
-  "localization_name": "skinpack1early",
+  "serialize_name": "skin-pack-1",
+  "localization_name": "skin-pack-1",
   "skins": [
     {
       "localization_name": "Knight_Templar",

@@ -1,5 +1,5 @@
 {
-  "geometry.MagicTheGathering.Ajani": {
+  "geometry.magic-the-gathering-skin-pack.Ajani": {
     "bones": [
       {
         "pivot": [
@@ -2127,7 +2127,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.MagicTheGathering.Avacyn": {
+  "geometry.magic-the-gathering-skin-pack.Avacyn": {
     "bones": [
       {
         "pivot": [
@@ -3626,7 +3626,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Chandra": {
+  "geometry.magic-the-gathering-skin-pack.Chandra": {
     "bones": [
       {
         "pivot": [
@@ -4527,7 +4527,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.DovinBaan": {
+  "geometry.magic-the-gathering-skin-pack.DovinBaan": {
     "bones": [
       {
         "pivot": [
@@ -5286,7 +5286,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Emrakul": {
+  "geometry.magic-the-gathering-skin-pack.Emrakul": {
     "bones": [
       {
         "pivot": [
@@ -6156,7 +6156,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.MagicTheGathering.Gideon": {
+  "geometry.magic-the-gathering-skin-pack.Gideon": {
     "bones": [
       {
         "pivot": [
@@ -7112,7 +7112,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.MagicTheGathering.Hazoret": {
+  "geometry.magic-the-gathering-skin-pack.Hazoret": {
     "bones": [
       {
         "pivot": [
@@ -8413,7 +8413,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Jace": {
+  "geometry.magic-the-gathering-skin-pack.Jace": {
     "bones": [
       {
         "pivot": [
@@ -8921,7 +8921,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.MagicTheGathering.Liliana": {
+  "geometry.magic-the-gathering-skin-pack.Liliana": {
     "bones": [
       {
         "pivot": [
@@ -9918,7 +9918,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.NicolBolas": {
+  "geometry.magic-the-gathering-skin-pack.NicolBolas": {
     "bones": [
       {
         "pivot": [
@@ -11468,7 +11468,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Nissa": {
+  "geometry.magic-the-gathering-skin-pack.Nissa": {
     "bones": [
       {
         "pivot": [
@@ -12928,7 +12928,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.SaheeliRai": {
+  "geometry.magic-the-gathering-skin-pack.SaheeliRai": {
     "bones": [
       {
         "pivot": [
@@ -13457,7 +13457,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Samut": {
+  "geometry.magic-the-gathering-skin-pack.Samut": {
     "bones": [
       {
         "pivot": [
@@ -14612,7 +14612,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.MagicTheGathering.Tamiyo": {
+  "geometry.magic-the-gathering-skin-pack.Tamiyo": {
     "bones": [
       {
         "pivot": [
@@ -16453,7 +16453,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.MagicTheGathering.Tezzeret": {
+  "geometry.magic-the-gathering-skin-pack.Tezzeret": {
     "bones": [
       {
         "pivot": [

@@ -1,5 +1,5 @@
 {
-  "geometry.2ndBirthday.BanjoKazooieBanjoandKazooie": {
+  "geometry.2nd-birthday-skin-pack.BanjoKazooieBanjoandKazooie": {
     "bones": [
       {
         "pivot": [
@@ -1172,7 +1172,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.BanjoKazooieGruntilda": {
+  "geometry.2nd-birthday-skin-pack.BanjoKazooieGruntilda": {
     "bones": [
       {
         "pivot": [
@@ -2094,7 +2094,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.BanjoKazooieKazooie": {
+  "geometry.2nd-birthday-skin-pack.BanjoKazooieKazooie": {
     "bones": [
       {
         "pivot": [
@@ -3121,7 +3121,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.ConkerLiveandReloadedConkerv2": {
+  "geometry.2nd-birthday-skin-pack.ConkerLiveandReloadedConkerv2": {
     "bones": [
       {
         "pivot": [
@@ -3878,7 +3878,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.ConkersBadFurDayConker": {
+  "geometry.2nd-birthday-skin-pack.ConkersBadFurDayConker": {
     "bones": [
       {
         "pivot": [
@@ -4599,7 +4599,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.DustAnElysianTailPartyDust": {
+  "geometry.2nd-birthday-skin-pack.DustAnElysianTailPartyDust": {
     "bones": [
       {
         "pivot": [
@@ -5035,7 +5035,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.DustAnElysianTailPartyFidget": {
+  "geometry.2nd-birthday-skin-pack.DustAnElysianTailPartyFidget": {
     "bones": [
       {
         "pivot": [
@@ -5417,7 +5417,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.FableHeroChicken": {
+  "geometry.2nd-birthday-skin-pack.FableHeroChicken": {
     "bones": [
       {
         "pivot": [
@@ -6264,7 +6264,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.FableJackofBlades": {
+  "geometry.2nd-birthday-skin-pack.FableJackofBlades": {
     "bones": [
       {
         "pivot": [
@@ -6575,7 +6575,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.HaloPartyBlueSpartan": {
+  "geometry.2nd-birthday-skin-pack.HaloPartyBlueSpartan": {
     "bones": [
       {
         "pivot": [
@@ -7260,7 +7260,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.HaloPartyGrunt": {
+  "geometry.2nd-birthday-skin-pack.HaloPartyGrunt": {
     "bones": [
       {
         "pivot": [
@@ -7875,7 +7875,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.HaloPartyRedSpartan": {
+  "geometry.2nd-birthday-skin-pack.HaloPartyRedSpartan": {
     "bones": [
       {
         "pivot": [
@@ -8596,7 +8596,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyBlackCat": {
+  "geometry.2nd-birthday-skin-pack.PartyBlackCat": {
     "bones": [
       {
         "pivot": [
@@ -9155,7 +9155,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyOcelot": {
+  "geometry.2nd-birthday-skin-pack.PartyOcelot": {
     "bones": [
       {
         "pivot": [
@@ -9714,7 +9714,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyPlasticCreeper": {
+  "geometry.2nd-birthday-skin-pack.PartyPlasticCreeper": {
     "bones": [
       {
         "pivot": [
@@ -10096,7 +10096,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyPlasticSteve": {
+  "geometry.2nd-birthday-skin-pack.PartyPlasticSteve": {
     "bones": [
       {
         "pivot": [
@@ -10478,7 +10478,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyRedCat": {
+  "geometry.2nd-birthday-skin-pack.PartyRedCat": {
     "bones": [
       {
         "pivot": [
@@ -11037,7 +11037,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartySiameseCat": {
+  "geometry.2nd-birthday-skin-pack.PartySiameseCat": {
     "bones": [
       {
         "pivot": [
@@ -11614,7 +11614,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyWitherSkeleton": {
+  "geometry.2nd-birthday-skin-pack.PartyWitherSkeleton": {
     "bones": [
       {
         "pivot": [
@@ -12068,7 +12068,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.PartyZombieVillager": {
+  "geometry.2nd-birthday-skin-pack.PartyZombieVillager": {
     "bones": [
       {
         "pivot": [
@@ -12520,7 +12520,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.VivaPinataFudgehog": {
+  "geometry.2nd-birthday-skin-pack.VivaPinataFudgehog": {
     "bones": [
       {
         "pivot": [
@@ -13136,7 +13136,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.VivaPinataHorstachio": {
+  "geometry.2nd-birthday-skin-pack.VivaPinataHorstachio": {
     "bones": [
       {
         "pivot": [
@@ -13659,7 +13659,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.VivaPinataPretztail": {
+  "geometry.2nd-birthday-skin-pack.VivaPinataPretztail": {
     "bones": [
       {
         "pivot": [
@@ -14344,7 +14344,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.Witch": {
+  "geometry.2nd-birthday-skin-pack.Witch": {
     "bones": [
       {
         "pivot": [
@@ -14994,7 +14994,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.2ndBirthday.Wither": {
+  "geometry.2nd-birthday-skin-pack.Wither": {
     "bones": [
       {
         "pivot": [

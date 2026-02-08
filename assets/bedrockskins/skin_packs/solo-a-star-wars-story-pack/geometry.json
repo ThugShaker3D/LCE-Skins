@@ -1,5 +1,5 @@
 {
-  "geometry.SoloAStarWarsStoryPack.AemonGremm": {
+  "geometry.solo-a-star-wars-story-pack.AemonGremm": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -610,7 +610,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.AurodiaVentafoli": {
+  "geometry.solo-a-star-wars-story-pack.AurodiaVentafoli": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1629,7 +1629,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Chewbacca": {
+  "geometry.solo-a-star-wars-story-pack.Chewbacca": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2664,7 +2664,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Cloud-Rider": {
+  "geometry.solo-a-star-wars-story-pack.Cloud-Rider": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3613,7 +3613,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Cloud-Rider(Alien)": {
+  "geometry.solo-a-star-wars-story-pack.Cloud-Rider(Alien)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4242,7 +4242,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.DrydenVos": {
+  "geometry.solo-a-star-wars-story-pack.DrydenVos": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5172,7 +5172,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.EmigrationOfficer": {
+  "geometry.solo-a-star-wars-story-pack.EmigrationOfficer": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5693,7 +5693,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.EnfysNest": {
+  "geometry.solo-a-star-wars-story-pack.EnfysNest": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6338,7 +6338,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Gm12-L1": {
+  "geometry.solo-a-star-wars-story-pack.Gm12-L1": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6893,7 +6893,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.HanSolo": {
+  "geometry.solo-a-star-wars-story-pack.HanSolo": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7432,7 +7432,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.HanSolo(ConveyexHeist)": {
+  "geometry.solo-a-star-wars-story-pack.HanSolo(ConveyexHeist)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8078,7 +8078,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.HanSolo(Corellia)": {
+  "geometry.solo-a-star-wars-story-pack.HanSolo(Corellia)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8617,7 +8617,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.ImperialPatrolTrooper": {
+  "geometry.solo-a-star-wars-story-pack.ImperialPatrolTrooper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9138,7 +9138,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.KesselMineWorker": {
+  "geometry.solo-a-star-wars-story-pack.KesselMineWorker": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9677,7 +9677,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.KrysguldDartis": {
+  "geometry.solo-a-star-wars-story-pack.KrysguldDartis": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10323,7 +10323,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.L3-37": {
+  "geometry.solo-a-star-wars-story-pack.L3-37": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -11449,7 +11449,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.LandoCalrissian": {
+  "geometry.solo-a-star-wars-story-pack.LandoCalrissian": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12004,7 +12004,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.MelbuTraveler": {
+  "geometry.solo-a-star-wars-story-pack.MelbuTraveler": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12934,7 +12934,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.MimbanStormtrooper": {
+  "geometry.solo-a-star-wars-story-pack.MimbanStormtrooper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13455,7 +13455,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.MimbaneseSoldier": {
+  "geometry.solo-a-star-wars-story-pack.MimbaneseSoldier": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13941,7 +13941,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Moloch": {
+  "geometry.solo-a-star-wars-story-pack.Moloch": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14570,7 +14570,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Mudtrooper": {
+  "geometry.solo-a-star-wars-story-pack.Mudtrooper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15145,7 +15145,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.PykeSentinel": {
+  "geometry.solo-a-star-wars-story-pack.PykeSentinel": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16377,7 +16377,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Qi'Ra(Corellia)": {
+  "geometry.solo-a-star-wars-story-pack.Qi'Ra(Corellia)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17006,7 +17006,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Qi'Ra(CrimsonDawn)": {
+  "geometry.solo-a-star-wars-story-pack.Qi'Ra(CrimsonDawn)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17562,7 +17562,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.QuayTolsite": {
+  "geometry.solo-a-star-wars-story-pack.QuayTolsite": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18048,7 +18048,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Ralakili": {
+  "geometry.solo-a-star-wars-story-pack.Ralakili": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18623,7 +18623,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.RangeTrooper": {
+  "geometry.solo-a-star-wars-story-pack.RangeTrooper": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19516,7 +19516,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Rebolt": {
+  "geometry.solo-a-star-wars-story-pack.Rebolt": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20072,7 +20072,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.RioDurant": {
+  "geometry.solo-a-star-wars-story-pack.RioDurant": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21164,7 +21164,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.S1D6-Sa-5": {
+  "geometry.solo-a-star-wars-story-pack.S1D6-Sa-5": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21703,7 +21703,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Sagwa(WookieeSlave)": {
+  "geometry.solo-a-star-wars-story-pack.Sagwa(WookieeSlave)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -22738,7 +22738,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Scrumrat(Bansee)": {
+  "geometry.solo-a-star-wars-story-pack.Scrumrat(Bansee)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -23596,7 +23596,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Scrumrat(Chates)": {
+  "geometry.solo-a-star-wars-story-pack.Scrumrat(Chates)": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -24655,7 +24655,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.SixEyes": {
+  "geometry.solo-a-star-wars-story-pack.SixEyes": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -25572,7 +25572,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.TobiasBeckett": {
+  "geometry.solo-a-star-wars-story-pack.TobiasBeckett": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -26179,7 +26179,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.SoloAStarWarsStoryPack.Val": {
+  "geometry.solo-a-star-wars-story-pack.Val": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

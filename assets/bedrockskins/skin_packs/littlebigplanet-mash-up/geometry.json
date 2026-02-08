@@ -1,5 +1,5 @@
 {
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetavaloncentrifuge": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetavaloncentrifuge": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -91,7 +91,7 @@
 			}
 		]
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetbridesackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetbridesackgirl": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -211,7 +211,7 @@
 			}
 		]
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetcaptainpud": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetcaptainpud": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -341,7 +341,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetclivehandforth": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetclivehandforth": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -494,7 +494,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetdevilsackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetdevilsackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -695,7 +695,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetdinosaursackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetdinosaursackgirl": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -895,7 +895,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetdragonsackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetdragonsackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1104,7 +1104,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetevesilvaparagorica": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetevesilvaparagorica": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1292,7 +1292,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetfairysackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetfairysackgirl": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1480,7 +1480,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetgroomsackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetgroomsackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1661,7 +1661,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetlionsackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetlionsackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -1878,7 +1878,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetmariannenoisette": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetmariannenoisette": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -1994,7 +1994,7 @@
 			}
 		]
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetmarlonrandom": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetmarlonrandom": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2119,7 +2119,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetmarvindiscodancer": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetmarvindiscodancer": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2292,7 +2292,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetnanapud": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetnanapud": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2421,7 +2421,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetneonsackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetneonsackgirl": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2624,7 +2624,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetninjasackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetninjasackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2792,7 +2792,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetpapalmache": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetpapalmache": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -2910,7 +2910,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetpinkybuflooms": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetpinkybuflooms": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3113,7 +3113,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetrocksackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetrocksackgirl": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3304,7 +3304,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsackbot": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsackbot": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -3415,7 +3415,7 @@
 			}
 		]
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsackboy": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsackboy": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3589,7 +3589,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsackboysteve": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsackboysteve": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3763,7 +3763,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsackgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsackgirl": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -3953,7 +3953,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsheriffzapata": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsheriffzapata": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4083,7 +4083,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetshopkeeper": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetshopkeeper": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4255,7 +4255,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetsmalltoggle": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetsmalltoggle": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4393,7 +4393,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetthegreatmagician": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetthegreatmagician": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4523,7 +4523,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanettheking": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanettheking": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4657,7 +4657,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetthenewtonevil": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetthenewtonevil": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4782,7 +4782,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetthenewtongood": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetthenewtongood": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -4907,7 +4907,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetthequeen": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetthequeen": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5069,7 +5069,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanettheterribleoni": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanettheterribleoni": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5204,7 +5204,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanettoggle": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanettoggle": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5398,7 +5398,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetvictoriavonbathysphere": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetvictoriavonbathysphere": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5629,7 +5629,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetyukikoschoolgirl": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetyukikoschoolgirl": {
 		"texturewidth": 64,
 		"textureheight": 64,
 		"visible_bounds_width": 2,
@@ -5757,7 +5757,7 @@
 			}
 		]
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetzedude": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetzedude": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,
@@ -5882,7 +5882,7 @@
 		"textureheight": 64,
 		"texturewidth": 64
 	},
-	"geometry.LittleBigPlanetMash-Up.Littlebigplanetzomzom": {
+	"geometry.littlebigplanet-mash-up.Littlebigplanetzomzom": {
 		"META_ModelVersion": "1.0.6",
 		"animationArmsDown": false,
 		"animationArmsOutFront": false,

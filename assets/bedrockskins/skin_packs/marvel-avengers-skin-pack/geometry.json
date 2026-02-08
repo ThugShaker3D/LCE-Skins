@@ -1,5 +1,5 @@
 {
-  "geometry.MarvelAvengers.MarvelAvengersABomb": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packABomb": {
     "bones": [
       {
         "pivot": [
@@ -666,7 +666,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersAbomination": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packAbomination": {
     "bones": [
       {
         "pivot": [
@@ -1210,7 +1210,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersAgentCoulson": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packAgentCoulson": {
     "bones": [
       {
         "pivot": [
@@ -1521,7 +1521,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersAIMAgent": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packAIMAgent": {
     "bones": [
       {
         "pivot": [
@@ -1832,7 +1832,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersAntMan": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packAntMan": {
     "bones": [
       {
         "pivot": [
@@ -2268,7 +2268,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersArnimZola": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packArnimZola": {
     "bones": [
       {
         "pivot": [
@@ -2615,7 +2615,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersBlackPanther": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packBlackPanther": {
     "bones": [
       {
         "pivot": [
@@ -2968,7 +2968,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_BlackPanther_cape.png",
+    "cape": "marvel-avengers-skin-pack_BlackPanther_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -2980,7 +2980,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersBlackWidow": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packBlackWidow": {
     "bones": [
       {
         "pivot": [
@@ -3507,7 +3507,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersCaptainAmerica": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packCaptainAmerica": {
     "bones": [
       {
         "pivot": [
@@ -3807,7 +3807,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_CaptainAmerica_cape.png",
+    "cape": "marvel-avengers-skin-pack_CaptainAmerica_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -3819,7 +3819,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersCaptainAmericaBuckyBarnes": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packCaptainAmericaBuckyBarnes": {
     "bones": [
       {
         "pivot": [
@@ -4119,7 +4119,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_CaptainAmericaBuckyBarnes_cape.png",
+    "cape": "marvel-avengers-skin-pack_CaptainAmericaBuckyBarnes_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -4131,7 +4131,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersFalcon": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packFalcon": {
     "bones": [
       {
         "pivot": [
@@ -4431,7 +4431,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_Falcon_cape.png",
+    "cape": "marvel-avengers-skin-pack_Falcon_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -4443,7 +4443,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersGiantMan": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packGiantMan": {
     "bones": [
       {
         "pivot": [
@@ -4951,7 +4951,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersHawkeye": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packHawkeye": {
     "bones": [
       {
         "pivot": [
@@ -5351,7 +5351,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersHercules": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packHercules": {
     "bones": [
       {
         "pivot": [
@@ -5662,7 +5662,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersHulk": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packHulk": {
     "bones": [
       {
         "pivot": [
@@ -6045,7 +6045,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersHydraAgent": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packHydraAgent": {
     "bones": [
       {
         "pivot": [
@@ -6356,7 +6356,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronManMark1": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronManMark1": {
     "bones": [
       {
         "pivot": [
@@ -6685,7 +6685,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronManMark16": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronManMark16": {
     "bones": [
       {
         "pivot": [
@@ -6996,7 +6996,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronManMark41": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronManMark41": {
     "bones": [
       {
         "pivot": [
@@ -7413,7 +7413,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronManMark42": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronManMark42": {
     "bones": [
       {
         "pivot": [
@@ -7724,7 +7724,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronManMark7": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronManMark7": {
     "bones": [
       {
         "pivot": [
@@ -8035,7 +8035,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersIronPatriot": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packIronPatriot": {
     "bones": [
       {
         "pivot": [
@@ -8346,7 +8346,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersKang": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packKang": {
     "bones": [
       {
         "pivot": [
@@ -8710,7 +8710,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersLeader": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packLeader": {
     "bones": [
       {
         "pivot": [
@@ -9109,7 +9109,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersLoki": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packLoki": {
     "bones": [
       {
         "pivot": [
@@ -9784,7 +9784,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_Loki_cape.png",
+    "cape": "marvel-avengers-skin-pack_Loki_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -9796,7 +9796,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersMariaHill": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packMariaHill": {
     "bones": [
       {
         "pivot": [
@@ -10107,7 +10107,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersMoonKnight": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packMoonKnight": {
     "bones": [
       {
         "pivot": [
@@ -10407,7 +10407,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_MoonKnight_cape.png",
+    "cape": "marvel-avengers-skin-pack_MoonKnight_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -10419,7 +10419,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersNickFury": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packNickFury": {
     "bones": [
       {
         "pivot": [
@@ -10730,7 +10730,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersRedHulk": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packRedHulk": {
     "bones": [
       {
         "pivot": [
@@ -11113,7 +11113,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersRedSkull": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packRedSkull": {
     "bones": [
       {
         "pivot": [
@@ -11424,7 +11424,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersSpiderWoman": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packSpiderWoman": {
     "bones": [
       {
         "pivot": [
@@ -11735,7 +11735,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersTaskmaster": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packTaskmaster": {
     "bones": [
       {
         "pivot": [
@@ -12035,7 +12035,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_Taskmaster_cape.png",
+    "cape": "marvel-avengers-skin-pack_Taskmaster_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -12047,7 +12047,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersThor": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packThor": {
     "bones": [
       {
         "pivot": [
@@ -12555,7 +12555,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersVision": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packVision": {
     "bones": [
       {
         "pivot": [
@@ -12998,7 +12998,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_Vision_cape.png",
+    "cape": "marvel-avengers-skin-pack_Vision_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,
@@ -13010,7 +13010,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MarvelAvengers.MarvelAvengersWasp": {
+  "geometry.marvel-avengers-skin-pack.marvel-avengers-skin-packWasp": {
     "bones": [
       {
         "pivot": [
@@ -13310,7 +13310,7 @@
     "textureheight": 64,
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal",
-    "cape": "MarvelAvengers_Wasp_cape.png",
+    "cape": "marvel-avengers-skin-pack_Wasp_cape.png",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationStatueOfLibertyArms": false,

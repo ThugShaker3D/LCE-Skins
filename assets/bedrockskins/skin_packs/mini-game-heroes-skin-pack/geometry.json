@@ -1,5 +1,5 @@
 {
-  "geometry.MiniGameHeroes.MiniGameHeroesBatBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packBatBattler": {
     "bones": [
       {
         "pivot": [
@@ -842,7 +842,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesBatGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packBatGlider": {
     "bones": [
       {
         "pivot": [
@@ -1417,7 +1417,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesBatTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packBatTumbler": {
     "bones": [
       {
         "pivot": [
@@ -1992,7 +1992,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCatBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCatBattler": {
     "bones": [
       {
         "pivot": [
@@ -3493,7 +3493,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCatGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCatGlider": {
     "bones": [
       {
         "pivot": [
@@ -4265,7 +4265,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCatTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCatTumbler": {
     "bones": [
       {
         "pivot": [
@@ -5427,7 +5427,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCowBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCowBattler": {
     "bones": [
       {
         "pivot": [
@@ -6125,7 +6125,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCowGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCowGlider": {
     "bones": [
       {
         "pivot": [
@@ -6696,7 +6696,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesCowTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packCowTumbler": {
     "bones": [
       {
         "pivot": [
@@ -7307,7 +7307,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesElderGuardianBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packElderGuardianBattler": {
     "bones": [
       {
         "pivot": [
@@ -8563,7 +8563,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesElderGuardianGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packElderGuardianGlider": {
     "bones": [
       {
         "pivot": [
@@ -9298,7 +9298,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesElderGuardianTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packElderGuardianTumbler": {
     "bones": [
       {
         "pivot": [
@@ -9979,7 +9979,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesHorseBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packHorseBattler": {
     "bones": [
       {
         "pivot": [
@@ -10766,7 +10766,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesHorseGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packHorseGlider": {
     "bones": [
       {
         "pivot": [
@@ -11337,7 +11337,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesHorseTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packHorseTumbler": {
     "bones": [
       {
         "pivot": [
@@ -11946,7 +11946,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesLlamaBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packLlamaBattler": {
     "bones": [
       {
         "pivot": [
@@ -12715,7 +12715,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesLlamaGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packLlamaGlider": {
     "bones": [
       {
         "pivot": [
@@ -13344,7 +13344,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesLlamaTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packLlamaTumbler": {
     "bones": [
       {
         "pivot": [
@@ -13954,7 +13954,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesMagmaCubeBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packMagmaCubeBattler": {
     "bones": [
       {
         "pivot": [
@@ -14847,7 +14847,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesMagmaCubeGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packMagmaCubeGlider": {
     "bones": [
       {
         "pivot": [
@@ -15333,7 +15333,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesMagmaCubeTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packMagmaCubeTumbler": {
     "bones": [
       {
         "pivot": [
@@ -15819,7 +15819,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSlimeBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSlimeBattler": {
     "bones": [
       {
         "pivot": [
@@ -16520,7 +16520,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSlimeGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSlimeGlider": {
     "bones": [
       {
         "pivot": [
@@ -17041,7 +17041,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSlimeTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSlimeTumbler": {
     "bones": [
       {
         "pivot": [
@@ -17543,7 +17543,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSpiderBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSpiderBattler": {
     "bones": [
       {
         "pivot": [
@@ -18243,7 +18243,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSpiderGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSpiderGlider": {
     "bones": [
       {
         "pivot": [
@@ -18729,7 +18729,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesSpiderTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packSpiderTumbler": {
     "bones": [
       {
         "pivot": [
@@ -19355,7 +19355,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesVillagerBattler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packVillagerBattler": {
     "bones": [
       {
         "pivot": [
@@ -20242,7 +20242,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesVillagerGlider": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packVillagerGlider": {
     "bones": [
       {
         "pivot": [
@@ -20869,7 +20869,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameHeroes.MiniGameHeroesVillagerTumbler": {
+  "geometry.mini-game-heroes-skin-pack.mini-game-heroes-skin-packVillagerTumbler": {
     "bones": [
       {
         "pivot": [

@@ -2,245 +2,245 @@
   "skins": [
     {
       "localization_name": "Mario",
-      "geometry": "geometry.MarioBrothers.Mario",
+      "geometry": "geometry.mario-mash-up.Mario",
       "texture": "Mario.png",
       "type": "free"
     },
     {
       "localization_name": "MariowithFLUDD",
-      "geometry": "geometry.MarioBrothers.MariowithFLUDD",
+      "geometry": "geometry.mario-mash-up.MariowithFLUDD",
       "texture": "MariowithFLUDD.png",
       "type": "free"
     },
     {
       "localization_name": "Luigi",
-      "geometry": "geometry.MarioBrothers.Luigi",
+      "geometry": "geometry.mario-mash-up.Luigi",
       "texture": "Luigi.png",
       "type": "free"
     },
     {
       "localization_name": "LuigiwithPoltergust",
-      "geometry": "geometry.MarioBrothers.LuigiwithPoltergust",
+      "geometry": "geometry.mario-mash-up.LuigiwithPoltergust",
       "texture": "LuigiwithPoltergust.png",
       "type": "free"
     },
     {
       "localization_name": "Peach",
-      "geometry": "geometry.MarioBrothers.Peach",
+      "geometry": "geometry.mario-mash-up.Peach",
       "texture": "Peach.png",
       "type": "free"
     },
     {
       "localization_name": "Yoshi",
-      "geometry": "geometry.MarioBrothers.Yoshi",
+      "geometry": "geometry.mario-mash-up.Yoshi",
       "texture": "Yoshi.png",
       "type": "free"
     },
     {
       "localization_name": "Bowser",
-      "geometry": "geometry.MarioBrothers.Bowser",
+      "geometry": "geometry.mario-mash-up.Bowser",
       "texture": "Bowser.png",
       "type": "free"
     },
     {
       "localization_name": "Toad",
-      "geometry": "geometry.MarioBrothers.Toad",
+      "geometry": "geometry.mario-mash-up.Toad",
       "texture": "Toad.png",
       "type": "free"
     },
     {
       "localization_name": "CaptainToad",
-      "geometry": "geometry.MarioBrothers.CaptainToad",
+      "geometry": "geometry.mario-mash-up.CaptainToad",
       "texture": "CaptainToad.png",
       "type": "free"
     },
     {
       "localization_name": "DonkeyKong",
-      "geometry": "geometry.MarioBrothers.DonkeyKong",
+      "geometry": "geometry.mario-mash-up.DonkeyKong",
       "texture": "DonkeyKong.png",
       "type": "free"
     },
     {
       "localization_name": "DiddyKong",
-      "geometry": "geometry.MarioBrothers.DiddyKong",
+      "geometry": "geometry.mario-mash-up.DiddyKong",
       "texture": "DiddyKong.png",
       "type": "free"
     },
     {
       "localization_name": "Daisy",
-      "geometry": "geometry.MarioBrothers.Daisy",
+      "geometry": "geometry.mario-mash-up.Daisy",
       "texture": "Daisy.png",
       "type": "free"
     },
     {
       "localization_name": "Wario",
-      "geometry": "geometry.MarioBrothers.Wario",
+      "geometry": "geometry.mario-mash-up.Wario",
       "texture": "Wario.png",
       "type": "free"
     },
     {
       "localization_name": "Waluigi",
-      "geometry": "geometry.MarioBrothers.Waluigi",
+      "geometry": "geometry.mario-mash-up.Waluigi",
       "texture": "Waluigi.png",
       "type": "free"
     },
     {
       "localization_name": "PeteyPiranha",
-      "geometry": "geometry.MarioBrothers.PeteyPiranha",
+      "geometry": "geometry.mario-mash-up.PeteyPiranha",
       "texture": "PeteyPiranha.png",
       "type": "free"
     },
     {
       "localization_name": "Lemmy",
-      "geometry": "geometry.MarioBrothers.Lemmy",
+      "geometry": "geometry.mario-mash-up.Lemmy",
       "texture": "Lemmy.png",
       "type": "free"
     },
     {
       "localization_name": "Wendy",
-      "geometry": "geometry.MarioBrothers.Wendy",
+      "geometry": "geometry.mario-mash-up.Wendy",
       "texture": "Wendy.png",
       "type": "free"
     },
     {
       "localization_name": "Morton",
-      "geometry": "geometry.MarioBrothers.Morton",
+      "geometry": "geometry.mario-mash-up.Morton",
       "texture": "Morton.png",
       "type": "free"
     },
     {
       "localization_name": "Larry",
-      "geometry": "geometry.MarioBrothers.Larry",
+      "geometry": "geometry.mario-mash-up.Larry",
       "texture": "Larry.png",
       "type": "free"
     },
     {
       "localization_name": "Iggy",
-      "geometry": "geometry.MarioBrothers.Iggy",
+      "geometry": "geometry.mario-mash-up.Iggy",
       "texture": "Iggy.png",
       "type": "free"
     },
     {
       "localization_name": "Roy",
-      "geometry": "geometry.MarioBrothers.Roy",
+      "geometry": "geometry.mario-mash-up.Roy",
       "texture": "Roy.png",
       "type": "free"
     },
     {
       "localization_name": "Ludwig",
-      "geometry": "geometry.MarioBrothers.Ludwig",
+      "geometry": "geometry.mario-mash-up.Ludwig",
       "texture": "Ludwig.png",
       "type": "free"
     },
     {
       "localization_name": "Rosalina",
-      "geometry": "geometry.MarioBrothers.Rosalina",
+      "geometry": "geometry.mario-mash-up.Rosalina",
       "texture": "Rosalina.png",
       "type": "free"
     },
     {
       "localization_name": "Toadette",
-      "geometry": "geometry.MarioBrothers.Toadette",
+      "geometry": "geometry.mario-mash-up.Toadette",
       "texture": "Toadette.png",
       "type": "free"
     },
     {
       "localization_name": "Birdo",
-      "geometry": "geometry.MarioBrothers.Birdo",
+      "geometry": "geometry.mario-mash-up.Birdo",
       "texture": "Birdo.png",
       "type": "free"
     },
     {
       "localization_name": "DrMario",
-      "geometry": "geometry.MarioBrothers.DrMario",
+      "geometry": "geometry.mario-mash-up.DrMario",
       "texture": "DrMario.png",
       "type": "free"
     },
     {
       "localization_name": "Kamek",
-      "geometry": "geometry.MarioBrothers.Kamek",
+      "geometry": "geometry.mario-mash-up.Kamek",
       "texture": "Kamek.png",
       "type": "free"
     },
     {
       "localization_name": "KoopaTroopa",
-      "geometry": "geometry.MarioBrothers.KoopaTroopa",
+      "geometry": "geometry.mario-mash-up.KoopaTroopa",
       "texture": "KoopaTroopa.png",
       "type": "free"
     },
     {
       "localization_name": "ShyGuy",
-      "geometry": "geometry.MarioBrothers.ShyGuy",
+      "geometry": "geometry.mario-mash-up.ShyGuy",
       "texture": "ShyGuy.png",
       "type": "free"
     },
     {
       "localization_name": "HammerBro",
-      "geometry": "geometry.MarioBrothers.HammerBro",
+      "geometry": "geometry.mario-mash-up.HammerBro",
       "texture": "HammerBro.png",
       "type": "free"
     },
     {
       "localization_name": "BoomBoom",
-      "geometry": "geometry.MarioBrothers.BoomBoom",
+      "geometry": "geometry.mario-mash-up.BoomBoom",
       "texture": "BoomBoom.png",
       "type": "free"
     },
     {
       "localization_name": "KitsuneLuigi",
-      "geometry": "geometry.MarioBrothers.KitsuneLuigi",
+      "geometry": "geometry.mario-mash-up.KitsuneLuigi",
       "texture": "KitsuneLuigi.png",
       "type": "free"
     },
     {
       "localization_name": "DryBones",
-      "geometry": "geometry.MarioBrothers.DryBones",
+      "geometry": "geometry.mario-mash-up.DryBones",
       "texture": "DryBones.png",
       "type": "free"
     },
     {
       "localization_name": "BowserJr",
-      "geometry": "geometry.MarioBrothers.BowserJr",
+      "geometry": "geometry.mario-mash-up.BowserJr",
       "texture": "BowserJr.png",
       "type": "free"
     },
     {
       "localization_name": "FireMario",
-      "geometry": "geometry.MarioBrothers.FireMario",
+      "geometry": "geometry.mario-mash-up.FireMario",
       "texture": "FireMario.png",
       "type": "free"
     },
     {
       "localization_name": "TanookiMario",
-      "geometry": "geometry.MarioBrothers.TanookiMario",
+      "geometry": "geometry.mario-mash-up.TanookiMario",
       "texture": "TanookiMario.png",
       "type": "free"
     },
     {
       "localization_name": "BoomerangMario",
-      "geometry": "geometry.MarioBrothers.BoomerangMario",
+      "geometry": "geometry.mario-mash-up.BoomerangMario",
       "texture": "BoomerangMario.png",
       "type": "free"
     },
     {
       "localization_name": "PropellerMario",
-      "geometry": "geometry.MarioBrothers.PropellerMario",
+      "geometry": "geometry.mario-mash-up.PropellerMario",
       "texture": "PropellerMario.png",
       "type": "free"
     },
     {
       "localization_name": "CatMario",
-      "geometry": "geometry.MarioBrothers.CatMario",
+      "geometry": "geometry.mario-mash-up.CatMario",
       "texture": "CatMario.png",
       "type": "free"
     },
     {
       "localization_name": "CatPeach",
-      "geometry": "geometry.MarioBrothers.CatPeach",
+      "geometry": "geometry.mario-mash-up.CatPeach",
       "texture": "CatPeach.png",
       "type": "free"
     }
   ],
-  "serialize_name": "MarioBrothers",
-  "localization_name": "MarioBrothers"
+  "serialize_name": "mario-mash-up",
+  "localization_name": "mario-mash-up"
 }

@@ -1,5 +1,5 @@
 {
-  "geometry.PowerRangers.Alpha5": {
+  "geometry.mighty-morphin-power-rangers.Alpha5": {
     "bones": [
       {
         "pivot": [
@@ -579,7 +579,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.BlackRangerDragonShield": {
+  "geometry.mighty-morphin-power-rangers.BlackRangerDragonShield": {
     "bones": [
       {
         "pivot": [
@@ -1125,7 +1125,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.BlackRanger": {
+  "geometry.mighty-morphin-power-rangers.BlackRanger": {
     "bones": [
       {
         "pivot": [
@@ -1601,7 +1601,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.BlueRanger": {
+  "geometry.mighty-morphin-power-rangers.BlueRanger": {
     "bones": [
       {
         "pivot": [
@@ -2077,7 +2077,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.Bulk": {
+  "geometry.mighty-morphin-power-rangers.Bulk": {
     "bones": [
       {
         "pivot": [
@@ -2748,7 +2748,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.Goldar": {
+  "geometry.mighty-morphin-power-rangers.Goldar": {
     "bones": [
       {
         "pivot": [
@@ -3416,7 +3416,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.GreenRanger": {
+  "geometry.mighty-morphin-power-rangers.GreenRanger": {
     "bones": [
       {
         "pivot": [
@@ -3962,7 +3962,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.LordZedd": {
+  "geometry.mighty-morphin-power-rangers.LordZedd": {
     "bones": [
       {
         "pivot": [
@@ -4725,7 +4725,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.Megazord": {
+  "geometry.mighty-morphin-power-rangers.Megazord": {
     "bones": [
       {
         "pivot": [
@@ -5519,7 +5519,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.Ninjor": {
+  "geometry.mighty-morphin-power-rangers.Ninjor": {
     "bones": [
       {
         "pivot": [
@@ -6148,7 +6148,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.PinkRanger": {
+  "geometry.mighty-morphin-power-rangers.PinkRanger": {
     "bones": [
       {
         "pivot": [
@@ -6624,7 +6624,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.Putty": {
+  "geometry.mighty-morphin-power-rangers.Putty": {
     "bones": [
       {
         "pivot": [
@@ -7100,7 +7100,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.RedRangerDragonShield": {
+  "geometry.mighty-morphin-power-rangers.RedRangerDragonShield": {
     "bones": [
       {
         "pivot": [
@@ -7646,7 +7646,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.RedRanger": {
+  "geometry.mighty-morphin-power-rangers.RedRanger": {
     "bones": [
       {
         "pivot": [
@@ -8122,7 +8122,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.RitaRepulsa": {
+  "geometry.mighty-morphin-power-rangers.RitaRepulsa": {
     "bones": [
       {
         "pivot": [
@@ -8918,7 +8918,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.RitoRevolto": {
+  "geometry.mighty-morphin-power-rangers.RitoRevolto": {
     "bones": [
       {
         "pivot": [
@@ -10597,7 +10597,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.Scorpina": {
+  "geometry.mighty-morphin-power-rangers.Scorpina": {
     "bones": [
       {
         "pivot": [
@@ -11105,7 +11105,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.Skull": {
+  "geometry.mighty-morphin-power-rangers.Skull": {
     "bones": [
       {
         "pivot": [
@@ -11688,7 +11688,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "slim"
   },
-  "geometry.PowerRangers.WhiteRanger": {
+  "geometry.mighty-morphin-power-rangers.WhiteRanger": {
     "bones": [
       {
         "pivot": [
@@ -12234,7 +12234,7 @@
     "META_ModelVersion": "1.0.6",
     "rigtype": "normal"
   },
-  "geometry.PowerRangers.YellowRanger": {
+  "geometry.mighty-morphin-power-rangers.YellowRanger": {
     "bones": [
       {
         "pivot": [

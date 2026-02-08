@@ -1,5 +1,5 @@
 {
-  "geometry.Simpsons.BartSimpson": {
+  "geometry.the-simpsons-skin-pack.BartSimpson": {
     "bones": [
       {
         "pivot": [
@@ -789,7 +789,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Database": {
+  "geometry.the-simpsons-skin-pack.Database": {
     "bones": [
       {
         "pivot": [
@@ -1833,7 +1833,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Dolph": {
+  "geometry.the-simpsons-skin-pack.Dolph": {
     "bones": [
       {
         "pivot": [
@@ -2252,7 +2252,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.GroundskeeperWillie": {
+  "geometry.the-simpsons-skin-pack.GroundskeeperWillie": {
     "bones": [
       {
         "pivot": [
@@ -2847,7 +2847,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.HomerSimpson": {
+  "geometry.the-simpsons-skin-pack.HomerSimpson": {
     "bones": [
       {
         "pivot": [
@@ -3817,7 +3817,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.JaneyPowell": {
+  "geometry.the-simpsons-skin-pack.JaneyPowell": {
     "bones": [
       {
         "pivot": [
@@ -4486,7 +4486,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.JimboJones": {
+  "geometry.the-simpsons-skin-pack.JimboJones": {
     "bones": [
       {
         "pivot": [
@@ -5028,7 +5028,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Kearney": {
+  "geometry.the-simpsons-skin-pack.Kearney": {
     "bones": [
       {
         "pivot": [
@@ -5572,7 +5572,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.LisaSimpson": {
+  "geometry.the-simpsons-skin-pack.LisaSimpson": {
     "bones": [
       {
         "pivot": [
@@ -6365,7 +6365,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MaggieSimpson": {
+  "geometry.the-simpsons-skin-pack.MaggieSimpson": {
     "bones": [
       {
         "pivot": [
@@ -6996,7 +6996,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MargeSimpson": {
+  "geometry.the-simpsons-skin-pack.MargeSimpson": {
     "bones": [
       {
         "pivot": [
@@ -7733,7 +7733,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MartinPrince": {
+  "geometry.the-simpsons-skin-pack.MartinPrince": {
     "bones": [
       {
         "pivot": [
@@ -8239,7 +8239,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MilhouseVanHouten": {
+  "geometry.the-simpsons-skin-pack.MilhouseVanHouten": {
     "bones": [
       {
         "pivot": [
@@ -8765,7 +8765,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MrDeweyLargo": {
+  "geometry.the-simpsons-skin-pack.MrDeweyLargo": {
     "bones": [
       {
         "pivot": [
@@ -9432,7 +9432,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.MrsEdnaKrabappel": {
+  "geometry.the-simpsons-skin-pack.MrsEdnaKrabappel": {
     "bones": [
       {
         "pivot": [
@@ -10027,7 +10027,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.NelsonMuntz": {
+  "geometry.the-simpsons-skin-pack.NelsonMuntz": {
     "bones": [
       {
         "pivot": [
@@ -10912,7 +10912,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.OttoMann": {
+  "geometry.the-simpsons-skin-pack.OttoMann": {
     "bones": [
       {
         "pivot": [
@@ -11704,7 +11704,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.PrincipalSeymourSkinner": {
+  "geometry.the-simpsons-skin-pack.PrincipalSeymourSkinner": {
     "bones": [
       {
         "pivot": [
@@ -12245,7 +12245,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.RalphWiggum": {
+  "geometry.the-simpsons-skin-pack.RalphWiggum": {
     "bones": [
       {
         "pivot": [
@@ -13092,7 +13092,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Sherri": {
+  "geometry.the-simpsons-skin-pack.Sherri": {
     "bones": [
       {
         "pivot": [
@@ -13653,7 +13653,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.SuperintendentGaryChalmers": {
+  "geometry.the-simpsons-skin-pack.SuperintendentGaryChalmers": {
     "bones": [
       {
         "pivot": [
@@ -14141,7 +14141,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Terri": {
+  "geometry.the-simpsons-skin-pack.Terri": {
     "bones": [
       {
         "pivot": [
@@ -14702,7 +14702,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Uter": {
+  "geometry.the-simpsons-skin-pack.Uter": {
     "bones": [
       {
         "pivot": [
@@ -15659,7 +15659,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.Simpsons.Wendell": {
+  "geometry.the-simpsons-skin-pack.Wendell": {
     "bones": [
       {
         "pivot": [

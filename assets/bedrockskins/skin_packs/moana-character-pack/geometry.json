@@ -1,5 +1,5 @@
 {
-  "geometry.MoanaCharacterPack.ChiefTui": {
+  "geometry.moana-character-pack.ChiefTui": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -832,7 +832,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.FishMonster": {
+  "geometry.moana-character-pack.FishMonster": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1959,7 +1959,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.GrammaTala": {
+  "geometry.moana-character-pack.GrammaTala": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2693,7 +2693,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.GrammaTalaGhost": {
+  "geometry.moana-character-pack.GrammaTalaGhost": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3392,7 +3392,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Heihei": {
+  "geometry.moana-character-pack.Heihei": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -4274,7 +4274,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Kakamora1": {
+  "geometry.moana-character-pack.Kakamora1": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5130,7 +5130,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Kakamora2": {
+  "geometry.moana-character-pack.Kakamora2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -5988,7 +5988,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Kakamora3": {
+  "geometry.moana-character-pack.Kakamora3": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -6790,7 +6790,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.KakamoraChief": {
+  "geometry.moana-character-pack.KakamoraChief": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -7736,7 +7736,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.MataiVasa": {
+  "geometry.moana-character-pack.MataiVasa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -8476,7 +8476,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Maui": {
+  "geometry.moana-character-pack.Maui": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -9715,7 +9715,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.MauiHalfShark": {
+  "geometry.moana-character-pack.MauiHalfShark": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -10783,7 +10783,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.MauiHawk": {
+  "geometry.moana-character-pack.MauiHawk": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -12048,7 +12048,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Moana": {
+  "geometry.moana-character-pack.Moana": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -13036,7 +13036,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.MoanaCeremony": {
+  "geometry.moana-character-pack.MoanaCeremony": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14005,7 +14005,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Ocean": {
+  "geometry.moana-character-pack.Ocean": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -14665,7 +14665,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.PolynesianFemale1": {
+  "geometry.moana-character-pack.PolynesianFemale1": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -15725,7 +15725,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.PolynesianFemale2": {
+  "geometry.moana-character-pack.PolynesianFemale2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -16316,7 +16316,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.PolynesianMale1": {
+  "geometry.moana-character-pack.PolynesianMale1": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17058,7 +17058,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.PolynesianMale2": {
+  "geometry.moana-character-pack.PolynesianMale2": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -17800,7 +17800,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Pua": {
+  "geometry.moana-character-pack.Pua": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -18819,7 +18819,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Sina": {
+  "geometry.moana-character-pack.Sina": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -19519,7 +19519,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.SlothMonster": {
+  "geometry.moana-character-pack.SlothMonster": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -20630,7 +20630,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.Tamatoa": {
+  "geometry.moana-character-pack.Tamatoa": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -21786,7 +21786,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MoanaCharacterPack.TamatoaBioluminescent": {
+  "geometry.moana-character-pack.TamatoaBioluminescent": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,

@@ -1,5 +1,5 @@
 {
-  "geometry.MiniGameMasters.BlazeBattler": {
+  "geometry.mini-game-masters-skin-pack.BlazeBattler": {
     "bones": [
       {
         "pivot": [
@@ -680,7 +680,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.BlazeGlider": {
+  "geometry.mini-game-masters-skin-pack.BlazeGlider": {
     "bones": [
       {
         "pivot": [
@@ -1201,7 +1201,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.BlazeTumbler": {
+  "geometry.mini-game-masters-skin-pack.BlazeTumbler": {
     "bones": [
       {
         "pivot": [
@@ -1848,7 +1848,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.CreeperBattler": {
+  "geometry.mini-game-masters-skin-pack.CreeperBattler": {
     "bones": [
       {
         "pivot": [
@@ -2618,7 +2618,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.CreeperGlider": {
+  "geometry.mini-game-masters-skin-pack.CreeperGlider": {
     "bones": [
       {
         "pivot": [
@@ -3104,7 +3104,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.CreeperTumbler": {
+  "geometry.mini-game-masters-skin-pack.CreeperTumbler": {
     "bones": [
       {
         "pivot": [
@@ -3643,7 +3643,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.EndBattler": {
+  "geometry.mini-game-masters-skin-pack.EndBattler": {
     "bones": [
       {
         "pivot": [
@@ -4307,7 +4307,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.EndGlider": {
+  "geometry.mini-game-masters-skin-pack.EndGlider": {
     "bones": [
       {
         "pivot": [
@@ -4953,7 +4953,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.EndTumbler": {
+  "geometry.mini-game-masters-skin-pack.EndTumbler": {
     "bones": [
       {
         "pivot": [
@@ -5511,7 +5511,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GhastBattler": {
+  "geometry.mini-game-masters-skin-pack.GhastBattler": {
     "bones": [
       {
         "pivot": [
@@ -6067,7 +6067,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GhastGlider": {
+  "geometry.mini-game-masters-skin-pack.GhastGlider": {
     "bones": [
       {
         "pivot": [
@@ -6606,7 +6606,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GhastTumbler": {
+  "geometry.mini-game-masters-skin-pack.GhastTumbler": {
     "bones": [
       {
         "pivot": [
@@ -7199,7 +7199,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GuardianBattler": {
+  "geometry.mini-game-masters-skin-pack.GuardianBattler": {
     "bones": [
       {
         "pivot": [
@@ -8007,7 +8007,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GuardianGlider": {
+  "geometry.mini-game-masters-skin-pack.GuardianGlider": {
     "bones": [
       {
         "pivot": [
@@ -8744,7 +8744,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.GuardianTumbler": {
+  "geometry.mini-game-masters-skin-pack.GuardianTumbler": {
     "bones": [
       {
         "pivot": [
@@ -9319,7 +9319,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.PigBattler": {
+  "geometry.mini-game-masters-skin-pack.PigBattler": {
     "bones": [
       {
         "pivot": [
@@ -10018,7 +10018,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.PigGlider": {
+  "geometry.mini-game-masters-skin-pack.PigGlider": {
     "bones": [
       {
         "pivot": [
@@ -10539,7 +10539,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.PigTumbler": {
+  "geometry.mini-game-masters-skin-pack.PigTumbler": {
     "bones": [
       {
         "pivot": [
@@ -11312,7 +11312,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.SquidBattler": {
+  "geometry.mini-game-masters-skin-pack.SquidBattler": {
     "bones": [
       {
         "pivot": [
@@ -11798,7 +11798,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.SquidGlider": {
+  "geometry.mini-game-masters-skin-pack.SquidGlider": {
     "bones": [
       {
         "pivot": [
@@ -12319,7 +12319,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.SquidTumbler": {
+  "geometry.mini-game-masters-skin-pack.SquidTumbler": {
     "bones": [
       {
         "pivot": [
@@ -12894,7 +12894,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WitherBattler": {
+  "geometry.mini-game-masters-skin-pack.WitherBattler": {
     "bones": [
       {
         "pivot": [
@@ -13450,7 +13450,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WitherGlider": {
+  "geometry.mini-game-masters-skin-pack.WitherGlider": {
     "bones": [
       {
         "pivot": [
@@ -13936,7 +13936,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WitherTumbler": {
+  "geometry.mini-game-masters-skin-pack.WitherTumbler": {
     "bones": [
       {
         "pivot": [
@@ -14545,7 +14545,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WolfBattler": {
+  "geometry.mini-game-masters-skin-pack.WolfBattler": {
     "bones": [
       {
         "pivot": [
@@ -15102,7 +15102,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WolfGlider": {
+  "geometry.mini-game-masters-skin-pack.WolfGlider": {
     "bones": [
       {
         "pivot": [
@@ -15659,7 +15659,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.WolfTumbler": {
+  "geometry.mini-game-masters-skin-pack.WolfTumbler": {
     "bones": [
       {
         "pivot": [
@@ -16288,7 +16288,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.ZombieBattler": {
+  "geometry.mini-game-masters-skin-pack.ZombieBattler": {
     "bones": [
       {
         "pivot": [
@@ -17007,7 +17007,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.ZombieGlider": {
+  "geometry.mini-game-masters-skin-pack.ZombieGlider": {
     "bones": [
       {
         "pivot": [
@@ -17636,7 +17636,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.MiniGameMasters.ZombieTumbler": {
+  "geometry.mini-game-masters-skin-pack.ZombieTumbler": {
     "bones": [
       {
         "pivot": [

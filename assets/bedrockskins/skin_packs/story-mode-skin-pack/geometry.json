@@ -1,5 +1,5 @@
 {
-  "geometry.StoryMode.Axel": {
+  "geometry.story-mode-skin-pack.Axel": {
     "bones": [
       {
         "pivot": [
@@ -622,7 +622,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.AxelArmored": {
+  "geometry.story-mode-skin-pack.AxelArmored": {
     "bones": [
       {
         "pivot": [
@@ -1337,7 +1337,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Ellegaard": {
+  "geometry.story-mode-skin-pack.Ellegaard": {
     "bones": [
       {
         "pivot": [
@@ -2364,7 +2364,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.EllegaardArmored": {
+  "geometry.story-mode-skin-pack.EllegaardArmored": {
     "bones": [
       {
         "pivot": [
@@ -3228,7 +3228,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Gabriel": {
+  "geometry.story-mode-skin-pack.Gabriel": {
     "bones": [
       {
         "pivot": [
@@ -3930,7 +3930,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Ivor": {
+  "geometry.story-mode-skin-pack.Ivor": {
     "bones": [
       {
         "pivot": [
@@ -4963,7 +4963,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseF": {
+  "geometry.story-mode-skin-pack.JesseF": {
     "bones": [
       {
         "pivot": [
@@ -5864,7 +5864,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseFA": {
+  "geometry.story-mode-skin-pack.JesseFA": {
     "bones": [
       {
         "pivot": [
@@ -6765,7 +6765,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseFAArmored": {
+  "geometry.story-mode-skin-pack.JesseFAArmored": {
     "bones": [
       {
         "pivot": [
@@ -7844,7 +7844,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseFB": {
+  "geometry.story-mode-skin-pack.JesseFB": {
     "bones": [
       {
         "pivot": [
@@ -8745,7 +8745,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseFBArmored": {
+  "geometry.story-mode-skin-pack.JesseFBArmored": {
     "bones": [
       {
         "pivot": [
@@ -9824,7 +9824,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseFArmored": {
+  "geometry.story-mode-skin-pack.JesseFArmored": {
     "bones": [
       {
         "pivot": [
@@ -10761,7 +10761,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseM": {
+  "geometry.story-mode-skin-pack.JesseM": {
     "bones": [
       {
         "pivot": [
@@ -11235,7 +11235,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseMA": {
+  "geometry.story-mode-skin-pack.JesseMA": {
     "bones": [
       {
         "pivot": [
@@ -11709,7 +11709,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseMAArmored": {
+  "geometry.story-mode-skin-pack.JesseMAArmored": {
     "bones": [
       {
         "pivot": [
@@ -12297,7 +12297,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseMB": {
+  "geometry.story-mode-skin-pack.JesseMB": {
     "bones": [
       {
         "pivot": [
@@ -12771,7 +12771,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseMBArmored": {
+  "geometry.story-mode-skin-pack.JesseMBArmored": {
     "bones": [
       {
         "pivot": [
@@ -13359,7 +13359,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.JesseMArmored": {
+  "geometry.story-mode-skin-pack.JesseMArmored": {
     "bones": [
       {
         "pivot": [
@@ -13947,7 +13947,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Lukas": {
+  "geometry.story-mode-skin-pack.Lukas": {
     "bones": [
       {
         "pivot": [
@@ -14451,7 +14451,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Magnus": {
+  "geometry.story-mode-skin-pack.Magnus": {
     "bones": [
       {
         "pivot": [
@@ -14990,7 +14990,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.MagnusArmored": {
+  "geometry.story-mode-skin-pack.MagnusArmored": {
     "bones": [
       {
         "pivot": [
@@ -15529,7 +15529,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Olivia": {
+  "geometry.story-mode-skin-pack.Olivia": {
     "bones": [
       {
         "pivot": [
@@ -16598,7 +16598,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.OliviaArmored": {
+  "geometry.story-mode-skin-pack.OliviaArmored": {
     "bones": [
       {
         "pivot": [
@@ -17453,7 +17453,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Petra": {
+  "geometry.story-mode-skin-pack.Petra": {
     "bones": [
       {
         "pivot": [
@@ -18083,7 +18083,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.PetraArmored": {
+  "geometry.story-mode-skin-pack.PetraArmored": {
     "bones": [
       {
         "pivot": [
@@ -18767,7 +18767,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.Soren": {
+  "geometry.story-mode-skin-pack.Soren": {
     "bones": [
       {
         "pivot": [
@@ -19802,7 +19802,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.StoryMode.SorenArmored": {
+  "geometry.story-mode-skin-pack.SorenArmored": {
     "bones": [
       {
         "pivot": [

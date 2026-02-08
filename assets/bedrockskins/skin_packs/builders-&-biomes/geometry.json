@@ -1,5 +1,5 @@
 {
-  "geometry.BuildersBiomes.butcher": {
+  "geometry.builders-&-biomes.butcher": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -192,7 +192,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.butcher2": {
+  "geometry.builders-&-biomes.butcher2": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -385,7 +385,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.builder": {
+  "geometry.builders-&-biomes.builder": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -578,7 +578,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.healer": {
+  "geometry.builders-&-biomes.healer": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -771,7 +771,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.bee": {
+  "geometry.builders-&-biomes.bee": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -964,7 +964,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.bee2": {
+  "geometry.builders-&-biomes.bee2": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -1157,7 +1157,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.ranger": {
+  "geometry.builders-&-biomes.ranger": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -1350,7 +1350,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.pig": {
+  "geometry.builders-&-biomes.pig": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [
@@ -1543,7 +1543,7 @@
     "animationUpsideDown": false,
     "animationInvertedCrouch": false
   },
-  "geometry.BuildersBiomes.pig2": {
+  "geometry.builders-&-biomes.pig2": {
     "texturewidth": 64,
     "textureheight": 64,
     "bones": [

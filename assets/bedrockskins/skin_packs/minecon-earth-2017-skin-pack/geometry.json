@@ -1,5 +1,5 @@
 {
-  "geometry.MINECONEarth2017.Alexglobe": {
+  "geometry.minecon-earth-2017-skin-pack.Alexglobe": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -485,7 +485,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Cardboardcosplayer": {
+  "geometry.minecon-earth-2017-skin-pack.Cardboardcosplayer": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -971,7 +971,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Cosplayermineconsheep": {
+  "geometry.minecon-earth-2017-skin-pack.Cosplayermineconsheep": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1457,7 +1457,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Creepercosplay": {
+  "geometry.minecon-earth-2017-skin-pack.Creepercosplay": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -1943,7 +1943,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Partyalex": {
+  "geometry.minecon-earth-2017-skin-pack.Partyalex": {
     "animationArmsDown": false,
     "animationArmsOutFront": false,
     "animationDontShowArmor": false,
@@ -2341,7 +2341,7 @@
       }
     ]
   },
-  "geometry.MINECONEarth2017.Partysteve": {
+  "geometry.minecon-earth-2017-skin-pack.Partysteve": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -2827,7 +2827,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Pinatacosplay": {
+  "geometry.minecon-earth-2017-skin-pack.Pinatacosplay": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
@@ -3313,7 +3313,7 @@
     "textureheight": 64,
     "texturewidth": 64
   },
-  "geometry.MINECONEarth2017.Stevecake": {
+  "geometry.minecon-earth-2017-skin-pack.Stevecake": {
     "META_ModelVersion": "1.0.6",
     "animationArmsDown": false,
     "animationArmsOutFront": false,
