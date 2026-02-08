@@ -4,4 +4,6 @@ Me
 Myself  
 I  
 
+If you have pack icons for any of these packs without the minecraft logo, please do a PR....   
+   
 Coming to modrinth
