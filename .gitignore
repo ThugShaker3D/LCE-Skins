@@ -1,0 +1,19 @@
+# Ignore Releases
+
+*.zip
+*.rar
+*.7z
+
+# Ignore backups
+*.backup.png
+
+# Ignore helper scripts
+
+*.py
+*.bat
+*.ps1
+*.ps2
+*.ps3
+*.exe
+*.sh
+*.ps
