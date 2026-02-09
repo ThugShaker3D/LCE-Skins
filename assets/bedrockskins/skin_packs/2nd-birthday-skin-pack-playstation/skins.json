@@ -138,12 +138,14 @@
       "localization_name": "Party_Robed_Figure_-_Red",
       "geometry": "geometry.Party_Robed_Figure_-_Red",
       "texture": "Party_Robed_Figure_-_Red.png",
+      "cape": "Party_Robed_Figure_-_Red_cape.png",
       "type": "free"
     },
     {
       "localization_name": "Party_Robed_Figure_-_White",
       "geometry": "geometry.Party_Robed_Figure_-_White",
       "texture": "Party_Robed_Figure_-_White.png",
+      "cape": "Party_Robed_Figure_-_White_cape.png",
       "type": "free"
     }
   ]
