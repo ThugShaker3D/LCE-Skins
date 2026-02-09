@@ -179,7 +179,7 @@
     {
       "localization_name": "'Splosion_Man",
       "geometry": "geometry.humanoid.custom",
-      "texture": "'Splosion_Man.png",
+      "texture": "Splosion_Man.png",
       "type": "free"
     },
     {
@@ -197,7 +197,7 @@
     {
       "localization_name": "Ms._'Splosion_Man",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Ms._'Splosion_Man.png",
+      "texture": "Ms_Splosion_Man.png",
       "type": "free"
     },
     {
