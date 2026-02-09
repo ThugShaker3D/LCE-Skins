@@ -1,1 +1,258 @@
-{"serialize_name":"name","localization_name":"name","skins":[{"localization_name":"mr_incredible","geometry":"geometry.oreville.mr_incredible","texture":"mr_incredible.png","type":"free"},{"localization_name":"mrs_incredible","geometry":"geometry.oreville.mrs_incredible","texture":"mrs_incredible.png","type":"free"},{"localization_name":"violet","geometry":"geometry.oreville.violet","texture":"violet.png","type":"free"},{"localization_name":"dash","geometry":"geometry.oreville.dash","texture":"dash.png","type":"free"},{"localization_name":"frozone","geometry":"geometry.oreville.frozone","texture":"frozone.png","type":"free"},{"localization_name":"edna_mode","geometry":"geometry.oreville.edna_mode","texture":"edna_mode.png","type":"free"},{"localization_name":"underminer","geometry":"geometry.oreville.underminer","texture":"underminer.png","type":"free"},{"localization_name":"screenslaver","geometry":"geometry.oreville.screenslaver","texture":"screenslaver.png","type":"free"},{"localization_name":"bomb_voyage","geometry":"geometry.oreville.bomb_voyage","texture":"bomb_voyage.png","type":"free"}]}
+{
+  "serialize_name": "incredibles",
+  "localization_name": "incredibles",
+  "skins": [
+    {
+      "localization_name": "Mr._Incredible_Glory_Days",
+      "geometry": "geometry.Mr._Incredible_Glory_Days",
+      "texture": "Mr._Incredible_Glory_Days.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mr._Incredible",
+      "geometry": "geometry.Mr._Incredible",
+      "texture": "Mr._Incredible.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bob_Parr",
+      "geometry": "geometry.Bob_Parr",
+      "texture": "Bob_Parr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elastigirl_Glory_Days",
+      "geometry": "geometry.Elastigirl_Glory_Days",
+      "texture": "Elastigirl_Glory_Days.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Elastigirl",
+      "geometry": "geometry.Elastigirl",
+      "texture": "Elastigirl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Helen_Parr",
+      "geometry": "geometry.Helen_Parr",
+      "texture": "Helen_Parr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Violet",
+      "geometry": "geometry.Violet",
+      "texture": "Violet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Violet_Parr",
+      "geometry": "geometry.Violet_Parr",
+      "texture": "Violet_Parr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dash",
+      "geometry": "geometry.Dash",
+      "texture": "Dash.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dash_Parr",
+      "geometry": "geometry.Dash_Parr",
+      "texture": "Dash_Parr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mr._Incredible_&_Jack_Jack",
+      "geometry": "geometry.Mr._Incredible_&_Jack_Jack",
+      "texture": "Mr._Incredible_&_Jack_Jack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Frozone",
+      "geometry": "geometry.Frozone",
+      "texture": "Frozone.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Lucius_Best",
+      "geometry": "geometry.Lucius_Best",
+      "texture": "Lucius_Best.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Edna_Mode",
+      "geometry": "geometry.Edna_Mode",
+      "texture": "Edna_Mode.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Edna_Mode",
+      "geometry": "geometry.Edna_Mode",
+      "texture": "Edna_Mode.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Syndrome",
+      "geometry": "geometry.Syndrome",
+      "texture": "Syndrome.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Buddy_Pine",
+      "geometry": "geometry.Buddy_Pine",
+      "texture": "Buddy_Pine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bomb_Voyage",
+      "geometry": "geometry.Bomb_Voyage",
+      "texture": "Bomb_Voyage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mirage",
+      "geometry": "geometry.Mirage",
+      "texture": "Mirage.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Underminer",
+      "geometry": "geometry.Underminer",
+      "texture": "Underminer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gazerbeam",
+      "geometry": "geometry.Gazerbeam",
+      "texture": "Gazerbeam.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rick_Dicker",
+      "geometry": "geometry.Rick_Dicker",
+      "texture": "Rick_Dicker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evelyn_Deavor",
+      "geometry": "geometry.Evelyn_Deavor",
+      "texture": "Evelyn_Deavor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winston_Deavor",
+      "geometry": "geometry.Winston_Deavor",
+      "texture": "Winston_Deavor.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ambassador_Selick",
+      "geometry": "geometry.Ambassador_Selick",
+      "texture": "Ambassador_Selick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Voyd",
+      "geometry": "geometry.Voyd",
+      "texture": "Voyd.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Screenslaver",
+      "geometry": "geometry.Screenslaver",
+      "texture": "Screenslaver.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Brick",
+      "geometry": "geometry.Brick",
+      "texture": "Brick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reflux",
+      "geometry": "geometry.Reflux",
+      "texture": "Reflux.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Krushauer",
+      "geometry": "geometry.Krushauer",
+      "texture": "Krushauer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Helectrix",
+      "geometry": "geometry.Helectrix",
+      "texture": "Helectrix.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Screech",
+      "geometry": "geometry.Screech",
+      "texture": "Screech.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cliffhanger",
+      "geometry": "geometry.Cliffhanger",
+      "texture": "Cliffhanger.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Brainstorm",
+      "geometry": "geometry.Brainstorm",
+      "texture": "Brainstorm.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dehydra",
+      "geometry": "geometry.Dehydra",
+      "texture": "Dehydra.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Icebreaker",
+      "geometry": "geometry.Icebreaker",
+      "texture": "Icebreaker.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shock",
+      "geometry": "geometry.Shock",
+      "texture": "Shock.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Awe",
+      "geometry": "geometry.Awe",
+      "texture": "Awe.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zephyr",
+      "geometry": "geometry.Zephyr",
+      "texture": "Zephyr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Firebreak",
+      "geometry": "geometry.Firebreak",
+      "texture": "Firebreak.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vapora",
+      "geometry": "geometry.Vapora",
+      "texture": "Vapora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Diabla",
+      "geometry": "geometry.Diabla",
+      "texture": "Diabla.png",
+      "type": "free"
+    }
+  ]
+}
