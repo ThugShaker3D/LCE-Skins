@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Festive Mash-up",
+    "description": "I got a big ego, ah ha ha",
+    "uuid": "716a4655-f4c0-4850-8710-df5598cbed6c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "a880092a-c883-4de1-aefa-398888b53844",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

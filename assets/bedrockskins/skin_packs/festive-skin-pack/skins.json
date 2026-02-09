@@ -1,0 +1,150 @@
+{
+  "serialize_name": "name",
+  "localization_name": "name",
+  "skins": [
+    {
+      "localization_name": "Santa",
+      "geometry": "geometry.Santa",
+      "texture": "Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mrs_Claus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Mrs_Claus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rudolph",
+      "geometry": "geometry.Rudolph",
+      "texture": "Rudolph.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Reindeer",
+      "geometry": "geometry.Reindeer",
+      "texture": "Reindeer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Red_Elf",
+      "geometry": "geometry.Red_Elf",
+      "texture": "Red_Elf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Green_Elf",
+      "geometry": "geometry.Green_Elf",
+      "texture": "Green_Elf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snow_Golem",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Snow_Golem.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Pudding",
+      "geometry": "geometry.Zombie_Pudding",
+      "texture": "Zombie_Pudding.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Christmas_Creeper",
+      "geometry": "geometry.Christmas_Creeper",
+      "texture": "Christmas_Creeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Christmas_Skeleton",
+      "geometry": "geometry.Christmas_Skeleton",
+      "texture": "Christmas_Skeleton.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Santa_Steve",
+      "geometry": "geometry.Santa_Steve",
+      "texture": "Santa_Steve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Winter_Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Winter_Steve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Parka_Steve",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Parka_Steve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snowman",
+      "geometry": "geometry.Snowman",
+      "texture": "Snowman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Present",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Present.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Christmas_Tree",
+      "geometry": "geometry.Christmas_Tree",
+      "texture": "Christmas_Tree.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Christmas_Pudding",
+      "geometry": "geometry.Christmas_Pudding",
+      "texture": "Christmas_Pudding.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Zombie_Turkey",
+      "geometry": "geometry.Zombie_Turkey",
+      "texture": "Zombie_Turkey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Robin",
+      "geometry": "geometry.Robin",
+      "texture": "Robin.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bad_Santa",
+      "geometry": "geometry.Bad_Santa",
+      "texture": "Bad_Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gingerbread_Man",
+      "geometry": "geometry.Gingerbread_Man",
+      "texture": "Gingerbread_Man.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Gingerbread_Woman",
+      "geometry": "geometry.Gingerbread_Woman",
+      "texture": "Gingerbread_Woman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scrooge",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scrooge.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Marley's_Ghost",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Marley's_Ghost.png",
+      "type": "free"
+    }
+  ]
+}

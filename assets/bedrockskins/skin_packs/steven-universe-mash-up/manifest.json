@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Steven Universe Mash-up",
+    "uuid": "e3dfdeac-0249-445b-b37c-10bc7b90dd09",
+    "version": [
+      1,
+      0,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "859245b4-2b22-4c93-b0db-6ebfa0f92c24",
+      "version": [
+        1,
+        0,
+        80
+      ]
+    }
+  ]
+}

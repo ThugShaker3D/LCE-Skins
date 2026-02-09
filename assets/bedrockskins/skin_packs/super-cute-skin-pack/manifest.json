@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Super Cute Texture Pack",
+    "description": "I thought about killing you, I contemplated.",
+    "uuid": "2357299d-7723-44ad-b123-bfdca9c5cad3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "e4fc141d-15bf-4e93-a89c-f03f5bc0dc02",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

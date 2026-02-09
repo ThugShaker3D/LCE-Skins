@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "The Nightmare Before Christmas",
+    "uuid": "c307e65f-355e-4160-8863-57cf408a3bbc",
+    "version": [
+      1,
+      0,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "2c76516b-043b-4bf2-8a37-cfa8ad8f5b5f",
+      "version": [
+        1,
+        0,
+        80
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "serialize_name": "festive_mashup",
+  "localization_name": "festive_mashup",
+  "skins": [
+    {
+      "localization_name": "Fat_Santa",
+      "geometry": "geometry.Fat_Santa",
+      "texture": "Fat_Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Xmas_Herobrine",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas_Herobrine.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Small_Elf_1",
+      "geometry": "geometry.Small_Elf_1",
+      "texture": "Small_Elf_1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Small_Elf_2",
+      "geometry": "geometry.Small_Elf_2",
+      "texture": "Small_Elf_2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Small_Elf_3",
+      "geometry": "geometry.Small_Elf_3",
+      "texture": "Small_Elf_3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Evil_Elf",
+      "geometry": "geometry.Evil_Elf",
+      "texture": "Evil_Elf.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Green_Santa",
+      "geometry": "geometry.Green_Santa",
+      "texture": "Green_Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blue_Santa",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Blue_Santa.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dasher",
+      "geometry": "geometry.Dasher",
+      "texture": "Dasher.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Dancer",
+      "geometry": "geometry.Dancer",
+      "texture": "Dancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prancer",
+      "geometry": "geometry.Prancer",
+      "texture": "Prancer.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vixen",
+      "geometry": "geometry.Vixen",
+      "texture": "Vixen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Comet",
+      "geometry": "geometry.Comet",
+      "texture": "Comet.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cupid",
+      "geometry": "geometry.Cupid",
+      "texture": "Cupid.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Donner",
+      "geometry": "geometry.Donner",
+      "texture": "Donner.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blitzen",
+      "geometry": "geometry.Blitzen",
+      "texture": "Blitzen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rudolph",
+      "geometry": "geometry.Rudolph",
+      "texture": "Rudolph.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snow_Flake",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Snow_Flake.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Stocking",
+      "geometry": "geometry.Stocking",
+      "texture": "Stocking.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Candycane_Stick",
+      "geometry": "geometry.Candycane_Stick",
+      "texture": "Candycane_Stick.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Bigfoot",
+      "geometry": "geometry.Bigfoot",
+      "texture": "Bigfoot.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yeti",
+      "geometry": "geometry.Yeti",
+      "texture": "Yeti.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Krampus",
+      "geometry": "geometry.Krampus",
+      "texture": "Krampus.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tennis_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tennis_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tuxedo_Steve_Xmas",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tuxedo_Steve_Xmas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Athlete_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Athlete_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scottish_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scottish_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prisoner_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Prisoner_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclist_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclist_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Boxer_Steve_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Boxer_Steve_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tennis_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tennis_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tuxedo_Alex_Xmas",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Tuxedo_Alex_Xmas.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Athlete_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Athlete_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scottish_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Scottish_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Prisoner_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Prisoner_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cyclist_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cyclist_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Boxer_Alex_Xmas_Sweater",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Boxer_Alex_Xmas_Sweater.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ski_Steve",
+      "geometry": "geometry.Ski_Steve",
+      "texture": "Ski_Steve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Snow_Shoe_Steve",
+      "geometry": "geometry.Snow_Shoe_Steve",
+      "texture": "Snow_Shoe_Steve.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "tomte",
+      "geometry": "geometry.tomte",
+      "texture": "tomte.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Tree_Fairy",
+      "geometry": "geometry.Tree_Fairy",
+      "texture": "Tree_Fairy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Skier",
+      "geometry": "geometry.Skier",
+      "texture": "Skier.png",
+      "type": "free"
+    }
+  ]
+}

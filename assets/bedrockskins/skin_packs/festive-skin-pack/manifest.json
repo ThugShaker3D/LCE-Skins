@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Festive Skin Pack",
+    "description": "I am a maniac.",
+    "uuid": "c4922ab4-9111-4232-85af-9f75d0e94d8e",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "d0b5bd15-0249-4609-b6d5-b4ea66b4c230",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

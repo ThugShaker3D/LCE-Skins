@@ -1,0 +1,96 @@
+{
+  "serialize_name": "supercute",
+  "localization_name": "supercute",
+  "skins": [
+    {
+      "localization_name": "Woof",
+      "geometry": "geometry.Woof",
+      "texture": "Woof.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Mew",
+      "geometry": "geometry.Mew",
+      "texture": "Mew.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cheep",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Cheep.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rawr",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Rawr.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Whinny",
+      "geometry": "geometry.Whinny",
+      "texture": "Whinny.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spotty",
+      "geometry": "geometry.Spotty",
+      "texture": "Spotty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sniff",
+      "geometry": "geometry.Sniff",
+      "texture": "Sniff.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Spit",
+      "geometry": "geometry.Spit",
+      "texture": "Spit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Squirt",
+      "geometry": "geometry.Squirt",
+      "texture": "Squirt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Patty",
+      "geometry": "geometry.Patty",
+      "texture": "Patty.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ringo",
+      "geometry": "geometry.Ringo",
+      "texture": "Ringo.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scoop",
+      "geometry": "geometry.Scoop",
+      "texture": "Scoop.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Pop",
+      "geometry": "geometry.Pop",
+      "texture": "Pop.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Beep",
+      "geometry": "geometry.Beep",
+      "texture": "Beep.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Root",
+      "geometry": "geometry.Root",
+      "texture": "Root.png",
+      "type": "free"
+    }
+  ]
+}

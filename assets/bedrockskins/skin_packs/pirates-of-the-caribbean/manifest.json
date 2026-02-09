@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Pirates of the Caribbean",
+    "uuid": "aec334f3-e120-485d-b58b-27a2c420206f",
+    "version": [
+      1,
+      0,
+      86
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "07705699-5636-4795-bada-a08ed72c5378",
+      "version": [
+        1,
+        0,
+        86
+      ]
+    }
+  ]
+}

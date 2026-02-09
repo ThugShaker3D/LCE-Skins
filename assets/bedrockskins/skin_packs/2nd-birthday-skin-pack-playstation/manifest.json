@@ -1,1 +1,29 @@
-{"format_version":1,"header":{"name":"2nd Birthday Skin Pack (PlayStation)","uuid":"bad40ff8-6309-41f1-b044-b52710129239","version":[1,0,6]},"modules":[{"type":"skin_pack","uuid":"90837005-c46e-4c5f-b194-5705ec2ac403","version":[1,0,6]}]}
+{
+  "format_version": 2,
+  "header": {
+    "name": "2nd Birthday (PlayStation)",
+    "description": "PMO was here",
+    "uuid": "f91b54ff-d797-489c-9e89-e58a67e9fd1c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "09d2c647-a0f4-4051-be03-2b6208f231f6",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
