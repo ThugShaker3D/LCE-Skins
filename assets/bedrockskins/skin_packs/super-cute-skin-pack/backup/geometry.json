@@ -108,8 +108,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -162,8 +161,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightArm",
@@ -216,8 +214,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -270,8 +267,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -353,8 +349,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -382,8 +377,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "belt",
@@ -552,8 +546,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -632,8 +625,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -686,8 +678,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -768,8 +759,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -797,8 +787,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -826,8 +815,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "belt",
@@ -1013,8 +1001,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -1067,8 +1054,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightArm",
@@ -1121,8 +1107,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -1175,8 +1160,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -1258,8 +1242,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -1287,8 +1270,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "bodyarmor",
@@ -1560,8 +1542,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightArm",
@@ -1614,8 +1595,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -1668,8 +1648,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -1750,8 +1729,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -1779,8 +1757,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -1808,8 +1785,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "bodyarmor",
@@ -1930,8 +1906,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -1984,8 +1959,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightLeg",
@@ -2038,8 +2012,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "rightArm",
@@ -2146,8 +2119,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -2175,8 +2147,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -2204,8 +2175,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "belt",
@@ -2375,8 +2345,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -2429,8 +2398,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightArm",
@@ -2483,8 +2451,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -2537,8 +2504,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -2620,8 +2586,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -2649,8 +2614,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         }
       ]
     },
@@ -2712,8 +2676,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -2766,8 +2729,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightLeg",
@@ -2820,8 +2782,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "rightArm",
@@ -2928,8 +2889,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -2957,8 +2917,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -2986,8 +2945,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "belt",
@@ -3091,8 +3049,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -3171,8 +3128,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "rightArm",
@@ -3279,8 +3235,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightSleeve",
@@ -3307,8 +3262,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -3336,8 +3290,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -3365,8 +3318,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         }
       ]
     },
@@ -3593,8 +3545,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -3673,8 +3624,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "rightLeg",
@@ -3727,8 +3677,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -3809,8 +3758,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -3838,8 +3786,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -3867,8 +3814,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "sock0",
@@ -4081,8 +4027,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -4135,8 +4080,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightArm",
@@ -4215,8 +4159,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "leftArm",
@@ -4297,8 +4240,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -4326,8 +4268,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -4355,8 +4296,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         },
         {
           "name": "belt",
@@ -4434,8 +4374,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -4488,8 +4427,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightPants",
@@ -4516,8 +4454,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "head",
@@ -4708,8 +4645,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -4737,8 +4673,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -4766,8 +4701,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         }
       ]
     },
@@ -4911,8 +4845,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -4965,8 +4898,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightLeg",
@@ -5019,8 +4951,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "rightArm",
@@ -5193,8 +5124,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -5222,8 +5152,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -5251,8 +5180,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         }
       ]
     },
@@ -5314,8 +5242,7 @@
               ],
               "inflate": 0.5
             }
-          ],
-          "parent": "head"
+          ]
         },
         {
           "name": "body",
@@ -5368,8 +5295,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightLeg"
+          ]
         },
         {
           "name": "rightArm",
@@ -5502,8 +5428,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "body"
+          ]
         },
         {
           "name": "rightSleeve",
@@ -5530,8 +5455,7 @@
               ],
               "inflate": 0.25
             }
-          ],
-          "parent": "rightArm"
+          ]
         },
         {
           "name": "leftSleeve",
@@ -5559,8 +5483,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftArm"
+          ]
         },
         {
           "name": "leftPants",
@@ -5588,8 +5511,7 @@
               "inflate": 0.25,
               "mirror": true
             }
-          ],
-          "parent": "leftLeg"
+          ]
         }
       ]
     }
