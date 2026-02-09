@@ -1,5 +1,7 @@
 {
   "pack": {
-    "description": "Legacy Console Edition Skin Packs"
+    "min_format": 69,
+    "max_format": 75,
+    "description": "desc"
   }
 }
