@@ -5,8 +5,7 @@ Myself
 I  
 
 Special thanks:  
-Brandon (made bedrock skins)  
-Cjnator38 (told me to use an emulator)  
+Brandon (made bedrock skins)
 
 If you have pack icons for any of these packs without the minecraft logo, please do a PR....   
    
