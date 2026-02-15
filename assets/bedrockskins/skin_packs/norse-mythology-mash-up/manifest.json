@@ -1,0 +1,23 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Norse Mythology Mash-Up",
+    "uuid": "3a709a0d-3a01-48b3-8651-4aed73d9747a",
+    "version": [
+      1,
+      0,
+      63
+    ]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "b922da33-5b7f-4302-addc-4c7d71a2c1da",
+      "version": [
+        1,
+        0,
+        63
+      ]
+    }
+  ]
+}
